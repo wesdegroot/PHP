@@ -128,7 +128,7 @@ fclose($fh);
 //print_r($links);
 //print the websites.
 
-echo "finished see sitemap.xml";
+echo "finished see sitemap.xml\r\n";
 //send finished message...
 
 ?>
