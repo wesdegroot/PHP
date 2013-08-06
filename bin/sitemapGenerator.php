@@ -115,6 +115,9 @@ fwrite($fh, "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" xmlns
 
 for($i=0; $i<sizeof($links); $i++)
 {
+	$links = preg_replace("#&#", "&amp;", $links);
+	//make links good for sitemap.
+
 	fwrite($fh, "<url>\r\n<loc>".$links."</loc>\r\n<changefreq>daily</changefreq>\r\n<priority>1.00</priority>\r\n</url>\r\n");
 	//add site by site.
 }
