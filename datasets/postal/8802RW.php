@@ -13,10 +13,10 @@ $PostalCodesNL = array (
   'lat' => '53.1955662468698',
   'lon' => '5.5313456611252',
   'gMaps' => 'https://www.google.nl/maps/place/53.1955662468698,5.5313456611252',
-  'added' => '10-10-2015 12:18:49',
-  'rPid' => '561902290bcd2',
-  'mPid' => 'dd1bf0f2875bf9c726d57a86d3f14ad361d62f9d',
-  'sPid' => '85ca682ff384a2390ea2c6283badc2e9',
+  'added' => '10-10-2015 12:34:51',
+  'rPid' => '561905ebb48c4',
+  'mPid' => 'c552286c78ee53ed308411a73f5adb662d80167d',
+  'sPid' => '1abf705bfb1af3a24b3949a02d3c3b66',
 );
 
 ?>

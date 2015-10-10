@@ -1,0 +1,22 @@
+<?php
+
+$PostalCodesNL = array (
+  'postalcode' => '4600AW',
+  'postal' => '4600',
+  'code' => 'AW',
+  'from' => '0',
+  'to' => '10000',
+  'address' => 'Postbus',
+  'city' => 'Bergen op Zoom',
+  'province' => 'Noord-Brabant',
+  'province_short' => 'NB',
+  'lat' => '51.4919782662035',
+  'lon' => '4.2882456112476',
+  'gMaps' => 'https://www.google.nl/maps/place/51.4919782662035,4.2882456112476',
+  'added' => '10-10-2015 12:56:26',
+  'rPid' => '56190afa8ccc8',
+  'mPid' => '4a1b733000fdabe301672c64a3fb3cb57592029a',
+  'sPid' => 'f30b30039b5b2624b38374a4ea0b8ff9',
+);
+
+?>

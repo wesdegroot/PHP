@@ -1,0 +1,22 @@
+<?php
+
+$PostalCodesNL = array (
+  'postalcode' => '3260EA',
+  'postal' => '3260',
+  'code' => 'EA',
+  'from' => '0',
+  'to' => '10000',
+  'address' => 'Postbus',
+  'city' => 'Oud-Beijerland',
+  'province' => 'Zuid-Holland',
+  'province_short' => 'ZH',
+  'lat' => '51.8220805512215',
+  'lon' => '4.4217179450771',
+  'gMaps' => 'https://www.google.nl/maps/place/51.8220805512215,4.4217179450771',
+  'added' => '10-10-2015 13:33:39',
+  'rPid' => '561913b395f26',
+  'mPid' => '19163539ab0cef6a9273c90eace8687b162f628e',
+  'sPid' => 'f34eb7f54f388a86adc7e2c49afcaab1',
+);
+
+?>
