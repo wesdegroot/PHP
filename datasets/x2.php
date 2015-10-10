@@ -16,17 +16,13 @@ for ( $i=0; $i<sizeof($ex); $i++ )
 			$ex2[0] = substr ( $ex2[0], 1 );
 
 		$newArray[] = array(
-						"station" => substr($ex2[0], 0, -1),
+						"city"    => substr($ex2[0], 0, -1),
 						"short"   => strtoupper(substr($ex2[0], 0, 3)),
 						"address" => substr($ex2[0], 0, -1),
-						"gMaps"   => "https://www.google.nl/maps/place/" . urlencode(substr($ex2[0], 0, -1) . ",+The+Netherlands"),
-						"added"   => @date("d-m-Y H:i:s"),
-						"rPid"    => uniqid(),
-						"mPid"    => sha1(uniqid()),
-						"sPid"    => md5(uniqid())
+						"gMaps"   => "https://www.google.nl/maps/place/" . urlencode(substr($ex2[0], 0, -1) . ",+The+Netherlands")
 					   );
 	}
 }
 
-file_put_contents("CityNames_NL.php", "<?php\r\n\r\n\$TrainStationsNL = " . var_export($newArray, true) . ";\r\n\r\n?>");
+file_put_contents("CityNames_NL.php", "<?php\r\n\r\n\$CitysNL = " . var_export($newArray, true) . ";\r\n\r\n?>");
 ?>

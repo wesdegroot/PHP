@@ -7,10 +7,6 @@ $TrainStationsNL = array (
     'short' => 'AHBF',
     'address' => 'Aachen Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Aachen+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c484e',
-    'mPid' => '75643cacfa6df3e1bd109ce77fa566aafdc6e1b2',
-    'sPid' => 'b011e8b96d92af7261c458686e26d04d',
   ),
   1 => 
   array (
@@ -18,10 +14,6 @@ $TrainStationsNL = array (
     'short' => 'ARE',
     'address' => 'Aachen Rothe Erde',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Aachen+Rothe+Erde',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4885',
-    'mPid' => '2f380cc8d201eb86efb40dd7db755a70c676f13a',
-    'sPid' => 'f616245785b972a724695fcaa0ac7d08',
   ),
   2 => 
   array (
@@ -29,10 +21,6 @@ $TrainStationsNL = array (
     'short' => 'ASCH',
     'address' => 'Aachen Schanz',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Aachen+Schanz',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c48a3',
-    'mPid' => '44b8d216feec8f970928bd07d4530a8598578923',
-    'sPid' => '62004d5d5f1e868276ef9b095fdb1df0',
   ),
   3 => 
   array (
@@ -40,10 +28,6 @@ $TrainStationsNL = array (
     'short' => 'AW',
     'address' => 'Aachen West',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Aachen+West',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c48c2',
-    'mPid' => 'fb17b689129c61d95d70a38f5f7c0c5151d3d179',
-    'sPid' => '00020c21a808b99ce709a9b358e690a9',
   ),
   4 => 
   array (
@@ -51,10 +35,6 @@ $TrainStationsNL = array (
     'short' => 'ATN',
     'address' => 'Aalten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Aalten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c48de',
-    'mPid' => 'c24434daef5daa189a7cf93d6ca87ab9477a4824',
-    'sPid' => '205cf9ed214a044153ccf211d7064cb8',
   ),
   5 => 
   array (
@@ -62,10 +42,6 @@ $TrainStationsNL = array (
     'short' => 'AC',
     'address' => 'Abcoude',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Abcoude',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c48fd',
-    'mPid' => '396294605cb67c38e3fb49f208fd86f450bda9c9',
-    'sPid' => 'd61cc6777e8fba088cc3134c46e751e9',
   ),
   6 => 
   array (
@@ -73,10 +49,6 @@ $TrainStationsNL = array (
     'short' => 'EAHS',
     'address' => 'Ahaus',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ahaus',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4923',
-    'mPid' => 'f72b3fa6dd36217b22aaf84018f1abe4f25e46f1',
-    'sPid' => '62c0f2d926a4d7b074e6da34cc104cd2',
   ),
   7 => 
   array (
@@ -84,10 +56,6 @@ $TrainStationsNL = array (
     'short' => 'AIME',
     'address' => 'Aime-la-Plagne',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Aime-la-Plagne',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4945',
-    'mPid' => '83af6d29b7ff2a6e103b59b334ad8b3dd8cbfca8',
-    'sPid' => '78257ea54d9eab89a9d891961ed6e5c7',
   ),
   8 => 
   array (
@@ -95,10 +63,6 @@ $TrainStationsNL = array (
     'short' => 'AIXTGV',
     'address' => 'Aix-en-Provence',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Aix-en-Provence',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4963',
-    'mPid' => '81a3a968138c46a54a460024a85d3a0a8072a544',
-    'sPid' => 'be56865cf36580246ef7bcf78680b506',
   ),
   9 => 
   array (
@@ -106,10 +70,6 @@ $TrainStationsNL = array (
     'short' => 'AKM',
     'address' => 'Akkrum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Akkrum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4985',
-    'mPid' => '4e3dcc4f37f9da6e465aa5a2b159199aae9451b5',
-    'sPid' => '7ca1cb3951aa46ef482a0629978f3200',
   ),
   10 => 
   array (
@@ -117,10 +77,6 @@ $TrainStationsNL = array (
     'short' => 'ALBERT',
     'address' => 'Albertville',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Albertville',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c49a3',
-    'mPid' => 'c9a955453600d82af0d60374cd1d16258ab2ebdd',
-    'sPid' => 'a67206f3964f92eb0fd697c3a43fd8cc',
   ),
   11 => 
   array (
@@ -128,10 +84,6 @@ $TrainStationsNL = array (
     'short' => 'ALESS',
     'address' => 'Alessandria',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Alessandria',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c49c0',
-    'mPid' => 'e3db9de2407fd4786c9b6712865b9cbaf9e16145',
-    'sPid' => '9a01b3e982a7ea95633007f0d3497343',
   ),
   12 => 
   array (
@@ -139,10 +91,6 @@ $TrainStationsNL = array (
     'short' => 'AMR',
     'address' => 'Alkmaar',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Alkmaar',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c49e1',
-    'mPid' => 'a1cf1a140a530b683ef38f637e3c2af119dea405',
-    'sPid' => 'b8eafa87601d765e360acbcb05cf210b',
   ),
   13 => 
   array (
@@ -150,10 +98,6 @@ $TrainStationsNL = array (
     'short' => 'AMRN',
     'address' => 'Alkmaar Noord',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Alkmaar+Noord',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c49ff',
-    'mPid' => '19531b6729b00d0b30a56c7e22cab6054bb2fd15',
-    'sPid' => 'c8dc9f96830797ae4d3b2c582a276bea',
   ),
   14 => 
   array (
@@ -161,10 +105,6 @@ $TrainStationsNL = array (
     'short' => 'AML',
     'address' => 'Almelo',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almelo',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4a20',
-    'mPid' => 'd7332a042bdd4d3c7b73be97454465d4e4c0d887',
-    'sPid' => 'ca67c3f9ba8d765c7dcffbfa87d50809',
   ),
   15 => 
   array (
@@ -172,10 +112,6 @@ $TrainStationsNL = array (
     'short' => 'AMRI',
     'address' => 'Almelo de Riet',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almelo+de+Riet',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4a3e',
-    'mPid' => 'da73bb409496201fb3ee6d4f4f3f61027153f024',
-    'sPid' => '2245e551a4f4711dad0be687a18c8c4f',
   ),
   16 => 
   array (
@@ -183,10 +119,6 @@ $TrainStationsNL = array (
     'short' => 'ALMB',
     'address' => 'Almere Buiten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almere+Buiten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4a5b',
-    'mPid' => '9d0bfe6e2f03ca559c41db49fbdf512ca8bd6664',
-    'sPid' => '9770080e948f94cfbdcad5266e44d594',
   ),
   17 => 
   array (
@@ -194,10 +126,6 @@ $TrainStationsNL = array (
     'short' => 'ALM',
     'address' => 'Almere Centrum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almere+Centrum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4a79',
-    'mPid' => 'b633f8ba58963bcf33233d64986a9d5657182ea8',
-    'sPid' => '639401499289b40d249cc91401f4f801',
   ),
   18 => 
   array (
@@ -205,10 +133,6 @@ $TrainStationsNL = array (
     'short' => 'ALMM',
     'address' => 'Almere Muziekwijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almere+Muziekwijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4aa8',
-    'mPid' => '0c9416c0d50271b390ed2f23c7cbb1f21d1a558a',
-    'sPid' => '69f153c72e71e2f11107f2584707974e',
   ),
   19 => 
   array (
@@ -216,10 +140,6 @@ $TrainStationsNL = array (
     'short' => 'ALMO',
     'address' => 'Almere Oostvaarders',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almere+Oostvaarders',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4acb',
-    'mPid' => '23cac5a69274041b3b6de193362fa1a6818c1647',
-    'sPid' => '52ddbb2f9e2f2513eecf40cc881f3542',
   ),
   20 => 
   array (
@@ -227,10 +147,6 @@ $TrainStationsNL = array (
     'short' => 'ALMP',
     'address' => 'Almere Parkwijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almere+Parkwijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4af1',
-    'mPid' => '7bc6de686dbfb67bae5cde0fb1705b287a473ea6',
-    'sPid' => '9c045f66ffb284bde32cd011aedc37cd',
   ),
   21 => 
   array (
@@ -238,10 +154,6 @@ $TrainStationsNL = array (
     'short' => 'AMPO',
     'address' => 'Almere Poort',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almere+Poort',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4b15',
-    'mPid' => '1f4ee360b5cca6dec2c4c8a774c12271d57e1c45',
-    'sPid' => 'ad72bc54124d602f1a091fb015b76d53',
   ),
   22 => 
   array (
@@ -249,10 +161,6 @@ $TrainStationsNL = array (
     'short' => 'APN',
     'address' => 'Alphen a/d Rijn',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Alphen+a%2Fd+Rijn',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4b3a',
-    'mPid' => '8092a408690a049719aa128a2b74a761c6a7cb97',
-    'sPid' => '869c64cae83a537c60d08c622ee1f110',
   ),
   23 => 
   array (
@@ -260,10 +168,6 @@ $TrainStationsNL = array (
     'short' => 'EABG',
     'address' => 'Altenberge',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Altenberge',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4b5e',
-    'mPid' => 'd9c789023a98f8f2b111d19089ab1e01ea5cb26b',
-    'sPid' => 'ec87b6a9d6a8664e88fd94b0ea95d8c1',
   ),
   24 => 
   array (
@@ -271,10 +175,6 @@ $TrainStationsNL = array (
     'short' => 'AMF',
     'address' => 'Amersfoort',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amersfoort',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4b80',
-    'mPid' => 'ecedaae48cea922d326632a9ec4d9513a2bd0661',
-    'sPid' => '06cad49bd276c3c8b4074a14431b53b1',
   ),
   25 => 
   array (
@@ -282,10 +182,6 @@ $TrainStationsNL = array (
     'short' => 'AMFS',
     'address' => 'Amersfoort Schothorst',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amersfoort+Schothorst',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4ba6',
-    'mPid' => 'a26fa9457a0b48824128177da1502da7ed63759f',
-    'sPid' => '2dab75851483d7990cd8f46b15145498',
   ),
   26 => 
   array (
@@ -293,10 +189,6 @@ $TrainStationsNL = array (
     'short' => 'AVAT',
     'address' => 'Amersfoort Vathorst',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amersfoort+Vathorst',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4bc9',
-    'mPid' => '5efcd4718275067003cb15cd45a7570544c3b1d3',
-    'sPid' => 'e9926c37569a8679b7ca55b7a5b52b5a',
   ),
   27 => 
   array (
@@ -304,10 +196,6 @@ $TrainStationsNL = array (
     'short' => 'ASA',
     'address' => 'Amsterdam Amstel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Amstel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4bef',
-    'mPid' => 'f2d3e63a6b8944dc232c25fd998ae1f14c28086c',
-    'sPid' => '13dfb77df860e5bc6f0401141bc93b2b',
   ),
   28 => 
   array (
@@ -315,10 +203,6 @@ $TrainStationsNL = array (
     'short' => 'ASB',
     'address' => 'Amsterdam Bijlmer ArenA',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Bijlmer+ArenA',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4c12',
-    'mPid' => 'cdbd280aeb1ada12f5e20b63c11fa7aceb339a8a',
-    'sPid' => 'fed26647f25cd217535e9e0b7226571e',
   ),
   29 => 
   array (
@@ -326,10 +210,6 @@ $TrainStationsNL = array (
     'short' => 'ASD',
     'address' => 'Amsterdam Centraal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Centraal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4c38',
-    'mPid' => '3f73f88785c060f8b487afe2742c2fb0cce223e5',
-    'sPid' => '23c247cafaf9f831a33856effac32f7e',
   ),
   30 => 
   array (
@@ -337,10 +217,6 @@ $TrainStationsNL = array (
     'short' => 'ASHD',
     'address' => 'Amsterdam Holendrecht',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Holendrecht',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4c5a',
-    'mPid' => '4c6bec66dfe5f0baa3f3d60c6cc264757e5b7a4d',
-    'sPid' => '037ebedb860f7a87f218b1a04fb50680',
   ),
   31 => 
   array (
@@ -348,10 +224,6 @@ $TrainStationsNL = array (
     'short' => 'ASDL',
     'address' => 'Amsterdam Lelylaan',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Lelylaan',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4c80',
-    'mPid' => '2f39c90128c93998aa569ce26b5fcdb334f6d56b',
-    'sPid' => 'cb35078950b8b08c8e4d9f1a3f808292',
   ),
   32 => 
   array (
@@ -359,10 +231,6 @@ $TrainStationsNL = array (
     'short' => 'ASDM',
     'address' => 'Amsterdam Muiderpoort',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Muiderpoort',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4ca3',
-    'mPid' => 'beebd070e0562665f5b1041e926de74a8dbd18f0',
-    'sPid' => '6efd09086273135f4b9b0cf8d22277fd',
   ),
   33 => 
   array (
@@ -370,10 +238,6 @@ $TrainStationsNL = array (
     'short' => 'RAI',
     'address' => 'Amsterdam RAI',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+RAI',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4cc9',
-    'mPid' => 'f249a81702ba567c866476228427868bc3d80aaa',
-    'sPid' => '7c374e40be5a10e29e0719b48741ba8a',
   ),
   34 => 
   array (
@@ -381,10 +245,6 @@ $TrainStationsNL = array (
     'short' => 'ASSP',
     'address' => 'Amsterdam Science Park',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Science+Park',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4cec',
-    'mPid' => '838d3d8b8e950ebcef119804bdf52208c48612e7',
-    'sPid' => 'af37f6c3254677f2f9abae9bd2528415',
   ),
   35 => 
   array (
@@ -392,10 +252,6 @@ $TrainStationsNL = array (
     'short' => 'ASS',
     'address' => 'Amsterdam Sloterdijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Sloterdijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4d11',
-    'mPid' => 'd478d2c3f2b666ab50e7b530c2bafb628ce47147',
-    'sPid' => 'd69dab35feefe0e280a9628d427ed0c8',
   ),
   36 => 
   array (
@@ -403,10 +259,6 @@ $TrainStationsNL = array (
     'short' => 'VMW',
     'address' => 'Amsterdam Van der Madeweg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Van+der+Madeweg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4d35',
-    'mPid' => '6813ac8932ae4615ae7c4c4c7467ce6b0b0358ca',
-    'sPid' => '9a9fbd6155a0ac304b6280e3c036d8d6',
   ),
   37 => 
   array (
@@ -414,10 +266,6 @@ $TrainStationsNL = array (
     'short' => 'ASDZ',
     'address' => 'Amsterdam Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4d60',
-    'mPid' => '78491fb4c6760625b1e20edcec18242930c636c0',
-    'sPid' => 'b8958724cd72a7e9253f42f2e5568acd',
   ),
   38 => 
   array (
@@ -425,10 +273,6 @@ $TrainStationsNL = array (
     'short' => 'ANA',
     'address' => 'Anna Paulowna',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Anna+Paulowna',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4da7',
-    'mPid' => 'd2e54cf8d8970e9f49716adc54f436c4324f4fda',
-    'sPid' => '97c8225c51be7c2d375b9e2613eeedd7',
   ),
   39 => 
   array (
@@ -436,10 +280,6 @@ $TrainStationsNL = array (
     'short' => 'BERCH',
     'address' => 'Antwerpen-Berchem',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Antwerpen-Berchem',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4dc8',
-    'mPid' => 'b00e2e9b44326cfd0deec72f8857afc591732ef7',
-    'sPid' => '96e8a7d978aaf20146c8f621fd3f2167',
   ),
   40 => 
   array (
@@ -447,10 +287,6 @@ $TrainStationsNL = array (
     'short' => 'ATW',
     'address' => 'Antwerpen-Centraal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Antwerpen-Centraal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4deb',
-    'mPid' => '63d65a575e292af281858a3c61d3f61db1877f68',
-    'sPid' => 'd5a0cad8d3b79cce821ac78488c7cd4e',
   ),
   41 => 
   array (
@@ -458,10 +294,6 @@ $TrainStationsNL = array (
     'short' => 'ATWLB',
     'address' => 'Antwerpen-Luchtbal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Antwerpen-Luchtbal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4e0b',
-    'mPid' => '3618b0e806f2f84e0751e452be50a90a4f0ddd86',
-    'sPid' => 'df10662fc5acad0f61b7ed900ea6ab86',
   ),
   42 => 
   array (
@@ -469,10 +301,6 @@ $TrainStationsNL = array (
     'short' => 'ANDD',
     'address' => 'Antwerpen-Noorderdokken',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Antwerpen-Noorderdokken',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4e2d',
-    'mPid' => 'dde65b0fdff8cff9f9aa4bf37744656c10ed23e1',
-    'sPid' => '6c60d4114ea4cc5f1a8d02c195ea83d2',
   ),
   43 => 
   array (
@@ -480,10 +308,6 @@ $TrainStationsNL = array (
     'short' => 'FNZD',
     'address' => 'Antwerpen-Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Antwerpen-Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4e4d',
-    'mPid' => '80e712d9f47d869a57536167aa30a527df2a4adb',
-    'sPid' => '70367563948b13bd9f8e9cff3fb5d9b2',
   ),
   44 => 
   array (
@@ -491,10 +315,6 @@ $TrainStationsNL = array (
     'short' => 'APD',
     'address' => 'Apeldoorn',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Apeldoorn',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4e70',
-    'mPid' => '8e2939aa98183398c6acd09afc8bd866f8584b9b',
-    'sPid' => '0285e6f18c5c86d4c2d6cb90f8b7785c',
   ),
   45 => 
   array (
@@ -502,10 +322,6 @@ $TrainStationsNL = array (
     'short' => 'APDM',
     'address' => 'Apeldoorn De Maten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Apeldoorn+De+Maten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4e8f',
-    'mPid' => '371c15bd131bd11a97e56aefaf8e03a3dcb37745',
-    'sPid' => '4c18923221ce49b21cc28c2b5377d7b7',
   ),
   46 => 
   array (
@@ -513,10 +329,6 @@ $TrainStationsNL = array (
     'short' => 'APDO',
     'address' => 'Apeldoorn Osseveld',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Apeldoorn+Osseveld',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4ebc',
-    'mPid' => 'de196733a9a41d530971f8eb6729ec5ba89a4217',
-    'sPid' => '4224b2ac486b74cae18799740359658e',
   ),
   47 => 
   array (
@@ -524,10 +336,6 @@ $TrainStationsNL = array (
     'short' => 'APG',
     'address' => 'Appingedam',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Appingedam',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4edc',
-    'mPid' => '59dedd77cd76e26949b0511b955c95da30e1e701',
-    'sPid' => '9d48824e581b51401bc96740dd4f3505',
   ),
   48 => 
   array (
@@ -535,10 +343,6 @@ $TrainStationsNL = array (
     'short' => 'AKL',
     'address' => 'Arkel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Arkel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4efe',
-    'mPid' => 'a949b9e9a9af1d6585c75268324eb822e893b186',
-    'sPid' => 'a8d693c28c6e28d5488e34e73e4e0241',
   ),
   49 => 
   array (
@@ -546,10 +350,6 @@ $TrainStationsNL = array (
     'short' => 'ARN',
     'address' => 'Arnemuiden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Arnemuiden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4f50',
-    'mPid' => '36d8c9ccc48eddfdcb791b12d122a390951648d8',
-    'sPid' => '7a873dcda2694ae5de017e705b10b345',
   ),
   50 => 
   array (
@@ -557,10 +357,6 @@ $TrainStationsNL = array (
     'short' => 'AH',
     'address' => 'Arnhem',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Arnhem',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4f70',
-    'mPid' => 'ee6bd5ee46109285cd822400d55e93ae52a954cc',
-    'sPid' => 'fac6b9790b45ab4b3e444afb83cb8db9',
   ),
   51 => 
   array (
@@ -568,10 +364,6 @@ $TrainStationsNL = array (
     'short' => 'AHPR',
     'address' => 'Arnhem Presikhaaf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Arnhem+Presikhaaf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4f93',
-    'mPid' => 'e2fe6da7e6fe5a5fc8de60d224d754c9800a891b',
-    'sPid' => '286a945142b2f96aa6a5717361d7b8e3',
   ),
   52 => 
   array (
@@ -579,10 +371,6 @@ $TrainStationsNL = array (
     'short' => 'AHP',
     'address' => 'Arnhem Velperpoort',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Arnhem+Velperpoort',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4fb2',
-    'mPid' => 'fdfaf375194167eafa3cf49c104938bcb27de3cd',
-    'sPid' => 'f698923d33bdb944d664f41f7ff7e262',
   ),
   53 => 
   array (
@@ -590,10 +378,6 @@ $TrainStationsNL = array (
     'short' => 'AHZ',
     'address' => 'Arnhem Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Arnhem+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4fd5',
-    'mPid' => 'cde9252fae6485fbd4b9a29657ba96b107800559',
-    'sPid' => '9dfc628755d1afd68b7c9ce6bb8d7aa4',
   ),
   54 => 
   array (
@@ -601,10 +385,6 @@ $TrainStationsNL = array (
     'short' => 'ASHFD',
     'address' => 'Ashford International',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ashford+International',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c4ff4',
-    'mPid' => 'a678c6ebe2efe9b1aad680791531ac4bc64f9bfd',
-    'sPid' => '8e67aa477e116af686abd92830b1b6a1',
   ),
   55 => 
   array (
@@ -612,10 +392,6 @@ $TrainStationsNL = array (
     'short' => 'ASN',
     'address' => 'Assen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Assen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5017',
-    'mPid' => 'e52e46e772896ecde3491061c3500341f86d1664',
-    'sPid' => '76f1e9517eb79c4bf934bb35f0fc5135',
   ),
   56 => 
   array (
@@ -623,10 +399,6 @@ $TrainStationsNL = array (
     'short' => 'MA',
     'address' => 'Augsburg Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Augsburg+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5037',
-    'mPid' => '6eab1ab2e05a23f4fadcbb7ea4a044b0a947d20d',
-    'sPid' => '3d1069de125453217e299d7558de620a',
   ),
   57 => 
   array (
@@ -634,10 +406,6 @@ $TrainStationsNL = array (
     'short' => 'AVTGV',
     'address' => 'Avignon TGV',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Avignon+TGV',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c505a',
-    'mPid' => '87500ad22fe8c03cb98cb3463fbd36f41d3d5a25',
-    'sPid' => '062dd7499cc5f6aecba0c62ad6b14e6c',
   ),
   58 => 
   array (
@@ -645,10 +413,6 @@ $TrainStationsNL = array (
     'short' => 'ADH',
     'address' => 'Leeuwarden Achter d Hoven',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Leeuwarden+Achter+d+Hoven',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5079',
-    'mPid' => '7c1bddf93d078eaac5f8ce35fff5c374a4879e3a',
-    'sPid' => '4bdd2361cb661a9d61673c6ef6d49895',
   ),
   59 => 
   array (
@@ -656,10 +420,6 @@ $TrainStationsNL = array (
     'short' => 'RTA',
     'address' => 'Rotterdam Alexander',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rotterdam+Alexander',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c509c',
-    'mPid' => 'ca7446ee60c75c0ac93a0aeaad9e3a5b746e9def',
-    'sPid' => '9e2c67538bd0c9458a384649230b6df7',
   ),
   60 => 
   array (
@@ -667,10 +427,6 @@ $TrainStationsNL = array (
     'short' => 'SHL',
     'address' => 'Schiphol',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schiphol',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c50bc',
-    'mPid' => '1218c46ece4ca9138167de37d7e2ac94c9554abf',
-    'sPid' => '7e58bef9383463a19d213a9b11180b88',
   ),
   61 => 
   array (
@@ -678,10 +434,6 @@ $TrainStationsNL = array (
     'short' => 'ALMB',
     'address' => 'Almere Buiten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almere+Buiten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c50db',
-    'mPid' => '203f09e9cfbef0caca1fb7199930f025ab68b48f',
-    'sPid' => '830460f1b9bcebd7858cb211d3877a3e',
   ),
   62 => 
   array (
@@ -689,10 +441,6 @@ $TrainStationsNL = array (
     'short' => 'ASB',
     'address' => 'Amsterdam Bijlmer ArenA',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Bijlmer+ArenA',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5127',
-    'mPid' => '11d6c58ba5afeffa8673a4a614c776b30c127f78',
-    'sPid' => '548338a5f23eb8ba6f557870b775f78d',
   ),
   63 => 
   array (
@@ -700,10 +448,6 @@ $TrainStationsNL = array (
     'short' => 'BRN',
     'address' => 'Baarn',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Baarn',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5147',
-    'mPid' => '80d4395934f4e961215d1a4a894a65889bb4f870',
-    'sPid' => '4984af1f066d606b781f555a0c6c02d9',
   ),
   64 => 
   array (
@@ -711,10 +455,6 @@ $TrainStationsNL = array (
     'short' => 'BH',
     'address' => 'Bad Bentheim',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bad+Bentheim',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5169',
-    'mPid' => '999ab8b2798af0d671b892c266e844b41e230ff8',
-    'sPid' => 'a7e81c0dbe1fe024d37f4703f5186f57',
   ),
   65 => 
   array (
@@ -722,10 +462,6 @@ $TrainStationsNL = array (
     'short' => 'NSCH',
     'address' => 'Bad Nieuweschans',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bad+Nieuweschans',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c518d',
-    'mPid' => 'e7245913452e89437643a4047151f5384e78f070',
-    'sPid' => '71d5661b922a00ad3e31f309b253f0a2',
   ),
   66 => 
   array (
@@ -733,10 +469,6 @@ $TrainStationsNL = array (
     'short' => 'OEYNH',
     'address' => 'Bad Oeynhausen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bad+Oeynhausen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c51ad',
-    'mPid' => '924f0c0236cc0723fba0e55b94f96455895166e0',
-    'sPid' => '0836a0da86dbbc0924b5b6dd79347448',
   ),
   67 => 
   array (
@@ -744,10 +476,6 @@ $TrainStationsNL = array (
     'short' => 'BADSCH',
     'address' => 'Bad Schandau',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bad+Schandau',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c51cd',
-    'mPid' => '0b2912fc7bb91fd50b2a1f9e064bec5113f232b4',
-    'sPid' => 'bb3ba557734c9a8c81402a70083cf89a',
   ),
   68 => 
   array (
@@ -755,10 +483,6 @@ $TrainStationsNL = array (
     'short' => 'BADENZ',
     'address' => 'Baden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Baden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5219',
-    'mPid' => '2b243beb9a0f3493d84f315c6be6a1832d468deb',
-    'sPid' => '41f32709a0fd5153959abd95129b4cbb',
   ),
   69 => 
   array (
@@ -766,10 +490,6 @@ $TrainStationsNL = array (
     'short' => 'RBB',
     'address' => 'Baden-Baden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Baden-Baden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5239',
-    'mPid' => 'af76baa0247aea00a79fb4c430ad9f8da10f7f3f',
-    'sPid' => 'd692863f3d2d38dfe2a2d26f3141d09d',
   ),
   70 => 
   array (
@@ -777,10 +497,6 @@ $TrainStationsNL = array (
     'short' => 'BF',
     'address' => 'Baflo',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Baflo',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c525b',
-    'mPid' => '6af876e79c5be71e9086366331e275c01182c065',
-    'sPid' => '206946b272821e455ad4f26adc7765ef',
   ),
   71 => 
   array (
@@ -788,10 +504,6 @@ $TrainStationsNL = array (
     'short' => 'BRD',
     'address' => 'Barendrecht',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Barendrecht',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c527a',
-    'mPid' => '4ff00b905f1d8c9cedb2dfabe0851468d8c359f4',
-    'sPid' => '8787cae9da86c8dc2a75fb403e9e6862',
   ),
   72 => 
   array (
@@ -799,10 +511,6 @@ $TrainStationsNL = array (
     'short' => 'BNC',
     'address' => 'Barneveld Centrum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Barneveld+Centrum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c529d',
-    'mPid' => 'ebca4db9b2ac6466ef46c3acda4f1ce788ef9fc7',
-    'sPid' => '453343776cf37793637e82cdd5c4723c',
   ),
   73 => 
   array (
@@ -810,10 +518,6 @@ $TrainStationsNL = array (
     'short' => 'BNN',
     'address' => 'Barneveld Noord',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Barneveld+Noord',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c52bd',
-    'mPid' => '09a6651c3434d176591ea62245e9add58692abed',
-    'sPid' => '04bee478ac7c72823f62bd875d657549',
   ),
   74 => 
   array (
@@ -821,10 +525,6 @@ $TrainStationsNL = array (
     'short' => 'BNZ',
     'address' => 'Barneveld Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Barneveld+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c52df',
-    'mPid' => 'c1739151abac80071b6dea2a9b267479ecded78e',
-    'sPid' => 'f9b050d1dba8414408bc47ccc4eaf491',
   ),
   75 => 
   array (
@@ -832,10 +532,6 @@ $TrainStationsNL = array (
     'short' => 'BASELB',
     'address' => 'Basel Bad Bf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Basel+Bad+Bf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c52ff',
-    'mPid' => 'f2092a36f53fcedf86754d1666cb90615bc36c10',
-    'sPid' => '79e093abf7a1cacd1040230bc79ef334',
   ),
   76 => 
   array (
@@ -843,10 +539,6 @@ $TrainStationsNL = array (
     'short' => 'BASELS',
     'address' => 'Basel SBB',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Basel+SBB',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5321',
-    'mPid' => '5749034d091ee834833b8c2616f2a0af02c24b27',
-    'sPid' => 'f67e0365de5bceade4050759160694dc',
   ),
   77 => 
   array (
@@ -854,10 +546,6 @@ $TrainStationsNL = array (
     'short' => 'BDM',
     'address' => 'Bedum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bedum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5341',
-    'mPid' => '28620ee02aeae384c4ec7a0c7d92a3054b97a47d',
-    'sPid' => '91fbf1d9ff52e31e78bf10f7caf8e7c3',
   ),
   78 => 
   array (
@@ -865,10 +553,6 @@ $TrainStationsNL = array (
     'short' => 'BK',
     'address' => 'Beek-Elsloo',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Beek-Elsloo',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5363',
-    'mPid' => '84c1c4a19fc2cc9e8e930c67fd19e9d826cb49aa',
-    'sPid' => '9712cc9a2281b66d0bae9abf874d637d',
   ),
   79 => 
   array (
@@ -876,10 +560,6 @@ $TrainStationsNL = array (
     'short' => 'BSD',
     'address' => 'Beesd',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Beesd',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5383',
-    'mPid' => 'f3a1dba841385f12120cdd6dd7e85a383dbc9696',
-    'sPid' => 'cd36c764583960e3a9eeb19eb1dd85fb',
   ),
   80 => 
   array (
@@ -887,10 +567,6 @@ $TrainStationsNL = array (
     'short' => 'BL',
     'address' => 'Beilen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Beilen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c53a2',
-    'mPid' => '91f42c69ecc4844238d7cbbca6db090ec0a67a82',
-    'sPid' => '78212a6d24ffda5fe4139c7de54ea24a',
   ),
   81 => 
   array (
@@ -898,10 +574,6 @@ $TrainStationsNL = array (
     'short' => 'BGN',
     'address' => 'Bergen op Zoom',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bergen+op+Zoom',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c53c5',
-    'mPid' => '412fad3423e271ab64318f030b2ff5b1c2daa4bb',
-    'sPid' => '6f04a906bb97fe0c9907f4ce06fbc772',
   ),
   82 => 
   array (
@@ -909,10 +581,6 @@ $TrainStationsNL = array (
     'short' => 'BERHBL',
     'address' => 'Berlin Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Berlin+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c53e5',
-    'mPid' => '72dbec24e768bb1dee95ae4514c107ab269b8d6b',
-    'sPid' => '028a65472eac0f5dac7130a233534a52',
   ),
   83 => 
   array (
@@ -920,10 +588,6 @@ $TrainStationsNL = array (
     'short' => 'tief)',
     'address' => 'Berlin Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Berlin+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5407',
-    'mPid' => '060bad4d1aeffadf5ccb2d5a7eb3a8d4a46c0f1a',
-    'sPid' => 'f716a9201e24411a39deb1dc01201748',
   ),
   84 => 
   array (
@@ -931,10 +595,6 @@ $TrainStationsNL = array (
     'short' => 'BHF',
     'address' => 'Berlin Ostbahnhof',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Berlin+Ostbahnhof',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5427',
-    'mPid' => '899308b84a30aeba30b444edf02f29c3cedda2df',
-    'sPid' => '1e8a1e1f7a217f63c581310b2ceeb57e',
   ),
   85 => 
   array (
@@ -942,10 +602,6 @@ $TrainStationsNL = array (
     'short' => 'BPAF',
     'address' => 'Berlin Südkreuz',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Berlin+S%C3%BCdkreuz',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5449',
-    'mPid' => '8ed9d62040899eb73c710f90f47f319128614261',
-    'sPid' => 'fa2c392b22a0b5a5a0deac85c1ada930',
   ),
   86 => 
   array (
@@ -953,10 +609,6 @@ $TrainStationsNL = array (
     'short' => 'BERFL',
     'address' => 'Berlin-Schönefeld Flug.',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Berlin-Sch%C3%B6nefeld+Flug.',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5469',
-    'mPid' => 'baf3f879ded115da24314f5a30e67fd762e7059b',
-    'sPid' => '88c09545f3a7764d1eb4e2f8bc654c79',
   ),
   87 => 
   array (
@@ -964,10 +616,6 @@ $TrainStationsNL = array (
     'short' => 'BSPD',
     'address' => 'Berlin-Spandau',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Berlin-Spandau',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c548c',
-    'mPid' => '628077c64625fb66432d0fd3d35c07c490076a70',
-    'sPid' => '7e73e4d23381f40c29dfe7a671d478b5',
   ),
   88 => 
   array (
@@ -975,10 +623,6 @@ $TrainStationsNL = array (
     'short' => 'BET',
     'address' => 'Best',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Best',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c54b6',
-    'mPid' => 'f85a41b95eae426a6c5caea8cd63684f5391a975',
-    'sPid' => '4dcc170a4be4a78acec311ef56ead940',
   ),
   89 => 
   array (
@@ -986,10 +630,6 @@ $TrainStationsNL = array (
     'short' => 'BV',
     'address' => 'Beverwijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Beverwijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c551c',
-    'mPid' => '566248ebdb5b593403e91056688c3791180f1a02',
-    'sPid' => 'fd46b1461570d435e47093ffe427de21',
   ),
   90 => 
   array (
@@ -997,10 +637,6 @@ $TrainStationsNL = array (
     'short' => 'BIELEF',
     'address' => 'Bielefeld Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bielefeld+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5546',
-    'mPid' => '1d9ec5471bd093678f80efa1afaede0cfb5f21d1',
-    'sPid' => '4a59119f9be09e9931cbdbd2b765a707',
   ),
   91 => 
   array (
@@ -1008,10 +644,6 @@ $TrainStationsNL = array (
     'short' => 'BHV',
     'address' => 'Bilthoven',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bilthoven',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5569',
-    'mPid' => '295490685dfbb17a826468243acc01df3e83549e',
-    'sPid' => '9cf59c1c49ab652b46ceb7890361d1aa',
   ),
   92 => 
   array (
@@ -1019,10 +651,6 @@ $TrainStationsNL = array (
     'short' => 'FIE',
     'address' => 'Bilzen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bilzen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c55bb',
-    'mPid' => 'bc3fb7579c81e2109ca898317b28631d9c31c540',
-    'sPid' => 'a4d2d17ab8cb71484611d141249237a9',
   ),
   93 => 
   array (
@@ -1030,10 +658,6 @@ $TrainStationsNL = array (
     'short' => 'BISCHO',
     'address' => 'Bischofshofen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bischofshofen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c55db',
-    'mPid' => 'aa79a69b1551448791ccf5fda54f787351c8f15c',
-    'sPid' => '4e73bda915476ff471ba31e1dbf7ac83',
   ),
   94 => 
   array (
@@ -1041,10 +665,6 @@ $TrainStationsNL = array (
     'short' => 'BR',
     'address' => 'Blerick',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Blerick',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c55fe',
-    'mPid' => '1d84af72cefb9b25f610d60fd543c8b31bfbcd54',
-    'sPid' => '42837aa8870a44ce8a1291620f421654',
   ),
   95 => 
   array (
@@ -1052,10 +672,6 @@ $TrainStationsNL = array (
     'short' => 'BLL',
     'address' => 'Bloemendaal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bloemendaal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c561e',
-    'mPid' => 'd731a59889d0eda68116e374709570a67bdb3c79',
-    'sPid' => '10c3063425ca00514ef6c38402fe3607',
   ),
   96 => 
   array (
@@ -1063,10 +679,6 @@ $TrainStationsNL = array (
     'short' => 'BLUDEN',
     'address' => 'Bludenz',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bludenz',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5641',
-    'mPid' => 'dfdd3c5a2b9232fc6ad5c10408e97e2e043e45b1',
-    'sPid' => 'b7b12cbcb4108d87b68bb6dede0d994e',
   ),
   97 => 
   array (
@@ -1074,10 +686,6 @@ $TrainStationsNL = array (
     'short' => 'BDG',
     'address' => 'Bodegraven',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bodegraven',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5661',
-    'mPid' => '2aae4ba2898e48dcf6e807f29f236264660131eb',
-    'sPid' => 'b2b73ee5bef995ce11aaf9c2dd163e68',
   ),
   98 => 
   array (
@@ -1085,10 +693,6 @@ $TrainStationsNL = array (
     'short' => 'KBOI',
     'address' => 'Boisheim',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Boisheim',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5684',
-    'mPid' => '1cce50b07862b4070fd18ceeab21aeebcadb7ae0',
-    'sPid' => '10a852febd1b6d303adc1311b9ebbc47',
   ),
   99 => 
   array (
@@ -1096,10 +700,6 @@ $TrainStationsNL = array (
     'short' => 'BONN',
     'address' => 'Bonn Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bonn+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c56a4',
-    'mPid' => 'b4ee62641fbd5840d6c060d77c2a49803f00c2b4',
-    'sPid' => '56905867a1ecf5a95d37336ec841aed9',
   ),
   100 => 
   array (
@@ -1107,10 +707,6 @@ $TrainStationsNL = array (
     'short' => 'FMB',
     'address' => 'Boom',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Boom',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c56c7',
-    'mPid' => 'fbba33c56e7b687081417fb7065be88c696fed7d',
-    'sPid' => '53512b150f63cf9dc0e47976c29d8698',
   ),
   101 => 
   array (
@@ -1118,10 +714,6 @@ $TrainStationsNL = array (
     'short' => 'EBOK',
     'address' => 'Bork',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bork',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c56e7',
-    'mPid' => 'f21acf305ff21efde2ac65c8dcb000fbf8e30a29',
-    'sPid' => '9d4a50f1d12c5fdb2f288ac69fdf4943',
   ),
   102 => 
   array (
@@ -1129,10 +721,6 @@ $TrainStationsNL = array (
     'short' => 'BN',
     'address' => 'Borne',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Borne',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5707',
-    'mPid' => '2c2158ea94cf34de6bc0ac1eab8476e5e73ff627',
-    'sPid' => 'd999d670cfe38a44f93763f6b9b46da5',
   ),
   103 => 
   array (
@@ -1140,10 +728,6 @@ $TrainStationsNL = array (
     'short' => 'BSK',
     'address' => 'Boskoop',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Boskoop',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5729',
-    'mPid' => '316639f033e56b849c8d67c4e5f574cf35d6a929',
-    'sPid' => '09f78cf9bdfd9d42c80ad33e91d6ae40',
   ),
   104 => 
   array (
@@ -1151,10 +735,6 @@ $TrainStationsNL = array (
     'short' => 'BOURG',
     'address' => 'Bourg-St-Maurice',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bourg-St-Maurice',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c574a',
-    'mPid' => 'dba012bc4ad963e28a69f1ac0ed59ebe3fc7a4e3',
-    'sPid' => '5d73fde8f47f9f54e4fbdead33c99481',
   ),
   105 => 
   array (
@@ -1162,10 +742,6 @@ $TrainStationsNL = array (
     'short' => 'BHDV',
     'address' => 'Boven-Hardinxveld',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Boven-Hardinxveld',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c576d',
-    'mPid' => '5f8175ab33c32c71a7229f4970111c846eb7fabc',
-    'sPid' => '0014c715a984aea9dc6078eeba3e96eb',
   ),
   106 => 
   array (
@@ -1173,10 +749,6 @@ $TrainStationsNL = array (
     'short' => 'BKF',
     'address' => 'Bovenkarspel Flora',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bovenkarspel+Flora',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c57b6',
-    'mPid' => '257cabfb6c0df99d0399498d49cd5acaa77aaa6b',
-    'sPid' => 'f6c64cc13e75ffae07c60192e3c7b024',
   ),
   107 => 
   array (
@@ -1184,10 +756,6 @@ $TrainStationsNL = array (
     'short' => 'BKG',
     'address' => 'Bovenkarspel-Grootebroek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bovenkarspel-Grootebroek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c57d8',
-    'mPid' => '08140351b639a39816806f51e5ecd99cc2a4353e',
-    'sPid' => 'e7f15a3784e27290ed751b8201f0baea',
   ),
   108 => 
   array (
@@ -1195,10 +763,6 @@ $TrainStationsNL = array (
     'short' => 'BMR',
     'address' => 'Boxmeer',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Boxmeer',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c57f8',
-    'mPid' => '21c2e228c19fd4c0a3b525f6a83ec2d8b24c410b',
-    'sPid' => '2cd00b23fb259c1fc02221fe63ca19c3',
   ),
   109 => 
   array (
@@ -1206,10 +770,6 @@ $TrainStationsNL = array (
     'short' => 'BTL',
     'address' => 'Boxtel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Boxtel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c581a',
-    'mPid' => 'f0be20167fc69426bdb4c30e15d38902fba1cc3f',
-    'sPid' => '1b755ffb48b24d6115fad694a4872f2a',
   ),
   110 => 
   array (
@@ -1217,10 +777,6 @@ $TrainStationsNL = array (
     'short' => 'BRAUNS',
     'address' => 'Braunschweig Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Braunschweig+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5839',
-    'mPid' => '83f875658045e2b9b9beaaf9637287eaa48dc2bf',
-    'sPid' => '0bdc49052bd8dadadb28ea60b69d6b29',
   ),
   111 => 
   array (
@@ -1228,10 +784,6 @@ $TrainStationsNL = array (
     'short' => 'BD',
     'address' => 'Breda',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Breda',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c585b',
-    'mPid' => 'c6a0915a112f27a27253ddf4c4241eb4398b833b',
-    'sPid' => '9be81cf915b9b100e71bc757bf995a3e',
   ),
   112 => 
   array (
@@ -1239,10 +791,6 @@ $TrainStationsNL = array (
     'short' => 'BDPB',
     'address' => 'Breda-Prinsenbeek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Breda-Prinsenbeek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c587b',
-    'mPid' => '38e600aa70e940312c350f9a40cf82ca69a66613',
-    'sPid' => 'fdb8cac643480e52069aa7354bc3555f',
   ),
   113 => 
   array (
@@ -1250,10 +798,6 @@ $TrainStationsNL = array (
     'short' => 'BRESSX',
     'address' => 'Bressoux',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bressoux',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c589d',
-    'mPid' => '856249280917247e549f6244fb18983f54f9a0e3',
-    'sPid' => '1d01b35e4cea4c65c30f5bae3a53b3d9',
   ),
   114 => 
   array (
@@ -1261,10 +805,6 @@ $TrainStationsNL = array (
     'short' => 'BKL',
     'address' => 'Breukelen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Breukelen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c58bc',
-    'mPid' => 'e6ae09724dc4043d15d45f694b1dff8265805fff',
-    'sPid' => '4a522fd6bf8a1aaa287eef431ebcaf30',
   ),
   115 => 
   array (
@@ -1272,10 +812,6 @@ $TrainStationsNL = array (
     'short' => 'KBRY',
     'address' => 'Breyell',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Breyell',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c58db',
-    'mPid' => '378d7be11db9bfd4252173fde30042e452d9edcb',
-    'sPid' => '263147b76ddda7a3b66e111d3ff09e92',
   ),
   116 => 
   array (
@@ -1283,10 +819,6 @@ $TrainStationsNL = array (
     'short' => 'BMN',
     'address' => 'Brummen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Brummen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c58fd',
-    'mPid' => '332790b2c312466d1f1e6c3582392f49a527b098',
-    'sPid' => '278bab3fea605ed0c990e8def2b9d238',
   ),
   117 => 
   array (
@@ -1294,10 +826,6 @@ $TrainStationsNL = array (
     'short' => 'FBNL',
     'address' => 'Brussel Nat. Luchthaven',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Brussel+Nat.+Luchthaven',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c591c',
-    'mPid' => '6e53f324c62782a12e2eb3f4bd0013dace2af3b7',
-    'sPid' => 'cc8f8dd6ab4ced4035ee6806dc78caa9',
   ),
   118 => 
   array (
@@ -1305,10 +833,6 @@ $TrainStationsNL = array (
     'short' => 'BRUSC',
     'address' => 'Brussel-Centraal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Brussel-Centraal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c593e',
-    'mPid' => '6dbbee809490fcf3f76907de322e9c77f12183d8',
-    'sPid' => '253a5f34fad1c72c2febc43b6a987042',
   ),
   119 => 
   array (
@@ -1316,10 +840,6 @@ $TrainStationsNL = array (
     'short' => 'BRUSN',
     'address' => 'Brussel-Noord',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Brussel-Noord',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c595d',
-    'mPid' => '3bf41ca5ff033712291906a393a8852de381e558',
-    'sPid' => '4481e0bb3aeba01840080bcc3ed614f5',
   ),
   120 => 
   array (
@@ -1327,10 +847,6 @@ $TrainStationsNL = array (
     'short' => 'BRUSZ',
     'address' => 'Brussel-Zuid/Midi',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Brussel-Zuid%2FMidi',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c597f',
-    'mPid' => 'ac2cb6fab92ecd7b810a441a37faf7f2e0ed1597',
-    'sPid' => '03226dfa943cc5b7343f0b86f938421b',
   ),
   121 => 
   array (
@@ -1338,10 +854,6 @@ $TrainStationsNL = array (
     'short' => 'BP',
     'address' => 'Buitenpost',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Buitenpost',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c599e',
-    'mPid' => '65c32ca503ff82b880251f0d2e2a4944dce11a25',
-    'sPid' => 'c64670b76794c1ff45471667aa883e9c',
   ),
   122 => 
   array (
@@ -1349,10 +861,6 @@ $TrainStationsNL = array (
     'short' => 'BDE',
     'address' => 'Bunde',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bunde',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c59c0',
-    'mPid' => '2350b86b6fe6c3251901c9618b89fbe697b1b07b',
-    'sPid' => 'd8173a3808545d0181b92f898e9d397b',
   ),
   123 => 
   array (
@@ -1360,10 +868,6 @@ $TrainStationsNL = array (
     'short' => 'BNK',
     'address' => 'Bunnik',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bunnik',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c59e0',
-    'mPid' => '2058e9ce32fe0c175c4ea1bf98b5f89b291d9a32',
-    'sPid' => '53e4b2d8aeda008d18faca62ed3ea53e',
   ),
   124 => 
   array (
@@ -1371,10 +875,6 @@ $TrainStationsNL = array (
     'short' => 'BSMZ',
     'address' => 'Bussum Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bussum+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5a02',
-    'mPid' => '4a9ee6694214478f229a703422546be0ea95bfc0',
-    'sPid' => '99b4c1d62cefe18d91c89f9e8593c9c8',
   ),
   125 => 
   array (
@@ -1382,10 +882,6 @@ $TrainStationsNL = array (
     'short' => 'EBEO',
     'address' => 'Bönen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+B%C3%B6nen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5a21',
-    'mPid' => 'e694f8655d519ad2aac2d9472f019372d5c6d0f7',
-    'sPid' => 'c52950e99745a5bb28fe59249acadeb1',
   ),
   126 => 
   array (
@@ -1393,10 +889,6 @@ $TrainStationsNL = array (
     'short' => 'Westf)',
     'address' => 'Bünde',
     'gMaps' => 'https://www.google.nl/maps/place/Station+B%C3%BCnde',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5a43',
-    'mPid' => '4dc0453525a86fc74b442d9acfbbc1ebc1ecd3e5',
-    'sPid' => 'c450683e4f3f17e51983391131e60b53',
   ),
   127 => 
   array (
@@ -1404,10 +896,6 @@ $TrainStationsNL = array (
     'short' => 'EHB',
     'address' => 'Eindhoven Beukenlaan',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eindhoven+Beukenlaan',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5a62',
-    'mPid' => 'e478c178a65b4ca16f2b8fd0d141fc6dc4381b16',
-    'sPid' => '7877a6cc10e73c849ee7cfcb692c205b',
   ),
   128 => 
   array (
@@ -1415,10 +903,6 @@ $TrainStationsNL = array (
     'short' => 'HBZM',
     'address' => 'Hardinxveld Blauwe Zoom',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hardinxveld+Blauwe+Zoom',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5a82',
-    'mPid' => '8aaf7bcc56396fd9fe32ee33450be12346e00373',
-    'sPid' => '7b08e76708f98bae24271041cf0e6ff8',
   ),
   129 => 
   array (
@@ -1426,10 +910,6 @@ $TrainStationsNL = array (
     'short' => 'HMBV',
     'address' => 'Helmond Brandevoort',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Helmond+Brandevoort',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5ad9',
-    'mPid' => 'b49aba0d08cd14564959ea781c9004725375f85f',
-    'sPid' => 'e6f58c290e5eb8cefb4689358bd34501',
   ),
   130 => 
   array (
@@ -1437,10 +917,6 @@ $TrainStationsNL = array (
     'short' => 'HMBH',
     'address' => 'Helmond Brouwhuis',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Helmond+Brouwhuis',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5afd',
-    'mPid' => '4da9d61297baf4e128d1747ca3285ec5c84dab13',
-    'sPid' => 'bb1e0dd3eb7e41cde064b1b254204d24',
   ),
   131 => 
   array (
@@ -1448,10 +924,6 @@ $TrainStationsNL = array (
     'short' => 'RTB',
     'address' => 'Rotterdam Blaak',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rotterdam+Blaak',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5b1d',
-    'mPid' => '1d677465194384a1555a5b5ca169bddb2aa8f585',
-    'sPid' => '200897d0f064d8580d48e92190e948db',
   ),
   132 => 
   array (
@@ -1459,10 +931,6 @@ $TrainStationsNL = array (
     'short' => 'SDTB',
     'address' => 'Sliedrecht Baanhoek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Sliedrecht+Baanhoek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5b40',
-    'mPid' => '5c72765301cdbad96a60ec0849509cefa0e84480',
-    'sPid' => '10af666b76b3f5b1d43816ea383b76db',
   ),
   133 => 
   array (
@@ -1470,10 +938,6 @@ $TrainStationsNL = array (
     'short' => 'CPS',
     'address' => 'Capelle Schollevaar',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Capelle+Schollevaar',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5b60',
-    'mPid' => 'ec6abad7f025746ff5f4e456c6a829a5e8c9ea6a',
-    'sPid' => '3ed2c488b1914631eb928d2291258686',
   ),
   134 => 
   array (
@@ -1481,10 +945,6 @@ $TrainStationsNL = array (
     'short' => 'CAS',
     'address' => 'Castricum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Castricum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5b80',
-    'mPid' => '1ba0e51810bf8b0603eef46a09311c8051006a0d',
-    'sPid' => '9719a32ed45a3a4ae2ec324ed79a0a56',
   ),
   135 => 
   array (
@@ -1492,10 +952,6 @@ $TrainStationsNL = array (
     'short' => 'CHAMB',
     'address' => 'Chambéry',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Chamb%C3%A9ry',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5ba3',
-    'mPid' => 'b8ef79890884a1cb023e6de9f57bbf0987cff863',
-    'sPid' => 'bcdf4c37abd336df11ef3d7eaaad4b12',
   ),
   136 => 
   array (
@@ -1503,10 +959,6 @@ $TrainStationsNL = array (
     'short' => 'CVM',
     'address' => 'Chevremont',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Chevremont',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5bc3',
-    'mPid' => '979b9fd7c6940868f8b2926b6222478c9d4b978c',
-    'sPid' => 'be65627a5b7725eff8df18bb2f1e7512',
   ),
   137 => 
   array (
@@ -1514,10 +966,6 @@ $TrainStationsNL = array (
     'short' => 'CHUR',
     'address' => 'Chur',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Chur',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5be6',
-    'mPid' => '10588a0c13d0321f701fcc59fb8d54172cf133ca',
-    'sPid' => 'c5e3da0d190dae1e2a492bdb073590ea',
   ),
   138 => 
   array (
@@ -1525,10 +973,6 @@ $TrainStationsNL = array (
     'short' => 'Westf)',
     'address' => 'Coesfeld',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Coesfeld',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5c07',
-    'mPid' => 'b30be2ee8a0e73114aec99cb35b8d6c048e303a6',
-    'sPid' => '27e4f5b3aa6a98726d5abbe0da709c0e',
   ),
   139 => 
   array (
@@ -1536,10 +980,6 @@ $TrainStationsNL = array (
     'short' => 'CO',
     'address' => 'Coevorden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Coevorden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5c29',
-    'mPid' => 'c3d871640778b8c0711839944dac24166297363b',
-    'sPid' => '47bd29afddf12f190a01bd4a142f6317',
   ),
   140 => 
   array (
@@ -1547,10 +987,6 @@ $TrainStationsNL = array (
     'short' => 'COMO',
     'address' => 'Como',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Como',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5c49',
-    'mPid' => '397b40522d1abf415bf5e7e41b4fbf3f0359d4b7',
-    'sPid' => '2490c8595a9520f7145a8a1aba3e36a7',
   ),
   141 => 
   array (
@@ -1558,10 +994,6 @@ $TrainStationsNL = array (
     'short' => 'CK',
     'address' => 'Cuijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Cuijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5c6c',
-    'mPid' => 'db1e8b6cfaed717345b57e5f14e35f485eebd768',
-    'sPid' => '107107ff24e5a7c42cce21dae9206746',
   ),
   142 => 
   array (
@@ -1569,10 +1001,6 @@ $TrainStationsNL = array (
     'short' => 'CL',
     'address' => 'Culemborg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Culemborg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5c8d',
-    'mPid' => '04fa10329838344cad85e9ece03f766e0967f718',
-    'sPid' => 'da3651e09963e2ab6bed99e213fb63a0',
   ),
   143 => 
   array (
@@ -1580,10 +1008,6 @@ $TrainStationsNL = array (
     'short' => 'DVC',
     'address' => 'Deventer Colmschate',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Deventer+Colmschate',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5cb0',
-    'mPid' => '80e2dc521fd7e2bea579c656173c5c49878a9cde',
-    'sPid' => '48312e1198460aa7c67a81bf39dab2e5',
   ),
   144 => 
   array (
@@ -1591,10 +1015,6 @@ $TrainStationsNL = array (
     'short' => 'HTNC',
     'address' => 'Houten Castellum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Houten+Castellum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5cd0',
-    'mPid' => '7b09001b84022814aad56c94612e8c6387e480f7',
-    'sPid' => 'dcdd7cec24cf9806cd615990430e7c91',
   ),
   145 => 
   array (
@@ -1602,10 +1022,6 @@ $TrainStationsNL = array (
     'short' => 'LWC',
     'address' => 'Leeuwarden Camminghaburen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Leeuwarden+Camminghaburen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5cf3',
-    'mPid' => 'd200da615bdd9344297e585c58d2407367472eff',
-    'sPid' => '6742c162249046dc6fe3037e38940223',
   ),
   146 => 
   array (
@@ -1613,10 +1029,6 @@ $TrainStationsNL = array (
     'short' => 'HT',
     'address' => '\'s-Hertogenbosch',
     'gMaps' => 'https://www.google.nl/maps/place/Station+%27s-Hertogenbosch',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5d13',
-    'mPid' => 'eddcd99829e00e0bc4867362eb59b789fac69a02',
-    'sPid' => 'fa4714821980696329630b45d9d34a6f',
   ),
   147 => 
   array (
@@ -1624,10 +1036,6 @@ $TrainStationsNL = array (
     'short' => 'HTO',
     'address' => '\'s-Hertogenbosch Oost',
     'gMaps' => 'https://www.google.nl/maps/place/Station+%27s-Hertogenbosch+Oost',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5d33',
-    'mPid' => '96d9b19c129ac9bcbe2a0619c1b0d69c56aa3bde',
-    'sPid' => 'fddc9cddb33ee9f68674b528143a8c3b',
   ),
   148 => 
   array (
@@ -1635,10 +1043,6 @@ $TrainStationsNL = array (
     'short' => 'AMRI',
     'address' => 'Almelo de Riet',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almelo+de+Riet',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5d57',
-    'mPid' => 'c1837a36fce3d0a3c3e118feedba1e75d8348dae',
-    'sPid' => 'c12019106c99cda44975e963f511befc',
   ),
   149 => 
   array (
@@ -1646,10 +1050,6 @@ $TrainStationsNL = array (
     'short' => 'APDM',
     'address' => 'Apeldoorn De Maten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Apeldoorn+De+Maten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5d77',
-    'mPid' => 'e4ce850eb6731e071eba7e241f58b2bb390b0476',
-    'sPid' => 'abfe89e14670d22b99a356023578245f',
   ),
   150 => 
   array (
@@ -1657,10 +1057,6 @@ $TrainStationsNL = array (
     'short' => 'DA',
     'address' => 'Daarlerveen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Daarlerveen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5d9a',
-    'mPid' => 'bc5ba5ffe96fc2af59c0ac45bd6f783ce327f32e',
-    'sPid' => 'b67f0b1b265275bd8e52e5ceaeacc4f7',
   ),
   151 => 
   array (
@@ -1668,10 +1064,6 @@ $TrainStationsNL = array (
     'short' => 'DLN',
     'address' => 'Dalen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dalen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5dba',
-    'mPid' => 'bb297a439919937a61818f2d6e3ef7545bc4a80c',
-    'sPid' => '74957c16fde4053736ebf190569cea4c',
   ),
   152 => 
   array (
@@ -1679,10 +1071,6 @@ $TrainStationsNL = array (
     'short' => 'DL',
     'address' => 'Dalfsen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dalfsen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5ddd',
-    'mPid' => '6a831cad4e827887978e65510e97f88280a4159b',
-    'sPid' => '000b1a43a9f131a11d255612ff91df2a',
   ),
   153 => 
   array (
@@ -1690,10 +1078,6 @@ $TrainStationsNL = array (
     'short' => 'DVNK',
     'address' => 'De Vink',
     'gMaps' => 'https://www.google.nl/maps/place/Station+De+Vink',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5dfd',
-    'mPid' => '919b3f6368d9af122c0884d8053f01743473308a',
-    'sPid' => '83cc3e68a39e3fbeda264e211adee725',
   ),
   154 => 
   array (
@@ -1701,10 +1085,6 @@ $TrainStationsNL = array (
     'short' => 'DECIN',
     'address' => 'Decin hl.n.',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Decin+hl.n.',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5e1d',
-    'mPid' => 'e8d55f7a625f00ea8cb2eac5d2ad86f496b72b20',
-    'sPid' => '02eac0d5633f0debdd4cd1b0014b5110',
   ),
   155 => 
   array (
@@ -1712,10 +1092,6 @@ $TrainStationsNL = array (
     'short' => 'DEI',
     'address' => 'Deinum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Deinum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5e3d',
-    'mPid' => '1e470d91322c6367e221c9d197d15dec96896ae8',
-    'sPid' => 'a1134c2c2aa7f3668fd407e7351eea5f',
   ),
   156 => 
   array (
@@ -1723,10 +1099,6 @@ $TrainStationsNL = array (
     'short' => 'DDN',
     'address' => 'Delden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Delden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5e69',
-    'mPid' => '95854bdf92ed814fc12c1484489996cb15b1abe1',
-    'sPid' => '6bca4791151a8a6ecfd9c5837c1aea2f',
   ),
   157 => 
   array (
@@ -1734,10 +1106,6 @@ $TrainStationsNL = array (
     'short' => 'DT',
     'address' => 'Delft',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Delft',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5ec9',
-    'mPid' => '19734b783cbebe0945a7d534be3f21a05130604f',
-    'sPid' => '85699cb0ddb824f94a3acc0c21dd4dbb',
   ),
   158 => 
   array (
@@ -1745,10 +1113,6 @@ $TrainStationsNL = array (
     'short' => 'DTZ',
     'address' => 'Delft Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Delft+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5ef7',
-    'mPid' => 'daca92318fce1a74eb43204f9686086d51212626',
-    'sPid' => '8a6ca7621c0862b88fb57474725d2cfb',
   ),
   159 => 
   array (
@@ -1756,10 +1120,6 @@ $TrainStationsNL = array (
     'short' => 'DZ',
     'address' => 'Delfzijl',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Delfzijl',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5f19',
-    'mPid' => 'b7d0d53d19b021168f27287f63fb05b35e66ab43',
-    'sPid' => '4103d26c98f009f5f6dd0e8b5b806ee3',
   ),
   160 => 
   array (
@@ -1767,10 +1127,6 @@ $TrainStationsNL = array (
     'short' => 'DZW',
     'address' => 'Delfzijl West',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Delfzijl+West',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5f35',
-    'mPid' => '75af2043fae3f1f9d37e2f079170571f5ca9e7f1',
-    'sPid' => '05afa584db259fc201a0d309b4001cd9',
   ),
   161 => 
   array (
@@ -1778,10 +1134,6 @@ $TrainStationsNL = array (
     'short' => 'DLD',
     'address' => 'Den Dolder',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Dolder',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5f58',
-    'mPid' => 'affbe127c46769675cbb63523ade3d121b5720e9',
-    'sPid' => 'b2a28f7f2e52416f9c4ea0ac4110d77b',
   ),
   162 => 
   array (
@@ -1789,10 +1141,6 @@ $TrainStationsNL = array (
     'short' => 'GVC',
     'address' => 'Den Haag Centraal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Haag+Centraal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5fa1',
-    'mPid' => '53dadd5e4189047dfcb7fb4d36b09a6b4e0ba097',
-    'sPid' => 'e2b2f02017825d48c151f53f444acee3',
   ),
   163 => 
   array (
@@ -1800,10 +1148,6 @@ $TrainStationsNL = array (
     'short' => 'GV',
     'address' => 'Den Haag HS',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Haag+HS',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5fc4',
-    'mPid' => '59dfe7095dc9f0f5ad9914553f7e1f56e3e54857',
-    'sPid' => '7c4968d26aae39aa5964bf443a7b6062',
   ),
   164 => 
   array (
@@ -1811,10 +1155,6 @@ $TrainStationsNL = array (
     'short' => 'LAA',
     'address' => 'Den Haag Laan v NOI',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Haag+Laan+v+NOI',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c5fe5',
-    'mPid' => 'ebfaff3d22883ccde7c209476ceee867b843af4c',
-    'sPid' => 'f7dbd9b516200f7f2aefc47cce26f1cc',
   ),
   165 => 
   array (
@@ -1822,10 +1162,6 @@ $TrainStationsNL = array (
     'short' => 'GVM',
     'address' => 'Den Haag Mariahoeve',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Haag+Mariahoeve',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6008',
-    'mPid' => '942f7c447cf5bc02889bc6cd8c83ac088ac6a672',
-    'sPid' => 'af4aff30c32bedde4ba7c29ba94cd88a',
   ),
   166 => 
   array (
@@ -1833,10 +1169,6 @@ $TrainStationsNL = array (
     'short' => 'GVMW',
     'address' => 'Den Haag Moerwijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Haag+Moerwijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6029',
-    'mPid' => 'db418d7123b62c90152fe8be50e08d2e9932a7a7',
-    'sPid' => '634db3b427c72590164b1fa92cb2e23e',
   ),
   167 => 
   array (
@@ -1844,10 +1176,6 @@ $TrainStationsNL = array (
     'short' => 'YPB',
     'address' => 'Den Haag Ypenburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Haag+Ypenburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c604c',
-    'mPid' => '2475b2691208b56ab3e13cb1979244e5a0e90fcb',
-    'sPid' => '4cf8bfd0f4430786ec6b0c779c36be45',
   ),
   168 => 
   array (
@@ -1855,10 +1183,6 @@ $TrainStationsNL = array (
     'short' => 'HDR',
     'address' => 'Den Helder',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Helder',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c606d',
-    'mPid' => 'ba9ce2c19b7f5c712acfc8c28f161f10d7d7f366',
-    'sPid' => '472841d3385a903f7b5e6d2b9014ed24',
   ),
   169 => 
   array (
@@ -1866,10 +1190,6 @@ $TrainStationsNL = array (
     'short' => 'HDRZ',
     'address' => 'Den Helder Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Helder+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6090',
-    'mPid' => 'bf91a0d785d05705dd2d839ef55a8d69d3791661',
-    'sPid' => 'fff830632602c63d45ca295f6ab32b6a',
   ),
   170 => 
   array (
@@ -1877,10 +1197,6 @@ $TrainStationsNL = array (
     'short' => 'DN',
     'address' => 'Deurne',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Deurne',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c60b1',
-    'mPid' => 'bb5bcc052ff0354c1096ef439aef0bc4deee821b',
-    'sPid' => '97af14f6f219e123315321c24308c733',
   ),
   171 => 
   array (
@@ -1888,10 +1204,6 @@ $TrainStationsNL = array (
     'short' => 'DV',
     'address' => 'Deventer',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Deventer',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c60d2',
-    'mPid' => 'd98e0835e2b2a9e4586d351cc1c9c77071b6804d',
-    'sPid' => '384472ce398cef245d8aaf2366da9dac',
   ),
   172 => 
   array (
@@ -1899,10 +1211,6 @@ $TrainStationsNL = array (
     'short' => 'DVC',
     'address' => 'Deventer Colmschate',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Deventer+Colmschate',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c60f5',
-    'mPid' => 'be150d61d8b380a8e5f7cdc3d2061391e36fe81f',
-    'sPid' => '83692c471c602747d9e5c28a7108560d',
   ),
   173 => 
   array (
@@ -1910,10 +1218,6 @@ $TrainStationsNL = array (
     'short' => 'DID',
     'address' => 'Didam',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Didam',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6116',
-    'mPid' => '748b6dc0468112720657b4b1fa6f4610b48c1b3f',
-    'sPid' => 'da62ba9de983a6a17dba85c56c8e447b',
   ),
   174 => 
   array (
@@ -1921,10 +1225,6 @@ $TrainStationsNL = array (
     'short' => 'DMN',
     'address' => 'Diemen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Diemen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6139',
-    'mPid' => 'c5cfaac87e4e4f0d09915bcb55dfa2a93ed4327f',
-    'sPid' => '2b96c40038a6969d88b0f1125b850426',
   ),
   175 => 
   array (
@@ -1932,10 +1232,6 @@ $TrainStationsNL = array (
     'short' => 'DMNZ',
     'address' => 'Diemen Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Diemen+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c615a',
-    'mPid' => '6d6b456fdb48a18e892ffac5340452e5f16bcd25',
-    'sPid' => '4b976a4fe9e8410f499699e53b99149a',
   ),
   176 => 
   array (
@@ -1943,10 +1239,6 @@ $TrainStationsNL = array (
     'short' => 'GDP',
     'address' => 'Diepenbeek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Diepenbeek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c617d',
-    'mPid' => '7829a0332aeee1c97949dde3b703d40c2f32313d',
-    'sPid' => 'db8f9a6ba9526b34dbce48bfdbc1cc1d',
   ),
   177 => 
   array (
@@ -1954,10 +1246,6 @@ $TrainStationsNL = array (
     'short' => 'DR',
     'address' => 'Dieren',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dieren',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c619e',
-    'mPid' => '64fed64e85edc90665cc85f7f6a4694f32fc516a',
-    'sPid' => 'fe7b0af79e55af8de60d48a7097dc1f7',
   ),
   178 => 
   array (
@@ -1965,10 +1253,6 @@ $TrainStationsNL = array (
     'short' => 'DTC',
     'address' => 'Doetinchem',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Doetinchem',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c61c2',
-    'mPid' => '6ce21bf4369b95bcf2ba74bbe5d08c5172d6bf4a',
-    'sPid' => '3c34669e481b6512e605893e9148a68d',
   ),
   179 => 
   array (
@@ -1976,10 +1260,6 @@ $TrainStationsNL = array (
     'short' => 'DTCH',
     'address' => 'Doetinchem De Huet',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Doetinchem+De+Huet',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c61e3',
-    'mPid' => '3ec24c35e7880fd41b70dc2d80e4c26b94e3cd20',
-    'sPid' => '34d6b9e2b0e3b6aab28a3866379fef7f',
   ),
   180 => 
   array (
@@ -1987,10 +1267,6 @@ $TrainStationsNL = array (
     'short' => 'DOMOD',
     'address' => 'Domodossola',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Domodossola',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6206',
-    'mPid' => 'd34b77f6cc3e8245797aeed48dd4caf0ba979749',
-    'sPid' => '7837acf1c3a044d3d35c2a05a558aa49',
   ),
   181 => 
   array (
@@ -1998,10 +1274,6 @@ $TrainStationsNL = array (
     'short' => 'DDR',
     'address' => 'Dordrecht',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dordrecht',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6227',
-    'mPid' => '6e54aefd38e81f6e23de541c32f10cc0e5a83d00',
-    'sPid' => '0169df7b02cef17933faf92698e365ae',
   ),
   182 => 
   array (
@@ -2009,10 +1281,6 @@ $TrainStationsNL = array (
     'short' => 'DDRS',
     'address' => 'Dordrecht Stadspolders',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dordrecht+Stadspolders',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6248',
-    'mPid' => '15e629f82bdde6002651a3d098a0045146714ac8',
-    'sPid' => '1a1843481e68f50fce631fdd27d96d59',
   ),
   183 => 
   array (
@@ -2020,10 +1288,6 @@ $TrainStationsNL = array (
     'short' => 'DDZD',
     'address' => 'Dordrecht Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dordrecht+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c626c',
-    'mPid' => '27b13b088b3f9451da350d21308ef539ec7bdada',
-    'sPid' => '14f7bc12c4d07412aa44b4a36c43a330',
   ),
   184 => 
   array (
@@ -2031,10 +1295,6 @@ $TrainStationsNL = array (
     'short' => 'EDD',
     'address' => 'Dortmund Derne',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dortmund+Derne',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c628c',
-    'mPid' => '638a9194843bff12281381bb31799808873df905',
-    'sPid' => 'b8402e3314c800a7940c9665acaaf0b6',
   ),
   185 => 
   array (
@@ -2042,10 +1302,6 @@ $TrainStationsNL = array (
     'short' => 'EDO',
     'address' => 'Dortmund Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dortmund+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c62b0',
-    'mPid' => 'e873bf4eb52860685a1e54268aa05f64b67e13d5',
-    'sPid' => '39021bab66f21b6b0b15e8a7d57ce36a',
   ),
   186 => 
   array (
@@ -2053,10 +1309,6 @@ $TrainStationsNL = array (
     'short' => 'EDKD',
     'address' => 'Dortmund Kirchderne',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dortmund+Kirchderne',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c62d1',
-    'mPid' => 'c932d50c2e5217bc8e76f09279aea0cf277ed269',
-    'sPid' => '1401debed0bb39c9878fba747545884c',
   ),
   187 => 
   array (
@@ -2064,10 +1316,6 @@ $TrainStationsNL = array (
     'short' => 'DRESD',
     'address' => 'Dresden Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dresden+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c62f5',
-    'mPid' => 'f1e0e592f08ccd0a3a568cc3ef78058947c77dcc',
-    'sPid' => '8caece3a7d11304b6dbe5a564aa873f9',
   ),
   188 => 
   array (
@@ -2075,10 +1323,6 @@ $TrainStationsNL = array (
     'short' => 'DRESDN',
     'address' => 'Dresden-Neustadt',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dresden-Neustadt',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6315',
-    'mPid' => '661f48519975b96aaf0762ab7b441e9aa829067e',
-    'sPid' => '417cb9d1dae69831b0bdcd6b7df5f006',
   ),
   189 => 
   array (
@@ -2086,10 +1330,6 @@ $TrainStationsNL = array (
     'short' => 'DB',
     'address' => 'Driebergen-Zeist',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Driebergen-Zeist',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6339',
-    'mPid' => 'be1f8c975d2b22cc48f3334f10377cd2441c9e1b',
-    'sPid' => '52a028f59a0ba0884d0b6bb0d2ea056b',
   ),
   190 => 
   array (
@@ -2097,10 +1337,6 @@ $TrainStationsNL = array (
     'short' => 'DRH',
     'address' => 'Driehuis',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Driehuis',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c635a',
-    'mPid' => 'e33cb1cf472f50681782ad08806032a5c1fb7525',
-    'sPid' => '859f30b70d61d198fe76fc820ba051c5',
   ),
   191 => 
   array (
@@ -2108,10 +1344,6 @@ $TrainStationsNL = array (
     'short' => 'DRP',
     'address' => 'Dronrijp',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dronrijp',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c637e',
-    'mPid' => '54519619c53dc1f127366e01561f04aa1d748481',
-    'sPid' => '7da0418e1e7b2ed2afbc48680be645a7',
   ),
   192 => 
   array (
@@ -2119,10 +1351,6 @@ $TrainStationsNL = array (
     'short' => 'DRON',
     'address' => 'Dronten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dronten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c639f',
-    'mPid' => '5d218f2daa9cc71857a985e8ed6b024e172b0c75',
-    'sPid' => '3da21efac2ff658fb812c658144a3598',
   ),
   193 => 
   array (
@@ -2130,10 +1358,6 @@ $TrainStationsNL = array (
     'short' => 'FDP',
     'address' => 'Duffel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Duffel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c63c2',
-    'mPid' => 'caa38a15d557812a449b50f180100c0da4b1006a',
-    'sPid' => '695f4aa3176137b9f51d1088d32a59b0',
   ),
   194 => 
   array (
@@ -2141,10 +1365,6 @@ $TrainStationsNL = array (
     'short' => 'DUISB',
     'address' => 'Duisburg Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Duisburg+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c63e3',
-    'mPid' => '898063414b141277871809e039a5215476f6d512',
-    'sPid' => 'a64f26c112110128ee57b86bb5420126',
   ),
   195 => 
   array (
@@ -2152,10 +1372,6 @@ $TrainStationsNL = array (
     'short' => 'DVN',
     'address' => 'Duiven',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Duiven',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6403',
-    'mPid' => 'cd29b06476cae310286f9d8eb81ba80715aae694',
-    'sPid' => 'f0877427acc60519afc5329bb7563785',
   ),
   196 => 
   array (
@@ -2163,10 +1379,6 @@ $TrainStationsNL = array (
     'short' => 'DVD',
     'address' => 'Duivendrecht',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Duivendrecht',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6427',
-    'mPid' => '790b169e98051360af834be62d46a762c90e6dc7',
-    'sPid' => '0eeea4ebcbb56c9c57d97d51fd0cc29b',
   ),
   197 => 
   array (
@@ -2174,10 +1386,6 @@ $TrainStationsNL = array (
     'short' => 'KDUL',
     'address' => 'Dülken',
     'gMaps' => 'https://www.google.nl/maps/place/Station+D%C3%BClken',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6448',
-    'mPid' => '4bdf4ba9463f51f27efc3ef1114ac0a513f4903c',
-    'sPid' => '883488c9fe32511a5a3f4c0ebcebe770',
   ),
   198 => 
   array (
@@ -2185,10 +1393,6 @@ $TrainStationsNL = array (
     'short' => 'EDULH',
     'address' => 'Dülmen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+D%C3%BClmen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c646c',
-    'mPid' => '917041dcd00efc8d53ee66b53e8c8c06ed3dd5bb',
-    'sPid' => '8046086d6669d743ebc58341eed5d6d2',
   ),
   199 => 
   array (
@@ -2196,10 +1400,6 @@ $TrainStationsNL = array (
     'short' => 'KDR',
     'address' => 'Düren',
     'gMaps' => 'https://www.google.nl/maps/place/Station+D%C3%BCren',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c648c',
-    'mPid' => '470d8dbb468e4e4483b5ba6af7de5b91c7d9dd92',
-    'sPid' => '7c6d14a36ec0efeba5c79a1da0501269',
   ),
   200 => 
   array (
@@ -2207,10 +1407,6 @@ $TrainStationsNL = array (
     'short' => 'DUSSEL',
     'address' => 'Düsseldorf Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+D%C3%BCsseldorf+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c64b0',
-    'mPid' => '2b72bca1e6c3dbf3186ad2b3f6a05c9efdd9bcc7',
-    'sPid' => 'b1f5576fd2bcd1cb60560eb15f90fd79',
   ),
   201 => 
   array (
@@ -2218,10 +1414,6 @@ $TrainStationsNL = array (
     'short' => 'ESE',
     'address' => 'Enschede De Eschmarke',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Enschede+De+Eschmarke',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c64d1',
-    'mPid' => '422a156dca37e4445631796eadb99829eb7e1bb7',
-    'sPid' => '66094d5deb9e0c116b2d2c119a0fa128',
   ),
   202 => 
   array (
@@ -2229,10 +1421,6 @@ $TrainStationsNL = array (
     'short' => 'ESD',
     'address' => 'Enschede Drienerlo',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Enschede+Drienerlo',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c64f5',
-    'mPid' => '0f4c84166e0c222a7d8bc7cc233a220cc467a7b7',
-    'sPid' => '1cf1e4a7c7839ebcccdfdbc596bbb829',
   ),
   203 => 
   array (
@@ -2240,10 +1428,6 @@ $TrainStationsNL = array (
     'short' => 'HRLK',
     'address' => 'Heerlen De Kissel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heerlen+De+Kissel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6515',
-    'mPid' => '718ab17b3dcf048b52f53c5420e7bf32f56d4d2e',
-    'sPid' => '572d838bbd05a0bfeb0c04aef03992ab',
   ),
   204 => 
   array (
@@ -2251,10 +1435,6 @@ $TrainStationsNL = array (
     'short' => 'NMD',
     'address' => 'Nijmegen Dukenburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nijmegen+Dukenburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6539',
-    'mPid' => '93af08d1d34d585c445f527c61d60b59d2e2d7eb',
-    'sPid' => 'dfd8425607bb41bc853fed6d03ad4842',
   ),
   205 => 
   array (
@@ -2262,10 +1442,6 @@ $TrainStationsNL = array (
     'short' => 'KLP',
     'address' => 'Veenendaal-De Klomp',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Veenendaal-De+Klomp',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6559',
-    'mPid' => '438b1246f365ef0b4fc4044c53b0ff8d38c1fb62',
-    'sPid' => 'a590c8ed3ce76da7be6e328a9ba93dcf',
   ),
   206 => 
   array (
@@ -2273,10 +1449,6 @@ $TrainStationsNL = array (
     'short' => 'EBBS',
     'address' => 'Ebbsfleet International',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ebbsfleet+International',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c657a',
-    'mPid' => 'b162b02b4730707cbe18f09bd5793c33f14fd8ce',
-    'sPid' => '5b328f5309af51d98a405a269aea870e',
   ),
   207 => 
   array (
@@ -2284,10 +1456,6 @@ $TrainStationsNL = array (
     'short' => 'EC',
     'address' => 'Echt',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Echt',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c65c7',
-    'mPid' => '0751b4ef1f3e3d7d382fda87b1dea7f8224fc39e',
-    'sPid' => 'b6c60af21aae76e6e064cbb3d51b52f8',
   ),
   208 => 
   array (
@@ -2295,10 +1463,6 @@ $TrainStationsNL = array (
     'short' => 'EDC',
     'address' => 'Ede Centrum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ede+Centrum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c65e8',
-    'mPid' => '561461c7146e5a0de02759b548cc49448ee7914e',
-    'sPid' => 'd100d91040664064ddd02e53adf1daf2',
   ),
   209 => 
   array (
@@ -2306,10 +1470,6 @@ $TrainStationsNL = array (
     'short' => 'ED',
     'address' => 'Ede-Wageningen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ede-Wageningen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c660b',
-    'mPid' => '549627137ee7cb5e92a75b73c67cf3911b8c50f2',
-    'sPid' => '370730aabe6d90aa2945932eaad55fe7',
   ),
   210 => 
   array (
@@ -2317,10 +1477,6 @@ $TrainStationsNL = array (
     'short' => 'WTM',
     'address' => 'Eijs-Wittem',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eijs-Wittem',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c662c',
-    'mPid' => '51a03e43e3cc11a7883c4199eb1b388b64454ea7',
-    'sPid' => '42375c66eec6aba956fa5384689af56c',
   ),
   211 => 
   array (
@@ -2328,10 +1484,6 @@ $TrainStationsNL = array (
     'short' => 'EDN',
     'address' => 'Eijsden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eijsden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6650',
-    'mPid' => '7963a989873b1aeb6c2a2a3493c22abc406c698d',
-    'sPid' => '4da7e1cd77179a2169bbd3350f27933b',
   ),
   212 => 
   array (
@@ -2339,10 +1491,6 @@ $TrainStationsNL = array (
     'short' => 'EDF',
     'address' => 'Eilendorf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eilendorf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6670',
-    'mPid' => '5c4bad18df36e63d65761ce529e2144025f7e4dd',
-    'sPid' => 'b27e17f936dd255f09d9094bf865888a',
   ),
   213 => 
   array (
@@ -2350,10 +1498,6 @@ $TrainStationsNL = array (
     'short' => 'EHV',
     'address' => 'Eindhoven',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eindhoven',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6694',
-    'mPid' => 'df897dd72374de98b3cb7bb4ec7967110d0dbaf4',
-    'sPid' => 'ad4f045f8880a2140a1f3e73e7090f68',
   ),
   214 => 
   array (
@@ -2361,10 +1505,6 @@ $TrainStationsNL = array (
     'short' => 'EHB',
     'address' => 'Eindhoven Beukenlaan',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eindhoven+Beukenlaan',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c66b4',
-    'mPid' => 'c52a64a7a8202683c7ddc09aacd3489b099cee2a',
-    'sPid' => 'd6112842e22d2a88f4d332611b3c78c7',
   ),
   215 => 
   array (
@@ -2372,10 +1512,6 @@ $TrainStationsNL = array (
     'short' => 'LKR',
     'address' => 'Ekeren',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ekeren',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c66d8',
-    'mPid' => 'a1796b9757095aedadcb9dcac20dae67c3b2d8e4',
-    'sPid' => 'bcd8d8bd9f4ff23c810bfa8da69c2454',
   ),
   216 => 
   array (
@@ -2383,10 +1519,6 @@ $TrainStationsNL = array (
     'short' => 'EST',
     'address' => 'Elst',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Elst',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c66f9',
-    'mPid' => 'de790d52324caf520ca41afd1fc5a9e67532c7fa',
-    'sPid' => '4225b390607ce5a0af13251443285a51',
   ),
   217 => 
   array (
@@ -2394,10 +1526,6 @@ $TrainStationsNL = array (
     'short' => 'EMN',
     'address' => 'Emmen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Emmen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c671d',
-    'mPid' => 'ac67cba6cbd0363a78c03ffe7ae1d9444d612b48',
-    'sPid' => '084d27e2eb59beee073fc18c9d742fd5',
   ),
   218 => 
   array (
@@ -2405,10 +1533,6 @@ $TrainStationsNL = array (
     'short' => 'EMNZ',
     'address' => 'Emmen Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Emmen+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c673e',
-    'mPid' => '9f47e0388082aaa4cb7c8fb9a673c42ca8d41c95',
-    'sPid' => 'c9578735eaac1dccfa1791195780d181',
   ),
   219 => 
   array (
@@ -2416,10 +1540,6 @@ $TrainStationsNL = array (
     'short' => 'EM',
     'address' => 'Emmerich',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Emmerich',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c675e',
-    'mPid' => '3827d640ac43578d1b185861c883d20a86511484',
-    'sPid' => 'a2e43ac122cb7b5cfa879569eeaf60c6',
   ),
   220 => 
   array (
@@ -2427,10 +1547,6 @@ $TrainStationsNL = array (
     'short' => 'EKZ',
     'address' => 'Enkhuizen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Enkhuizen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6782',
-    'mPid' => '11db32399fe0bf408509896fe798038d4f1ae5e0',
-    'sPid' => '8978912d7af57ec048f2200a06f4a5f0',
   ),
   221 => 
   array (
@@ -2438,10 +1554,6 @@ $TrainStationsNL = array (
     'short' => 'Gevelsberg)',
     'address' => 'Ennepetal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ennepetal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c67a3',
-    'mPid' => '322ce70facce4dd31cb51cdc22582f2b3cb69466',
-    'sPid' => '5ed0c112188dc33902e6926fc2054ef2',
   ),
   222 => 
   array (
@@ -2449,10 +1561,6 @@ $TrainStationsNL = array (
     'short' => 'ES',
     'address' => 'Enschede',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Enschede',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c67c6',
-    'mPid' => '5f56b1bf5037f7050520b728d8a758a403c129d2',
-    'sPid' => 'd31e23a9ef3e9063be407d1464c9a830',
   ),
   223 => 
   array (
@@ -2460,10 +1568,6 @@ $TrainStationsNL = array (
     'short' => 'ESE',
     'address' => 'Enschede De Eschmarke',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Enschede+De+Eschmarke',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c67e7',
-    'mPid' => '0d3dd15c1c5036487951e888971bad88a8ddacca',
-    'sPid' => '668129915466f0f3c5e1ac32d92dd199',
   ),
   224 => 
   array (
@@ -2471,10 +1575,6 @@ $TrainStationsNL = array (
     'short' => 'ESD',
     'address' => 'Enschede Drienerlo',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Enschede+Drienerlo',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c680b',
-    'mPid' => 'a83be25c71b4363135a28091bd7d2269aef0f5bb',
-    'sPid' => 'cc92e2b5684bf48c7f65138592b2e108',
   ),
   225 => 
   array (
@@ -2482,10 +1582,6 @@ $TrainStationsNL = array (
     'short' => 'Westf)',
     'address' => 'Epe',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Epe',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c682c',
-    'mPid' => 'd12083fff37b2fc7a249592ee60537b2de4ba2ca',
-    'sPid' => '326972c7aafe24ea6a42c46c8f90191a',
   ),
   226 => 
   array (
@@ -2493,10 +1589,6 @@ $TrainStationsNL = array (
     'short' => 'EML',
     'address' => 'Ermelo',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ermelo',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6859',
-    'mPid' => '20451e1c5e808f7315094766ee7b44639295c6ee',
-    'sPid' => 'fc8d1131193e23bf703a368b43419ab0',
   ),
   227 => 
   array (
@@ -2504,10 +1596,6 @@ $TrainStationsNL = array (
     'short' => 'ESCH',
     'address' => 'Eschweiler Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eschweiler+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6879',
-    'mPid' => '3d9056ef4077a1d1669e70dcad7f267d55aaefef',
-    'sPid' => 'cdf0b5d299129a69cd5603370ec89257',
   ),
   228 => 
   array (
@@ -2515,10 +1603,6 @@ $TrainStationsNL = array (
     'short' => 'ESCHT',
     'address' => 'Eschweiler Talbahnhof',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eschweiler+Talbahnhof',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c689b',
-    'mPid' => '553a4d9989f3ba87374653aca7dded6ed49b5f3e',
-    'sPid' => 'ac35aef16ee757598b47465168ba6802',
   ),
   229 => 
   array (
@@ -2526,10 +1610,6 @@ $TrainStationsNL = array (
     'short' => 'ESCHN',
     'address' => 'Eschweiler-Nothberg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eschweiler-Nothberg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c68bb',
-    'mPid' => 'daaf0a518d2bee25df00cdfdcfa0f21e1e170042',
-    'sPid' => '856f1e2041f8fe28d9c3b53af401f14d',
   ),
   230 => 
   array (
@@ -2537,10 +1617,6 @@ $TrainStationsNL = array (
     'short' => 'EWEIS',
     'address' => 'Eschweiler-Weisweiler',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eschweiler-Weisweiler',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c68db',
-    'mPid' => '29207ef5092807f899a2208b88ac886c1a86f74d',
-    'sPid' => '1c9e8cbb50b29fd6b221019c612d452c',
   ),
   231 => 
   array (
@@ -2548,10 +1624,6 @@ $TrainStationsNL = array (
     'short' => 'ESCHW',
     'address' => 'Eschweiler-West',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eschweiler-West',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6927',
-    'mPid' => '577f19c2640dccef8edf0bc0f120b5c622aa4d3e',
-    'sPid' => '5f2194ceccb823470d41b11dd7a12b8a',
   ),
   232 => 
   array (
@@ -2559,10 +1631,6 @@ $TrainStationsNL = array (
     'short' => 'Belgie)',
     'address' => 'Essen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Essen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6946',
-    'mPid' => 'b046fd028a4842cb81f28f802a73f0453cf1a7c2',
-    'sPid' => '1cd9b5ff36f6231d525af22c9380f989',
   ),
   233 => 
   array (
@@ -2570,10 +1638,6 @@ $TrainStationsNL = array (
     'short' => 'ETN',
     'address' => 'Etten-Leur',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Etten-Leur',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6969',
-    'mPid' => 'c9fc24cc6b442b4e5c22695edaa6168db0de7a63',
-    'sPid' => 'd55a6e5c001445c8ee2ade0bbcf85ac8',
   ),
   234 => 
   array (
@@ -2581,10 +1645,6 @@ $TrainStationsNL = array (
     'short' => 'EGH',
     'address' => 'Eygelshoven',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eygelshoven',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6989',
-    'mPid' => '34836d9a5f9cc0bbdf456d145f2d5ab9405a6d84',
-    'sPid' => '5013532bf710cbddd5e8f784a6e0b788',
   ),
   235 => 
   array (
@@ -2592,10 +1652,6 @@ $TrainStationsNL = array (
     'short' => 'EGHM',
     'address' => 'Eygelshoven Markt',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Eygelshoven+Markt',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c69ac',
-    'mPid' => 'cadce2acb367feeacad84546667d6ff9e4184f6b',
-    'sPid' => '726074a24485928f54ef43b4fa404b16',
   ),
   236 => 
   array (
@@ -2603,10 +1659,6 @@ $TrainStationsNL = array (
     'short' => 'GERP',
     'address' => 'Groningen Europapark',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Groningen+Europapark',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c69cc',
-    'mPid' => 'd9351fe581b8e4a6e99e7fccb99becc71db1c1a6',
-    'sPid' => '39cbb1f4339882880096d18155f81fe7',
   ),
   237 => 
   array (
@@ -2614,10 +1666,6 @@ $TrainStationsNL = array (
     'short' => 'FIEBER',
     'address' => 'Fieberbrunn',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Fieberbrunn',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c69ee',
-    'mPid' => 'd3c6f72776163b5f6a65124cb72596b5f87c6a11',
-    'sPid' => 'd2fcb0ce14d163dacd11f31de1a27013',
   ),
   238 => 
   array (
@@ -2625,10 +1673,6 @@ $TrainStationsNL = array (
     'short' => 'FN',
     'address' => 'Franeker',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Franeker',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6a0e',
-    'mPid' => 'd2e5b4371aa7d9848950c93e6aa648505079d5ce',
-    'sPid' => '38a2e6a9cf419e26b7cd27ea19c43ac1',
   ),
   239 => 
   array (
@@ -2636,10 +1680,6 @@ $TrainStationsNL = array (
     'short' => 'M) Hbf',
     'address' => 'Frankfurt',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Frankfurt',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6a30',
-    'mPid' => '54a9dc6390e096b2a060d0c64d2ae7baa9bcb73d',
-    'sPid' => '1c1ae71077730e690bbc53d8875d8f47',
   ),
   240 => 
   array (
@@ -2647,10 +1687,6 @@ $TrainStationsNL = array (
     'short' => 'Oder)',
     'address' => 'Frankfurt',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Frankfurt',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6a50',
-    'mPid' => 'addf0a906bf06636e97f8da3ddea48c7335c609f',
-    'sPid' => 'bb4d433a3a89a97e8917808efb36bd64',
   ),
   241 => 
   array (
@@ -2658,10 +1694,6 @@ $TrainStationsNL = array (
     'short' => 'FNAF',
     'address' => 'Frankfurt Flughafen Fernb',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Frankfurt+Flughafen+Fernb',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6a73',
-    'mPid' => 'c891b096d39bd5fbd61399450fac5097abbd41ba',
-    'sPid' => 'dece7aa58f142740be99b73eb3a22e5c',
   ),
   242 => 
   array (
@@ -2669,10 +1701,6 @@ $TrainStationsNL = array (
     'short' => 'Breisgau) Hbf',
     'address' => 'Freiburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Freiburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6a93',
-    'mPid' => '595de6a395ba031b25e8092069323acb640fa977',
-    'sPid' => '3d831198cd515370d6d14268ad375acb',
   ),
   243 => 
   array (
@@ -2680,10 +1708,6 @@ $TrainStationsNL = array (
     'short' => 'GDR',
     'address' => 'Gaanderen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Gaanderen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6ab2',
-    'mPid' => '5c39b941c1e77d8232273d5d57cdebc919d26b0d',
-    'sPid' => 'e592d3222b42dd74c88b48915d76aac6',
   ),
   244 => 
   array (
@@ -2691,10 +1715,6 @@ $TrainStationsNL = array (
     'short' => 'GDK',
     'address' => 'Geerdijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Geerdijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6ad5',
-    'mPid' => '4b309c09827d10fd1072110c19750b121a1d7c3f',
-    'sPid' => 'd09c2b8c13decea8e761f94a6259fdd7',
   ),
   245 => 
   array (
@@ -2702,10 +1722,6 @@ $TrainStationsNL = array (
     'short' => 'GEISL',
     'address' => 'Geislingen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Geislingen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6af4',
-    'mPid' => '56631c0fefbfce086ac055653f52cdbcf506584f',
-    'sPid' => '3151179d32d9d4732b082f45dec720ae',
   ),
   246 => 
   array (
@@ -2713,10 +1729,6 @@ $TrainStationsNL = array (
     'short' => 'GDM',
     'address' => 'Geldermalsen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Geldermalsen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6b17',
-    'mPid' => 'b8a0544b524d0318e85dd4571a1bdaa5e7e39a53',
-    'sPid' => 'e18e1f849530521a0afca44962388f2c',
   ),
   247 => 
   array (
@@ -2724,10 +1736,6 @@ $TrainStationsNL = array (
     'short' => 'GP',
     'address' => 'Geldrop',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Geldrop',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6b37',
-    'mPid' => '9f4e65894f0eaf28eb8ef17ecbb30b64ccc620ea',
-    'sPid' => 'dc64a20d9e0924e71f1c80b866fd022d',
   ),
   248 => 
   array (
@@ -2735,10 +1743,6 @@ $TrainStationsNL = array (
     'short' => 'GLN',
     'address' => 'Geleen Oost',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Geleen+Oost',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6b5a',
-    'mPid' => '276aaa3c403c7b55f210a9d32c83e6bb09acca01',
-    'sPid' => '9696a942c9739538625df35ae251d832',
   ),
   249 => 
   array (
@@ -2746,10 +1750,6 @@ $TrainStationsNL = array (
     'short' => 'LUT',
     'address' => 'Geleen-Lutterade',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Geleen-Lutterade',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6b7a',
-    'mPid' => 'e08a986a54d94848d7c08cd4ff919373a2c222d1',
-    'sPid' => 'cd39deddd42a234a30a61b19a4dd46e7',
   ),
   250 => 
   array (
@@ -2757,10 +1757,6 @@ $TrainStationsNL = array (
     'short' => 'GZ',
     'address' => 'Gilze-Rijen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Gilze-Rijen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6b9c',
-    'mPid' => '2506642a192835df3ea22065b92ef169ea767d25',
-    'sPid' => 'ec1c48ebfb3cff1838c4d52043311920',
   ),
   251 => 
   array (
@@ -2768,10 +1764,6 @@ $TrainStationsNL = array (
     'short' => 'GBR',
     'address' => 'Glanerbrug',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Glanerbrug',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6bbc',
-    'mPid' => 'a3085067dd3067ea53f9507ace707d818e194201',
-    'sPid' => 'd02c2a058ee03c9ff0abe5e392526994',
   ),
   252 => 
   array (
@@ -2779,10 +1771,6 @@ $TrainStationsNL = array (
     'short' => 'LGL',
     'address' => 'Glons',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Glons',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6bdf',
-    'mPid' => 'e37cdf4946089ac27f7e07b8506fe8dae7e03fd3',
-    'sPid' => '4e08d01475b95bc7e7dec10f6d04edc9',
   ),
   253 => 
   array (
@@ -2790,10 +1778,6 @@ $TrainStationsNL = array (
     'short' => 'GS',
     'address' => 'Goes',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Goes',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6bfe',
-    'mPid' => '092188c2d850540875fccde6041dd29bfd96d58b',
-    'sPid' => '0a79cca388ee569f89e39979c05c6ad2',
   ),
   254 => 
   array (
@@ -2801,10 +1785,6 @@ $TrainStationsNL = array (
     'short' => 'GO',
     'address' => 'Goor',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Goor',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6c1e',
-    'mPid' => 'b9c4208d02109bd0d1102d5601db426418041a99',
-    'sPid' => 'd51be1e69a2b0ce21ab50b721b9dba40',
   ),
   255 => 
   array (
@@ -2812,10 +1792,6 @@ $TrainStationsNL = array (
     'short' => 'GR',
     'address' => 'Gorinchem',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Gorinchem',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6c69',
-    'mPid' => '078a0c3237bf5c03b0daaebeabe55b98daf0f925',
-    'sPid' => '97239361130892283eeee15066a1d252',
   ),
   256 => 
   array (
@@ -2823,10 +1799,6 @@ $TrainStationsNL = array (
     'short' => 'GD',
     'address' => 'Gouda',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Gouda',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6c88',
-    'mPid' => 'e5c51843c20c92479336c69b9894fd1f69b27ac6',
-    'sPid' => 'c0fe07cbc535075e8119d3ede1d0a1ba',
   ),
   257 => 
   array (
@@ -2834,10 +1806,6 @@ $TrainStationsNL = array (
     'short' => 'GDG',
     'address' => 'Gouda Goverwelle',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Gouda+Goverwelle',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6cb2',
-    'mPid' => '5661f4d9f8dd937db07b2e5237d6c8cb15469f30',
-    'sPid' => 'a44dab061222ea5e2c4736895a623503',
   ),
   258 => 
   array (
@@ -2845,10 +1813,6 @@ $TrainStationsNL = array (
     'short' => 'GBG',
     'address' => 'Gramsbergen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Gramsbergen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6cd2',
-    'mPid' => '1d0e4640e2b7ba39b1927ac183392c9af42f5f11',
-    'sPid' => 'ed882478e011ee81330ffcd9c22b577d',
   ),
   259 => 
   array (
@@ -2856,10 +1820,6 @@ $TrainStationsNL = array (
     'short' => 'GK',
     'address' => 'Grijpskerk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Grijpskerk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6cf2',
-    'mPid' => 'fe06153bd725b2c285a174cd7f27544bfacc5cc0',
-    'sPid' => '1ffe3ca0fdf1113d0acefde91e707fc2',
   ),
   260 => 
   array (
@@ -2867,10 +1827,6 @@ $TrainStationsNL = array (
     'short' => 'Westf.)',
     'address' => 'Gronau',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Gronau',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6d15',
-    'mPid' => '5be6fff10687c47efbe7aacae12cdbceebd9a987',
-    'sPid' => '680d7f27c083f69e41fadd4e4f020e52',
   ),
   261 => 
   array (
@@ -2878,10 +1834,6 @@ $TrainStationsNL = array (
     'short' => 'GN',
     'address' => 'Groningen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Groningen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6d34',
-    'mPid' => '2772a6081b42f019555410d7bbe3cabdf6c82c98',
-    'sPid' => 'e10185c79d38469fd43de98d34d5e255',
   ),
   262 => 
   array (
@@ -2889,10 +1841,6 @@ $TrainStationsNL = array (
     'short' => 'GERP',
     'address' => 'Groningen Europapark',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Groningen+Europapark',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6d57',
-    'mPid' => 'c374bfbc185c194d037babf7e91af296c11146ec',
-    'sPid' => 'c84f279972d424e89a37bdcffc72c989',
   ),
   263 => 
   array (
@@ -2900,10 +1848,6 @@ $TrainStationsNL = array (
     'short' => 'GNN',
     'address' => 'Groningen Noord',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Groningen+Noord',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6d77',
-    'mPid' => '1d871d36d412d8c935d76cbb33c2b03f9c986737',
-    'sPid' => '14bb40030b644658c5f28990623afb0d',
   ),
   264 => 
   array (
@@ -2911,10 +1855,6 @@ $TrainStationsNL = array (
     'short' => 'GW',
     'address' => 'Grou-Jirnsum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Grou-Jirnsum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6d99',
-    'mPid' => '2a91830cc14c89dac9a39914d86b409b1e364a79',
-    'sPid' => '713a300b52396b21ada9fa299cbdb43d',
   ),
   265 => 
   array (
@@ -2922,10 +1862,6 @@ $TrainStationsNL = array (
     'short' => 'WIJ',
     'address' => 'Gulpen-Wijlre',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Gulpen-Wijlre',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6db9',
-    'mPid' => '3c02a4597465d74280ecd2a23d64561931b12f2b',
-    'sPid' => 'dbfe68aa8dc0da999bd22012e2437733',
   ),
   266 => 
   array (
@@ -2933,10 +1869,6 @@ $TrainStationsNL = array (
     'short' => 'TGO',
     'address' => 'Göppingen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+G%C3%B6ppingen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6dd9',
-    'mPid' => 'a83d15d35edd2e4a62cccea126872e109ede3cb4',
-    'sPid' => 'ccb63961454dec5d5b2ddee14c09fc31',
   ),
   267 => 
   array (
@@ -2944,10 +1876,6 @@ $TrainStationsNL = array (
     'short' => 'MGZB',
     'address' => 'Günzburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+G%C3%BCnzburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6dfb',
-    'mPid' => '672ea7411b0ae0898fefc0eadf6845df7f5f5214',
-    'sPid' => '9e898bb6b1bbb31fad64aa59a2b78afc',
   ),
   268 => 
   array (
@@ -2955,10 +1883,6 @@ $TrainStationsNL = array (
     'short' => 'NMGO',
     'address' => 'Nijmegen Goffert',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nijmegen+Goffert',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6e1b',
-    'mPid' => '347b0f26202875719f0309213ca6ec993c81b5f5',
-    'sPid' => '11c4b8605ba2168b99ce2e3fac69f456',
   ),
   269 => 
   array (
@@ -2966,10 +1890,6 @@ $TrainStationsNL = array (
     'short' => 'HT',
     'address' => '\'s-Hertogenbosch',
     'gMaps' => 'https://www.google.nl/maps/place/Station+%27s-Hertogenbosch',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6e3d',
-    'mPid' => 'c770ccce8b652e3108173c6a6cb558fe74320628',
-    'sPid' => '5559a84b8bd954aa00f1039c1eb3e620',
   ),
   270 => 
   array (
@@ -2977,10 +1897,6 @@ $TrainStationsNL = array (
     'short' => 'HTO',
     'address' => '\'s-Hertogenbosch Oost',
     'gMaps' => 'https://www.google.nl/maps/place/Station+%27s-Hertogenbosch+Oost',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6e5d',
-    'mPid' => '7d4c1f4cd7f05bd08a06d1dd7cccfcae2eb68c7a',
-    'sPid' => 'c8aa6b0164900ae6518b45e7e7781da6',
   ),
   271 => 
   array (
@@ -2988,10 +1904,6 @@ $TrainStationsNL = array (
     'short' => 'HDE',
     'address' => '\'t Harde',
     'gMaps' => 'https://www.google.nl/maps/place/Station+%27t+Harde',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6e80',
-    'mPid' => 'f4129262396fa47dcb434946c5e2e9d471037989',
-    'sPid' => 'ba5f01106dca14077929001a995102bf',
   ),
   272 => 
   array (
@@ -2999,10 +1911,6 @@ $TrainStationsNL = array (
     'short' => 'ASHD',
     'address' => 'Amsterdam Holendrecht',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Holendrecht',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6e9f',
-    'mPid' => '8de9f19cac471973cdded66232c3a3d8a219a312',
-    'sPid' => '68e6bb9223d2629cce009d9b4e9714bc',
   ),
   273 => 
   array (
@@ -3010,10 +1918,6 @@ $TrainStationsNL = array (
     'short' => 'HLM',
     'address' => 'Haarlem',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Haarlem',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6ec2',
-    'mPid' => '03df3c5f4c7fdfb1b657be100e5b03caf0253a52',
-    'sPid' => '578078b3e071723f5c2e926c3c02ee20',
   ),
   274 => 
   array (
@@ -3021,10 +1925,6 @@ $TrainStationsNL = array (
     'short' => 'HLMS',
     'address' => 'Haarlem Spaarnwoude',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Haarlem+Spaarnwoude',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6ee1',
-    'mPid' => '9a6c0092709c9174f07c3a96cf91b6f13459cb84',
-    'sPid' => '9d52df68bb7ef7244cbf20b62b3fb81e',
   ),
   275 => 
   array (
@@ -3032,10 +1932,6 @@ $TrainStationsNL = array (
     'short' => 'HAGEN',
     'address' => 'Hagen Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hagen+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6f04',
-    'mPid' => '2886bfdc69f2926cd4db2468edc9e8f619652104',
-    'sPid' => '7781d59f92ce4180908f8151cc47e014',
   ),
   276 => 
   array (
@@ -3043,10 +1939,6 @@ $TrainStationsNL = array (
     'short' => 'HWZB',
     'address' => 'Halfweg-Zwanenburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Halfweg-Zwanenburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6f24',
-    'mPid' => 'de1f72180f1f25e994e2e9b5e012b592abd938cd',
-    'sPid' => 'bab3fba10d4539530167df819b953525',
   ),
   277 => 
   array (
@@ -3054,10 +1946,6 @@ $TrainStationsNL = array (
     'short' => 'HAMH',
     'address' => 'Hamburg Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hamburg+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6f46',
-    'mPid' => 'ad31f60f7cf23fe2df3b6b5669b71699f255dff2',
-    'sPid' => '1d60f900eee10cce168f356f3c4ac51b',
   ),
   278 => 
   array (
@@ -3065,10 +1953,6 @@ $TrainStationsNL = array (
     'short' => 'Westf.)',
     'address' => 'Hamm',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hamm',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6f66',
-    'mPid' => 'bd96c29a0cafb4878a819302d93e777ccce01ca6',
-    'sPid' => '91029745fe5001709d044092481ed135',
   ),
   279 => 
   array (
@@ -3076,10 +1960,6 @@ $TrainStationsNL = array (
     'short' => 'HANN',
     'address' => 'Hannover Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hannover+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6f85',
-    'mPid' => 'fd37f449f33c1ba054f7e3355bbf41edf7435175',
-    'sPid' => 'cd38978032b5800b13df5adfb7f4e340',
   ),
   280 => 
   array (
@@ -3087,10 +1967,6 @@ $TrainStationsNL = array (
     'short' => 'HDB',
     'address' => 'Hardenberg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hardenberg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6fa8',
-    'mPid' => 'e71de0d991d43a2441031709db510dd5b37ae9bb',
-    'sPid' => 'ddad3cf6d5d3d56d1a5742f93fc267d3',
   ),
   281 => 
   array (
@@ -3098,10 +1974,6 @@ $TrainStationsNL = array (
     'short' => 'HD',
     'address' => 'Harderwijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Harderwijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6fc8',
-    'mPid' => 'cf488e88ca36530d64a4d31cae9afc64d5e73b5e',
-    'sPid' => '8bc7c82558c97825424471d58c3de2ea',
   ),
   282 => 
   array (
@@ -3109,10 +1981,6 @@ $TrainStationsNL = array (
     'short' => 'HBZM',
     'address' => 'Hardinxveld Blauwe Zoom',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hardinxveld+Blauwe+Zoom',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c6fea',
-    'mPid' => 'd9c9985914169a62f53f1834c7c5dc2236b70d03',
-    'sPid' => '3968d75d1f2017e04dad61649d6f536d',
   ),
   283 => 
   array (
@@ -3120,10 +1988,6 @@ $TrainStationsNL = array (
     'short' => 'GND',
     'address' => 'Hardinxveld-Giessendam',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hardinxveld-Giessendam',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c700a',
-    'mPid' => '8d85f2db15fafb0c6105592d2dcc8e9f46b467d3',
-    'sPid' => 'e99c25003d0bc6a2acef28fddd3f87f4',
   ),
   284 => 
   array (
@@ -3131,10 +1995,6 @@ $TrainStationsNL = array (
     'short' => 'HRN',
     'address' => 'Haren',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Haren',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c702d',
-    'mPid' => 'e8fc20b6dc2332180c0fff560ef6d3a7e4394da7',
-    'sPid' => '20f48cb25a205cf147426bc5bb160549',
   ),
   285 => 
   array (
@@ -3142,10 +2002,6 @@ $TrainStationsNL = array (
     'short' => 'HLG',
     'address' => 'Harlingen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Harlingen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c704c',
-    'mPid' => 'eb51eb9faca6327b9ad64dc53f35ecb3cbaf314d',
-    'sPid' => 'f73280b6ce31b3d85c3dbe1ac04ec5e7',
   ),
   286 => 
   array (
@@ -3153,10 +2009,6 @@ $TrainStationsNL = array (
     'short' => 'HLGH',
     'address' => 'Harlingen Haven',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Harlingen+Haven',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c706f',
-    'mPid' => 'ead60ae4f5585b0b4a6ec9f3b3629e0884e5ace4',
-    'sPid' => 'be72d4002a7e56c657a55e6ff8467daf',
   ),
   287 => 
   array (
@@ -3164,10 +2016,6 @@ $TrainStationsNL = array (
     'short' => 'FHS',
     'address' => 'Hasselt',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hasselt',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c708f',
-    'mPid' => '4c617005d064608d8e95d981afcfa25cb5860c35',
-    'sPid' => 'c55aa7e0bfcb23902df0aec5b4a3c5b9',
   ),
   288 => 
   array (
@@ -3175,10 +2023,6 @@ $TrainStationsNL = array (
     'short' => 'HK',
     'address' => 'Heemskerk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heemskerk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c70b1',
-    'mPid' => '4b6d3afa0e3100ba4cd35e965a27704c021fc635',
-    'sPid' => '7ed03682eb3be06fd16ea48ebec22b3f',
   ),
   289 => 
   array (
@@ -3186,10 +2030,6 @@ $TrainStationsNL = array (
     'short' => 'HAD',
     'address' => 'Heemstede-Aerdenhout',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heemstede-Aerdenhout',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c70d1',
-    'mPid' => 'b757b2c606f99a79f7ffa07b071d2a83131ee0a0',
-    'sPid' => 'ff434afa697f5bce04f6694dfb3e3119',
   ),
   290 => 
   array (
@@ -3197,10 +2037,6 @@ $TrainStationsNL = array (
     'short' => 'HR',
     'address' => 'Heerenveen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heerenveen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c70f0',
-    'mPid' => '915525856c9ff00214af2006c7e3bc6aab4220b7',
-    'sPid' => '35c767b7462c916a9cfccf3c2cc36ce9',
   ),
   291 => 
   array (
@@ -3208,10 +2044,6 @@ $TrainStationsNL = array (
     'short' => 'HRY',
     'address' => 'Heerenveen IJsstadion',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heerenveen+IJsstadion',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c713d',
-    'mPid' => 'e8bd8e3e3b405a8a12459cc9b331ce69627188e9',
-    'sPid' => '02b69e4f78800cf04b8d96cee8c7bbb9',
   ),
   292 => 
   array (
@@ -3219,10 +2051,6 @@ $TrainStationsNL = array (
     'short' => 'HWD',
     'address' => 'Heerhugowaard',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heerhugowaard',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c715d',
-    'mPid' => '03b8745a8004d3fe1dbf83923fc1e6a795909e00',
-    'sPid' => '726c3fef24f62df50efaf2728633bc77',
   ),
   293 => 
   array (
@@ -3230,10 +2058,6 @@ $TrainStationsNL = array (
     'short' => 'HRL',
     'address' => 'Heerlen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heerlen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c717c',
-    'mPid' => '751f9da43aad8aea8c566208d73ef0c87c56dfdc',
-    'sPid' => 'f5db6fc7cc4be1037a5fd55c2dc72f19',
   ),
   294 => 
   array (
@@ -3241,10 +2065,6 @@ $TrainStationsNL = array (
     'short' => 'HRLK',
     'address' => 'Heerlen De Kissel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heerlen+De+Kissel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c719c',
-    'mPid' => '9b566e0c88860e79322a87c364dacbd7a1384322',
-    'sPid' => '20cc4b2ffcdd0f71f454e8f7ee9287bb',
   ),
   295 => 
   array (
@@ -3252,10 +2072,6 @@ $TrainStationsNL = array (
     'short' => 'HRLW',
     'address' => 'Heerlen Woonboulevard',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heerlen+Woonboulevard',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c71c5',
-    'mPid' => '7bd6e914f3eb6a73fbbc1f7b65c8988f5b2edb99',
-    'sPid' => 'bdedac7bcad050af791a5fda84d48d25',
   ),
   296 => 
   array (
@@ -3263,10 +2079,6 @@ $TrainStationsNL = array (
     'short' => 'HZE',
     'address' => 'Heeze',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heeze',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c71e6',
-    'mPid' => '4cfa140511dc2a3912fa12cbda55f545158f865d',
-    'sPid' => '32e5362e9cf2afac6f6eee7afb712259',
   ),
   297 => 
   array (
@@ -3274,10 +2086,6 @@ $TrainStationsNL = array (
     'short' => 'MID',
     'address' => 'Heide',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heide',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7208',
-    'mPid' => 'e63b535e5bcd2ebc608fee713081855f393ccb0a',
-    'sPid' => '451df0383c3d647f6713face34627a76',
   ),
   298 => 
   array (
@@ -3285,10 +2093,6 @@ $TrainStationsNL = array (
     'short' => 'HLO',
     'address' => 'Heiloo',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heiloo',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7228',
-    'mPid' => 'de3234bbf39eecfb0eea013d77be6621ccd9309e',
-    'sPid' => '56a883ca9d9e7981709dea526570bf11',
   ),
   299 => 
   array (
@@ -3296,10 +2100,6 @@ $TrainStationsNL = array (
     'short' => 'HNO',
     'address' => 'Heino',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heino',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c724a',
-    'mPid' => '7d6bc383217fad58b554fd8f24f39972115989c4',
-    'sPid' => '81cb55b0ba354dd20a4d16aadc01e55b',
   ),
   300 => 
   array (
@@ -3307,10 +2107,6 @@ $TrainStationsNL = array (
     'short' => 'HM',
     'address' => 'Helmond',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Helmond',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7269',
-    'mPid' => 'df2ac325518c2bf97326e30b7d33f494402c89a5',
-    'sPid' => '99c1b79f0148a7cfdae342f564ef833e',
   ),
   301 => 
   array (
@@ -3318,10 +2114,6 @@ $TrainStationsNL = array (
     'short' => 'HMH',
     'address' => 'Helmond \'t Hout',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Helmond+%27t+Hout',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c728b',
-    'mPid' => 'e2d482636ac215ef463e7e8f17d2ba448ab56299',
-    'sPid' => '5037db47f5dff8abe424d68dcd543214',
   ),
   302 => 
   array (
@@ -3329,10 +2121,6 @@ $TrainStationsNL = array (
     'short' => 'HMBV',
     'address' => 'Helmond Brandevoort',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Helmond+Brandevoort',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c72ab',
-    'mPid' => '87a77b6338ab717d738777e96f8bc3d3162cab87',
-    'sPid' => 'ad78dfedee1ae2ecc26463797dffe63f',
   ),
   303 => 
   array (
@@ -3340,10 +2128,6 @@ $TrainStationsNL = array (
     'short' => 'HMBH',
     'address' => 'Helmond Brouwhuis',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Helmond+Brouwhuis',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c72cb',
-    'mPid' => '789972f89c6f80d8583f42c7684789da76fe715e',
-    'sPid' => 'b2b6ac64289c63cb24a524fed9bdd143',
   ),
   304 => 
   array (
@@ -3351,10 +2135,6 @@ $TrainStationsNL = array (
     'short' => 'LKM',
     'address' => 'Hemiksem',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hemiksem',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7318',
-    'mPid' => 'f34eb0512a4ed226c2c146e4f3444b1ceaabdd7d',
-    'sPid' => 'd157228b267ba0511fa4a9d67b155ea2',
   ),
   305 => 
   array (
@@ -3362,10 +2142,6 @@ $TrainStationsNL = array (
     'short' => 'HMN',
     'address' => 'Hemmen-Dodewaard',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hemmen-Dodewaard',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7338',
-    'mPid' => '3c88a9ae55d2d35c9c2bfc6424212bcbbb529d54',
-    'sPid' => 'ee1477b75a5d7fa140f19b6fe9f853bc',
   ),
   306 => 
   array (
@@ -3373,10 +2149,6 @@ $TrainStationsNL = array (
     'short' => 'HGL',
     'address' => 'Hengelo',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hengelo',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c735a',
-    'mPid' => '23cb6db8b4ebcefe9d98ac58afaee6e933c128a6',
-    'sPid' => '4506dc335b14ce833f9e2d5744d83028',
   ),
   307 => 
   array (
@@ -3384,10 +2156,6 @@ $TrainStationsNL = array (
     'short' => 'HGLG',
     'address' => 'Hengelo Gezondheidspark',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hengelo+Gezondheidspark',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c737a',
-    'mPid' => '96154dcfd2223524516617b4812ef8466aa80e99',
-    'sPid' => '3fa9c8e4553ab276e4308533f549eba6',
   ),
   308 => 
   array (
@@ -3395,10 +2163,6 @@ $TrainStationsNL = array (
     'short' => 'HGLO',
     'address' => 'Hengelo Oost',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hengelo+Oost',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c739c',
-    'mPid' => '3ebc5567e9bbb37141b4c1876b7d2616936c0690',
-    'sPid' => 'bd77eec81252dd3fd2b5bec3cdd885a6',
   ),
   309 => 
   array (
@@ -3406,10 +2170,6 @@ $TrainStationsNL = array (
     'short' => 'LHS',
     'address' => 'Herstal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Herstal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c73bc',
-    'mPid' => '10decb2f10d7441bae169aadaafd3c24205bc06b',
-    'sPid' => '4bae3423429c8153927c9d9995fdcff1',
   ),
   310 => 
   array (
@@ -3417,10 +2177,6 @@ $TrainStationsNL = array (
     'short' => 'HZ',
     'address' => 'Herzogenrath',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Herzogenrath',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c73de',
-    'mPid' => 'd93271224a85bfd3dcbf536657b3d551dfcbe97e',
-    'sPid' => 'eaf8e9e65b62ab68ac25047121e4d956',
   ),
   311 => 
   array (
@@ -3428,10 +2184,6 @@ $TrainStationsNL = array (
     'short' => 'HIL',
     'address' => 'Hillegom',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hillegom',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c73fe',
-    'mPid' => '27aa5c8a6f2fa314823c08c924c889f553135714',
-    'sPid' => '5d9683df51dd45a69bbba5afd0c60b03',
   ),
   312 => 
   array (
@@ -3439,10 +2191,6 @@ $TrainStationsNL = array (
     'short' => 'HVS',
     'address' => 'Hilversum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hilversum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7420',
-    'mPid' => '6714c883db0e889dfa394bde8bca19ed528d44bc',
-    'sPid' => 'dfbdbbfb5512b7e889bc1e1d3aaee318',
   ),
   313 => 
   array (
@@ -3450,10 +2198,6 @@ $TrainStationsNL = array (
     'short' => 'HVSM',
     'address' => 'Hilversum Media Park',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hilversum+Media+Park',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7440',
-    'mPid' => 'ccca1d9b2179a9dffc33a7fcbce3ea6b4983d126',
-    'sPid' => '731292e6de54d83f36c6ef3388b0317c',
   ),
   314 => 
   array (
@@ -3461,10 +2205,6 @@ $TrainStationsNL = array (
     'short' => 'HVSP',
     'address' => 'Hilversum Sportpark',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hilversum+Sportpark',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7462',
-    'mPid' => '9966da97fe85be46d9e3be6a59f5d3bc3879ed9b',
-    'sPid' => 'b133647744f37721d9df8bafdc3a166d',
   ),
   315 => 
   array (
@@ -3472,10 +2212,6 @@ $TrainStationsNL = array (
     'short' => 'HNP',
     'address' => 'Hindeloopen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hindeloopen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7482',
-    'mPid' => 'adf18f6007b6bfd96e2385f4ab1318cb280f48e7',
-    'sPid' => 'deb3649c9d0c8ecc00947c883364ff87',
   ),
   316 => 
   array (
@@ -3483,10 +2219,6 @@ $TrainStationsNL = array (
     'short' => 'FOE',
     'address' => 'Hoboken-Polder',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoboken-Polder',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c74a2',
-    'mPid' => 'cc88bc78dbe9fa0f1246878eda0539d62aa8988b',
-    'sPid' => '2f310c2a2a45395410a3c6fccf43268b',
   ),
   317 => 
   array (
@@ -3494,10 +2226,6 @@ $TrainStationsNL = array (
     'short' => 'HLD',
     'address' => 'Hoek van Holland Haven',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoek+van+Holland+Haven',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c74c5',
-    'mPid' => '9300d48351021cad07ade698ab3edeb2237bbef2',
-    'sPid' => '96fb6355b1ca69def6ffed0e0154b24f',
   ),
   318 => 
   array (
@@ -3505,10 +2233,6 @@ $TrainStationsNL = array (
     'short' => 'HLDS',
     'address' => 'Hoek van Holland Strand',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoek+van+Holland+Strand',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c74e4',
-    'mPid' => '808bcb2114209b264b98e223567162d3ae17b691',
-    'sPid' => '968fb8823e23c5bb261a74add05d13d0',
   ),
   319 => 
   array (
@@ -3516,10 +2240,6 @@ $TrainStationsNL = array (
     'short' => 'HB',
     'address' => 'Hoensbroek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoensbroek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7507',
-    'mPid' => 'b0ecfa664fd4f589dca6a3fdf3a660958cdb5118',
-    'sPid' => 'c0abe608f5ee870782d505d830bad930',
   ),
   320 => 
   array (
@@ -3527,10 +2247,6 @@ $TrainStationsNL = array (
     'short' => 'HVL',
     'address' => 'Hoevelaken',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoevelaken',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7527',
-    'mPid' => 'dd2c44cb11a43704fa1cb98c54b0c13de7d0577a',
-    'sPid' => '76d74a9961060e03683529fb19e03548',
   ),
   321 => 
   array (
@@ -3538,10 +2254,6 @@ $TrainStationsNL = array (
     'short' => 'HOR',
     'address' => 'Hollandsche Rading',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hollandsche+Rading',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c754a',
-    'mPid' => '058dafdfcf571863269dd011681f52eba6755f45',
-    'sPid' => '6998ace23eee83fe963489f2ca669f3b',
   ),
   322 => 
   array (
@@ -3549,10 +2261,6 @@ $TrainStationsNL = array (
     'short' => 'HON',
     'address' => 'Holten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Holten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c756a',
-    'mPid' => 'b8c8e14a43c848ea8e32c6335c8433d18b8c0d53',
-    'sPid' => '4816d02f99d2bc171ae2e1d056619829',
   ),
   323 => 
   array (
@@ -3560,10 +2268,6 @@ $TrainStationsNL = array (
     'short' => 'EHZW',
     'address' => 'Holzwickede',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Holzwickede',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c758d',
-    'mPid' => '8383c3a11da2e94ba229d31c8b7e01947f2d6bdf',
-    'sPid' => '54e57681f84779bf0c5561d0665508ef',
   ),
   324 => 
   array (
@@ -3571,10 +2275,6 @@ $TrainStationsNL = array (
     'short' => 'HFD',
     'address' => 'Hoofddorp',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoofddorp',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c75ad',
-    'mPid' => '8142f2fc2cdb3e612360e1af83d5770f2798fe6e',
-    'sPid' => 'f5dc09badb2b39e612cf115d69bb519d',
   ),
   325 => 
   array (
@@ -3582,10 +2282,6 @@ $TrainStationsNL = array (
     'short' => 'HGV',
     'address' => 'Hoogeveen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoogeveen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c75cf',
-    'mPid' => '353c93d609d507c673c61f2843ca6a543b49ce10',
-    'sPid' => '255a4c210f248810489ce7b18ffca2de',
   ),
   326 => 
   array (
@@ -3593,10 +2289,6 @@ $TrainStationsNL = array (
     'short' => 'HGZ',
     'address' => 'Hoogezand-Sappemeer',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoogezand-Sappemeer',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c75ef',
-    'mPid' => '115979a9bd546ae6a1016be6e395e9afb503d00e',
-    'sPid' => '3199b4c87bd25c968c34c877f2974092',
   ),
   327 => 
   array (
@@ -3604,10 +2296,6 @@ $TrainStationsNL = array (
     'short' => 'HKS',
     'address' => 'Hoogkarspel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoogkarspel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c760f',
-    'mPid' => 'eec0bd9a99704b2f0f31c373c88e19bd2e878324',
-    'sPid' => 'd8cdad402e2ffdba53259f380cc18de0',
   ),
   328 => 
   array (
@@ -3615,10 +2303,6 @@ $TrainStationsNL = array (
     'short' => 'HN',
     'address' => 'Hoorn',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoorn',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7631',
-    'mPid' => 'f2aa025f4f2d46c1605c319b1f5267d2fe1f23eb',
-    'sPid' => 'be240e554bf8a5e772e56bf23c88a7bb',
   ),
   329 => 
   array (
@@ -3626,10 +2310,6 @@ $TrainStationsNL = array (
     'short' => 'HNK',
     'address' => 'Hoorn Kersenboogerd',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoorn+Kersenboogerd',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7651',
-    'mPid' => '45241a68b0423c02cca52f61aeb7236517c88542',
-    'sPid' => '4ad3c88b11d2e1fc1058080fd70ef54b',
   ),
   330 => 
   array (
@@ -3637,10 +2317,6 @@ $TrainStationsNL = array (
     'short' => 'HOPF',
     'address' => 'Hopfgarten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hopfgarten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7673',
-    'mPid' => 'e445aabdf64e8170e89755021c07b7bd57516cdd',
-    'sPid' => '8d316b8ecc0d517ecc59b1d86e91c701',
   ),
   331 => 
   array (
@@ -3648,10 +2324,6 @@ $TrainStationsNL = array (
     'short' => 'HRT',
     'address' => 'Horst-Sevenum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Horst-Sevenum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7693',
-    'mPid' => '0ac35a12bdecdfa43a31096752d4f24ed7275781',
-    'sPid' => 'e5dc3042f314c847ab4e529540aba384',
   ),
   332 => 
   array (
@@ -3659,10 +2331,6 @@ $TrainStationsNL = array (
     'short' => 'HTN',
     'address' => 'Houten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Houten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c76b6',
-    'mPid' => 'da1ef2d97230b4477be0009d437f1bed7ff15222',
-    'sPid' => 'ace6f77ebc21e8441e941f173892c1fd',
   ),
   333 => 
   array (
@@ -3670,10 +2338,6 @@ $TrainStationsNL = array (
     'short' => 'HTNC',
     'address' => 'Houten Castellum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Houten+Castellum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c76d5',
-    'mPid' => 'c6488833d96014100c9b4bc2e2250e3e43fbc442',
-    'sPid' => '68e097c9ba609328ad39a814e755809d',
   ),
   334 => 
   array (
@@ -3681,10 +2345,6 @@ $TrainStationsNL = array (
     'short' => 'SGL',
     'address' => 'Houthem-St Gerlach',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Houthem-St+Gerlach',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c76f8',
-    'mPid' => 'eca63af6cb64080c92d096287d4204e5e6b77268',
-    'sPid' => '7a6dcf4c1beec49159464a0430d6c189',
   ),
   335 => 
   array (
@@ -3692,10 +2352,6 @@ $TrainStationsNL = array (
     'short' => 'MHO',
     'address' => 'Hove',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hove',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7718',
-    'mPid' => '97e9862862cde39d9bff8339a3bb2b8348bbc4e7',
-    'sPid' => '81a262a631dc02709e947b3ac3a3a9d2',
   ),
   336 => 
   array (
@@ -3703,10 +2359,6 @@ $TrainStationsNL = array (
     'short' => 'HDG',
     'address' => 'Hurdegaryp',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hurdegaryp',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c773b',
-    'mPid' => 'c2624c4c32ecb4be7ecc9dd7ef38611651ca341e',
-    'sPid' => 'fd4fb2db76504508e33872d654e750ad',
   ),
   337 => 
   array (
@@ -3714,10 +2366,6 @@ $TrainStationsNL = array (
     'short' => 'NMH',
     'address' => 'Nijmegen Heyendaal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nijmegen+Heyendaal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c775a',
-    'mPid' => 'f7c54f20215928e62906e22e8345e0246c682789',
-    'sPid' => 'f6b73b8c7ce0171ee282381d6d3d269c',
   ),
   338 => 
   array (
@@ -3725,10 +2373,6 @@ $TrainStationsNL = array (
     'short' => 'HRY',
     'address' => 'Heerenveen IJsstadion',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Heerenveen+IJsstadion',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c777d',
-    'mPid' => 'ccac0dc0213074eee2a03b8f1adc1e6ff4f0b9e3',
-    'sPid' => 'a6b2ac094b38a26a0423a5931e846701',
   ),
   339 => 
   array (
@@ -3736,10 +2380,6 @@ $TrainStationsNL = array (
     'short' => 'IJT',
     'address' => 'IJlst',
     'gMaps' => 'https://www.google.nl/maps/place/Station+IJlst',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c779d',
-    'mPid' => '195281f78135382748fdb71d76e4081b5ff39e48',
-    'sPid' => 'e566d360fa3b3271c351c0a06db1092b',
   ),
   340 => 
   array (
@@ -3747,10 +2387,6 @@ $TrainStationsNL = array (
     'short' => 'INNSB',
     'address' => 'Innsbruck Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Innsbruck+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c77bc',
-    'mPid' => '0dfd40626aec57f803c7f4a5b0d95e889dea1a43',
-    'sPid' => '3a66860e48e365b48a0e71c6bd0003f1',
   ),
   341 => 
   array (
@@ -3758,10 +2394,6 @@ $TrainStationsNL = array (
     'short' => 'JENBAC',
     'address' => 'Jenbach',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Jenbach',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c77df',
-    'mPid' => '2c39367950d29045d115ac56590eb1365bfe060e',
-    'sPid' => 'a478b6a265b3b771aabd6f3d32a04305',
   ),
   342 => 
   array (
@@ -3769,10 +2401,6 @@ $TrainStationsNL = array (
     'short' => 'HNK',
     'address' => 'Hoorn Kersenboogerd',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hoorn+Kersenboogerd',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c77ff',
-    'mPid' => '95efb27280d184989ac98503282685ade73cb0ca',
-    'sPid' => '825bd263afa8bdf554d2a7d77ba08f75',
   ),
   343 => 
   array (
@@ -3780,10 +2408,6 @@ $TrainStationsNL = array (
     'short' => 'KN',
     'address' => 'Kaldenkirchen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kaldenkirchen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7821',
-    'mPid' => 'c25f3e33f0c0fd1f3c0a9527c0941a9efb609290',
-    'sPid' => '3e9dc50bf8575e46308d35a9bebec71b',
   ),
   344 => 
   array (
@@ -3791,10 +2415,6 @@ $TrainStationsNL = array (
     'short' => 'FKTH',
     'address' => 'Kalmthout',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kalmthout',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7841',
-    'mPid' => 'f807c1a34f72956b6e3ab888d0785b7255f27e37',
-    'sPid' => '309d86b58fed70a59de68e88faefab99',
   ),
   345 => 
   array (
@@ -3802,10 +2422,6 @@ $TrainStationsNL = array (
     'short' => 'KPN',
     'address' => 'Kampen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kampen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7863',
-    'mPid' => '2a558dfe13f4da987c58fe14af2ea173d8ae2740',
-    'sPid' => 'aa2226bb2a1476e1c17b7b87edee7789',
   ),
   346 => 
   array (
@@ -3813,10 +2429,6 @@ $TrainStationsNL = array (
     'short' => 'KPNZ',
     'address' => 'Kampen Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kampen+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7883',
-    'mPid' => '1e6b625c932b64e277a32fa1510879d79e319b26',
-    'sPid' => 'f0161a2ebf6ff8d95e22462741da0220',
   ),
   347 => 
   array (
@@ -3824,10 +2436,6 @@ $TrainStationsNL = array (
     'short' => 'BZL',
     'address' => 'Kapelle-Biezelinge',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kapelle-Biezelinge',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c78a5',
-    'mPid' => 'bb5f76f14917f6832939e811e2d28e5ba0dbcf07',
-    'sPid' => '831351e8fcb0ab6d611a51e010e98463',
   ),
   348 => 
   array (
@@ -3835,10 +2443,6 @@ $TrainStationsNL = array (
     'short' => 'LKP',
     'address' => 'Kapellen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kapellen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c78c5',
-    'mPid' => '95f4175c750dfff2210f7fe2cf9cb70e99ba1f4d',
-    'sPid' => '3c80bb540cdf08d197444aced68c491f',
   ),
   349 => 
   array (
@@ -3846,10 +2450,6 @@ $TrainStationsNL = array (
     'short' => 'KARLSR',
     'address' => 'Karlsruhe Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Karlsruhe+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c78e8',
-    'mPid' => 'aa3ae9f9d36be5f5125e31bdc68cc39c8dfd7ec4',
-    'sPid' => '956cf257c67e0b18c6c9a0ceb013d550',
   ),
   350 => 
   array (
@@ -3857,10 +2457,6 @@ $TrainStationsNL = array (
     'short' => 'KRD',
     'address' => 'Kerkrade Centrum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kerkrade+Centrum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7907',
-    'mPid' => 'f62a95f431b07b017e0ea0795fab9f0a430532a4',
-    'sPid' => '8c8133c701137c2e4b8563b3b7415807',
   ),
   351 => 
   array (
@@ -3868,10 +2464,6 @@ $TrainStationsNL = array (
     'short' => 'KRW',
     'address' => 'Kerkrade West',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kerkrade+West',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7927',
-    'mPid' => 'fbde84bbd27910fa4a0c0340a439ede5d77d668e',
-    'sPid' => '2c5124c883258583487ff347925f9228',
   ),
   352 => 
   array (
@@ -3879,10 +2471,6 @@ $TrainStationsNL = array (
     'short' => 'KTR',
     'address' => 'Kesteren',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kesteren',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7972',
-    'mPid' => '180a65b875a5af0af770767596198657b7eabefb',
-    'sPid' => '10246bcc26b91de09aac839ad50b5760',
   ),
   353 => 
   array (
@@ -3890,10 +2478,6 @@ $TrainStationsNL = array (
     'short' => 'GKT',
     'address' => 'Kijkuit',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kijkuit',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7992',
-    'mPid' => '5ed7878289a349a34be53d8d517c307bfeea674b',
-    'sPid' => '708b5743651e61b004d447f765216b2c',
   ),
   354 => 
   array (
@@ -3901,10 +2485,6 @@ $TrainStationsNL = array (
     'short' => 'KIRCHB',
     'address' => 'Kirchberg in Tirol',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kirchberg+in+Tirol',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c79b5',
-    'mPid' => '39a90425d005834aad7507597c7a43451bbdf7c7',
-    'sPid' => '6be57b93fea499e886e19d3cdaaba3b2',
   ),
   355 => 
   array (
@@ -3912,10 +2492,6 @@ $TrainStationsNL = array (
     'short' => 'KITZB',
     'address' => 'Kitzbühel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kitzb%C3%BChel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c79d4',
-    'mPid' => '1efea5378ad9384be828bc1919a476a4701e42b1',
-    'sPid' => '767b6e4f3b9df06467daf718515d4e2d',
   ),
   356 => 
   array (
@@ -3923,10 +2499,6 @@ $TrainStationsNL = array (
     'short' => 'KBK',
     'address' => 'Klarenbeek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Klarenbeek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c79f7',
-    'mPid' => '77628523c0ab0d6a30ec66b9a7cd28ed00b45117',
-    'sPid' => 'abcb0dacda087dfeee9385620d3f7cdc',
   ),
   357 => 
   array (
@@ -3934,10 +2506,6 @@ $TrainStationsNL = array (
     'short' => 'KMR',
     'address' => 'Klimmen-Ransdaal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Klimmen-Ransdaal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7a17',
-    'mPid' => 'dfa36540bc2e2f92471c81f8617429457d85cb71',
-    'sPid' => '254444169a4d00709fcb560b3aa39c1d',
   ),
   358 => 
   array (
@@ -3945,10 +2513,6 @@ $TrainStationsNL = array (
     'short' => 'KKO',
     'address' => 'Koblenz Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Koblenz+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7a39',
-    'mPid' => '426dda5294e4358ad075b6ce8f7ffc7a87411c01',
-    'sPid' => '6fba963fdc42af5a17a61cb030f847b1',
   ),
   359 => 
   array (
@@ -3956,10 +2520,6 @@ $TrainStationsNL = array (
     'short' => 'KOHL',
     'address' => 'Kohlscheid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kohlscheid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7a59',
-    'mPid' => '5452ae1615e6b2723378f3a4bbe75d8e5a032dad',
-    'sPid' => 'd2860a1c9aaa269f411a1462fefce4f3',
   ),
   360 => 
   array (
@@ -3967,10 +2527,6 @@ $TrainStationsNL = array (
     'short' => 'KONIN',
     'address' => 'Konin',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Konin',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7a7b',
-    'mPid' => '181674b2850b2f78b5b1b30fe7a71979ce519410',
-    'sPid' => 'c40f2036bc37b0fb96ff0538a2ed3573',
   ),
   361 => 
   array (
@@ -3978,10 +2534,6 @@ $TrainStationsNL = array (
     'short' => 'FKI',
     'address' => 'Kontich',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kontich',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7a9a',
-    'mPid' => 'c9b5a665fe6313aa5492e88fb6f5e787cf609aed',
-    'sPid' => '673cea609bc7dc97bcbda1a0d7f5b446',
   ),
   362 => 
   array (
@@ -3989,10 +2541,6 @@ $TrainStationsNL = array (
     'short' => 'KBW',
     'address' => 'Koog Bloemwijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Koog+Bloemwijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7abd',
-    'mPid' => 'd24a8c49921852e87955e71f9b22f7e2194f694e',
-    'sPid' => '02228260cce0f972334080d3e0bb2a5a',
   ),
   363 => 
   array (
@@ -4000,10 +2548,6 @@ $TrainStationsNL = array (
     'short' => 'KZD',
     'address' => 'Koog-Zaandijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Koog-Zaandijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7add',
-    'mPid' => 'f888dde397cad4564bbb628e83713474e52fb337',
-    'sPid' => '9b4c8696a2556aef7eeeb49be1a900a7',
   ),
   364 => 
   array (
@@ -4011,10 +2555,6 @@ $TrainStationsNL = array (
     'short' => 'KMW',
     'address' => 'Koudum-Molkwerum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Koudum-Molkwerum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7afc',
-    'mPid' => 'c6ed8f2f84dc3b983cc0b897a42dabdd7aff5de8',
-    'sPid' => '32624c10981f2747c64f9b0e44b485ab',
   ),
   365 => 
   array (
@@ -4022,10 +2562,6 @@ $TrainStationsNL = array (
     'short' => 'KBD',
     'address' => 'Krabbendijke',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Krabbendijke',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7b1f',
-    'mPid' => '0ef94d176308b2e3675db11e2ddf24cabdc1148e',
-    'sPid' => 'ba58f44cba75e3f78458a0d1dbb757d4',
   ),
   366 => 
   array (
@@ -4033,10 +2569,6 @@ $TrainStationsNL = array (
     'short' => 'KMA',
     'address' => 'Krommenie-Assendelft',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Krommenie-Assendelft',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7b3e',
-    'mPid' => '73587979fcae682a290a87657a0133f219a33306',
-    'sPid' => '55c29bf48b5ebe931578414ee19d3aa1',
   ),
   367 => 
   array (
@@ -4044,10 +2576,6 @@ $TrainStationsNL = array (
     'short' => 'KW',
     'address' => 'Kropswolde',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kropswolde',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7b60',
-    'mPid' => '9b42c68486159ca8c3026b6627d26263dd0329cc',
-    'sPid' => '8e46fcdbae9dc18f59f398f8cb8ba23b',
   ),
   368 => 
   array (
@@ -4055,10 +2583,6 @@ $TrainStationsNL = array (
     'short' => 'KRG',
     'address' => 'Kruiningen-Yerseke',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kruiningen-Yerseke',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7b80',
-    'mPid' => '6d37fa54ea715f7aa0774f6cfb5663dd69b54f42',
-    'sPid' => '370468520f5a7e60bac4e780523cca39',
   ),
   369 => 
   array (
@@ -4066,10 +2590,6 @@ $TrainStationsNL = array (
     'short' => 'KUFST',
     'address' => 'Kufstein',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kufstein',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7ba2',
-    'mPid' => 'd0c967e5bf920748ecb700a64f1396e93fe48349',
-    'sPid' => 'df86f35dc1482ff9c34eed8289f4c442',
   ),
   370 => 
   array (
@@ -4077,10 +2597,6 @@ $TrainStationsNL = array (
     'short' => 'KUTNO',
     'address' => 'Kutno',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Kutno',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7bc2',
-    'mPid' => '7cb56ee5b64c5bd44e9c45182e21b832689dfe82',
-    'sPid' => 'b862be97b795ec53ca44eb8c0d1ed385',
   ),
   371 => 
   array (
@@ -4088,10 +2604,6 @@ $TrainStationsNL = array (
     'short' => 'KOLN',
     'address' => 'Köln Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+K%C3%B6ln+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7be4',
-    'mPid' => 'f888b7549f7edb188b96958e356cd51f57e798dc',
-    'sPid' => 'd72b848bf99137f2eef551b0c042bd2c',
   ),
   372 => 
   array (
@@ -4099,10 +2611,6 @@ $TrainStationsNL = array (
     'short' => 'KKD',
     'address' => 'Köln-Deutz',
     'gMaps' => 'https://www.google.nl/maps/place/Station+K%C3%B6ln-Deutz',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7c04',
-    'mPid' => '7d440a7c01eaeb3ec0e0a46c13d652c66b75d9fc',
-    'sPid' => 'dd5b99cf62dfc1176eeb567a84832604',
   ),
   373 => 
   array (
@@ -4110,10 +2618,6 @@ $TrainStationsNL = array (
     'short' => 'ZDK',
     'address' => 'Zaandam Kogerveld',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zaandam+Kogerveld',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7c26',
-    'mPid' => 'dc03b65b007763f9ce7bb697b6fb7206750a68cd',
-    'sPid' => '337ffd190634dc1c85828043988267af',
   ),
   374 => 
   array (
@@ -4121,10 +2625,6 @@ $TrainStationsNL = array (
     'short' => 'ASDL',
     'address' => 'Amsterdam Lelylaan',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Lelylaan',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7c46',
-    'mPid' => 'd1051ffdd69d6626fd3295619ff6fe0757ffb91b',
-    'sPid' => '45059ed26e037b0f5d572d869bb4f12f',
   ),
   375 => 
   array (
@@ -4132,10 +2632,6 @@ $TrainStationsNL = array (
     'short' => 'LAA',
     'address' => 'Den Haag Laan v NOI',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Haag+Laan+v+NOI',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7c68',
-    'mPid' => '6c900cd8b7b71b9a0aa98ffe0f84e46221f3ec2c',
-    'sPid' => '6170ebd1de66dd2d3a645c39d6ff98a6',
   ),
   376 => 
   array (
@@ -4143,10 +2639,6 @@ $TrainStationsNL = array (
     'short' => 'ZLW',
     'address' => 'Lage Zwaluwe',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Lage+Zwaluwe',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7c88',
-    'mPid' => '1beaa53c72e54964d72edec27e1f401666326089',
-    'sPid' => 'f90ba068e486e64f5ef5362b4c772adf',
   ),
   377 => 
   array (
@@ -4154,10 +2646,6 @@ $TrainStationsNL = array (
     'short' => 'LAND',
     'address' => 'Landeck',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Landeck',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7ca8',
-    'mPid' => '9d5d49d23104b7a171ce7597581f2aa96321990b',
-    'sPid' => '0feb7e1060e33a8064bb2086c393e23f',
   ),
   378 => 
   array (
@@ -4165,10 +2653,6 @@ $TrainStationsNL = array (
     'short' => 'LG',
     'address' => 'Landgraaf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Landgraaf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7ccb',
-    'mPid' => '56eaf261abe240dc376dc0e941feacd5e5fffe0a',
-    'sPid' => '49c9ea07b589361b3ac33f47e8d5881d',
   ),
   379 => 
   array (
@@ -4176,10 +2660,6 @@ $TrainStationsNL = array (
     'short' => 'LANDQ',
     'address' => 'Landquart',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Landquart',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7cea',
-    'mPid' => 'b0c9f39d132507cfba1d1f4d775c310492eac8c3',
-    'sPid' => 'e1b1c0bfbad63f413a110d777264d846',
   ),
   380 => 
   array (
@@ -4187,10 +2667,6 @@ $TrainStationsNL = array (
     'short' => 'LANDRY',
     'address' => 'Landry',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Landry',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7d0d',
-    'mPid' => '4047f1dee76c7a8f224818efdef76c82cd26c184',
-    'sPid' => '4665a8c3d9f3fb4b0f396738efd8ae38',
   ),
   381 => 
   array (
@@ -4198,10 +2674,6 @@ $TrainStationsNL = array (
     'short' => 'LANG',
     'address' => 'Langerwehe',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Langerwehe',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7d2d',
-    'mPid' => '7a712ccbbaea0e07e119cbd37384876f8f03a115',
-    'sPid' => '564087cfcffaeb8dd1d8d3e3ece49d8b',
   ),
   382 => 
   array (
@@ -4209,10 +2681,6 @@ $TrainStationsNL = array (
     'short' => 'Ostfriesland)',
     'address' => 'Leer',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Leer',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7d4f',
-    'mPid' => '5afe41e3ee2980e2fd41dc50f48b54193b90ca0d',
-    'sPid' => 'aed16b92abfce137472c9ee658d2e105',
   ),
   383 => 
   array (
@@ -4220,10 +2688,6 @@ $TrainStationsNL = array (
     'short' => 'LDM',
     'address' => 'Leerdam',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Leerdam',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7d6e',
-    'mPid' => '7e3b0eecbba330a0b58a4b4ba2c2aca19e915fa2',
-    'sPid' => '9801092ea656fd57f582cf0ea28ce69f',
   ),
   384 => 
   array (
@@ -4231,10 +2695,6 @@ $TrainStationsNL = array (
     'short' => 'LW',
     'address' => 'Leeuwarden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Leeuwarden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7d91',
-    'mPid' => '6ea37d228dca63e99af0797ed5054fb6acf82054',
-    'sPid' => '74c79cb64d8223259b42b6d904a550ff',
   ),
   385 => 
   array (
@@ -4242,10 +2702,6 @@ $TrainStationsNL = array (
     'short' => 'ADH',
     'address' => 'Leeuwarden Achter d Hoven',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Leeuwarden+Achter+d+Hoven',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7db1',
-    'mPid' => '5402309d6f18b94d8ab9b37f1aad051945c1796f',
-    'sPid' => 'cc9407ae9c4fcd897328c7d2734b075e',
   ),
   386 => 
   array (
@@ -4253,10 +2709,6 @@ $TrainStationsNL = array (
     'short' => 'LWC',
     'address' => 'Leeuwarden Camminghaburen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Leeuwarden+Camminghaburen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7dd3',
-    'mPid' => '8e2b1f1d2e729d8a02e62e97c8cfd27689d4b0f4',
-    'sPid' => '6b9f412d8a78f720b98101ba74ef275e',
   ),
   387 => 
   array (
@@ -4264,10 +2716,6 @@ $TrainStationsNL = array (
     'short' => 'ELGD',
     'address' => 'Legden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Legden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7df3',
-    'mPid' => 'e90d59628394588e59cef0fe1cba9539ad6396cc',
-    'sPid' => 'e61a0a10d4a555fbd9fd9673d0637a4f',
   ),
   388 => 
   array (
@@ -4275,10 +2723,6 @@ $TrainStationsNL = array (
     'short' => 'LEDN',
     'address' => 'Leiden Centraal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Leiden+Centraal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7e12',
-    'mPid' => '6323069040b4e09bdb946b71f7cbc23282ef3266',
-    'sPid' => 'd455c832e07190453e17bb9b49afdf83',
   ),
   389 => 
   array (
@@ -4286,10 +2730,6 @@ $TrainStationsNL = array (
     'short' => 'LDL',
     'address' => 'Leiden Lammenschans',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Leiden+Lammenschans',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7e35',
-    'mPid' => '6b57f68848a40db7b57adf0e47c1c760d64d1325',
-    'sPid' => '8e8402a487140e8e4c23a8098998856e',
   ),
   390 => 
   array (
@@ -4297,10 +2737,6 @@ $TrainStationsNL = array (
     'short' => 'LLS',
     'address' => 'Lelystad Centrum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Lelystad+Centrum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7e54',
-    'mPid' => '90d5c0a523f88c98542db5da091400a55c3e65cd',
-    'sPid' => '27e9e1184a060c4e85e8e7d359f93729',
   ),
   391 => 
   array (
@@ -4308,10 +2744,6 @@ $TrainStationsNL = array (
     'short' => 'Kr Coersfeld)',
     'address' => 'Lette',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Lette',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7e77',
-    'mPid' => 'fafd0ea574e381e97203dde75c377e11ccb91f4b',
-    'sPid' => '77e4c3ecb95690c8913525a1f90f4afc',
   ),
   392 => 
   array (
@@ -4319,10 +2751,6 @@ $TrainStationsNL = array (
     'short' => 'LEUVEN',
     'address' => 'Leuven',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Leuven',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7e97',
-    'mPid' => '3e2043e3f915014b0df9b0d46d205d5a9b4f97fa',
-    'sPid' => 'fb3fece3ba302ca0756c3d17be2e735f',
   ),
   393 => 
   array (
@@ -4330,10 +2758,6 @@ $TrainStationsNL = array (
     'short' => 'LTV',
     'address' => 'Lichtenvoorde-Groenlo',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Lichtenvoorde-Groenlo',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7eba',
-    'mPid' => '9bb49abe180547a9f1fe29172dc8c003592d328c',
-    'sPid' => '89028ba325348c276b7d6712ddeff167',
   ),
   394 => 
   array (
@@ -4341,10 +2765,6 @@ $TrainStationsNL = array (
     'short' => 'LSL',
     'address' => 'Liers',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Liers',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7ed9',
-    'mPid' => 'bea13a173355a8de5a834168aa4c9e0ce9241356',
-    'sPid' => 'ef16df2cca387af67491bee2fae325b5',
   ),
   395 => 
   array (
@@ -4352,10 +2772,6 @@ $TrainStationsNL = array (
     'short' => 'LILLEE',
     'address' => 'Lille Europe',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Lille+Europe',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7efc',
-    'mPid' => 'de3c6a963287636f8b653abe2d807228c265d163',
-    'sPid' => 'fd0d00b3255403669779be160ed89c8e',
   ),
   396 => 
   array (
@@ -4363,10 +2779,6 @@ $TrainStationsNL = array (
     'short' => 'FLB',
     'address' => 'Limburg Süd',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Limburg+S%C3%BCd',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7f1b',
-    'mPid' => '4566349d650b72a99685adc014e7b1fe8e82fe93',
-    'sPid' => '03a3c62f1524884689a53a84cd17f6a3',
   ),
   397 => 
   array (
@@ -4374,10 +2786,6 @@ $TrainStationsNL = array (
     'short' => 'LIVOR',
     'address' => 'Livorno Centrale',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Livorno+Centrale',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7f3e',
-    'mPid' => '5a57a45cf3debebd4d141340f6616f636ad18a4b',
-    'sPid' => 'a7d575009d3ae9bf37ff195d5dcb999f',
   ),
   398 => 
   array (
@@ -4385,10 +2793,6 @@ $TrainStationsNL = array (
     'short' => 'LUIK',
     'address' => 'Liège-Guillemins',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Li%C3%A8ge-Guillemins',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7f5d',
-    'mPid' => '95e2040614d90df9ca09e0b550a11face88e4a35',
-    'sPid' => '8515bac1614c70c1a5300acf5fe528af',
   ),
   399 => 
   array (
@@ -4396,10 +2800,6 @@ $TrainStationsNL = array (
     'short' => 'LUIKJ',
     'address' => 'Liège-Jonfosse',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Li%C3%A8ge-Jonfosse',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7f80',
-    'mPid' => '1a5f96df7c977c94f24d12933a779c5b62d99818',
-    'sPid' => '44ae3a925a001c9f36b337040d6dd7fe',
   ),
   400 => 
   array (
@@ -4407,10 +2807,6 @@ $TrainStationsNL = array (
     'short' => 'LUIKP',
     'address' => 'Liège-Palais',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Li%C3%A8ge-Palais',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7fa0',
-    'mPid' => 'e3304a8fb55a463be0aaf780544514fb4c268113',
-    'sPid' => '3376545b3e2c46217b61c6c2d70ec73d',
   ),
   401 => 
   array (
@@ -4418,10 +2814,6 @@ $TrainStationsNL = array (
     'short' => 'LC',
     'address' => 'Lochem',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Lochem',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7fbf',
-    'mPid' => '41122e49a05fc662a2fcb4367f60a4ba7a5bc285',
-    'sPid' => '56572d814e6e67931fb02c123a26f748',
   ),
   402 => 
   array (
@@ -4429,10 +2821,6 @@ $TrainStationsNL = array (
     'short' => 'LONDS',
     'address' => 'London St. Pancras',
     'gMaps' => 'https://www.google.nl/maps/place/Station+London+St.+Pancras',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c7fe2',
-    'mPid' => 'a333b8fa278b7e356b9714846eb8a5086168c455',
-    'sPid' => '2b17e642b3a577aef4d32422e382555c',
   ),
   403 => 
   array (
@@ -4440,10 +2828,6 @@ $TrainStationsNL = array (
     'short' => 'LP',
     'address' => 'Loppersum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Loppersum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8002',
-    'mPid' => 'cab8281d17e4bb16acab33e823aadddfe0d4fbae',
-    'sPid' => '9f83ab687edb848a64756e651735476b',
   ),
   404 => 
   array (
@@ -4451,10 +2835,6 @@ $TrainStationsNL = array (
     'short' => 'LTN',
     'address' => 'Lunteren',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Lunteren',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8024',
-    'mPid' => '490d687bc3330fb1e7c7a69850d614dbd681e08a',
-    'sPid' => 'c209a0eb0b97849a86449f9de21b8909',
   ),
   405 => 
   array (
@@ -4462,10 +2842,6 @@ $TrainStationsNL = array (
     'short' => 'ELDH',
     'address' => 'Lüdinghausen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+L%C3%BCdinghausen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8044',
-    'mPid' => '90472e32448fd272e43fae460d1b088ef288ccc5',
-    'sPid' => '27830d88038ed7fd4dcdf82d39f6bd56',
   ),
   406 => 
   array (
@@ -4473,10 +2849,6 @@ $TrainStationsNL = array (
     'short' => 'ELUE',
     'address' => 'Lünen Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+L%C3%BCnen+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8067',
-    'mPid' => '188ad3dfa083be0b59e2517ddc27d358f1028624',
-    'sPid' => 'ac8d3ea70d382d70b0f73021db548380',
   ),
   407 => 
   array (
@@ -4484,10 +2856,6 @@ $TrainStationsNL = array (
     'short' => 'NML',
     'address' => 'Nijmegen Lent',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nijmegen+Lent',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8086',
-    'mPid' => '4e81b3d50d82c97332fef0ed1d6cd006983098ce',
-    'sPid' => '82cdad68ac360ea3c6a44dc377c006d1',
   ),
   408 => 
   array (
@@ -4495,10 +2863,6 @@ $TrainStationsNL = array (
     'short' => 'RLB',
     'address' => 'Rotterdam Lombardijen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rotterdam+Lombardijen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c80a9',
-    'mPid' => 'ebe398cab6a024e30f1f1ac09a0ba803fbda4371',
-    'sPid' => '4817868f3aa3fba8419a7fa24fbd2ad8',
   ),
   409 => 
   array (
@@ -4506,10 +2870,6 @@ $TrainStationsNL = array (
     'short' => 'UTLR',
     'address' => 'Utrecht Leidsche Rijn',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Leidsche+Rijn',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c80c9',
-    'mPid' => '032a99ff1304ae2c694f5e858fe9192fe211471f',
-    'sPid' => '67d802827cc52287de09824beffecfd6',
   ),
   410 => 
   array (
@@ -4517,10 +2877,6 @@ $TrainStationsNL = array (
     'short' => 'UTL',
     'address' => 'Utrecht Lunetten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Lunetten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c80eb',
-    'mPid' => '4c097c18c750c33b6b4701970d239e5b2746ae1e',
-    'sPid' => '286a3cc51be183745c57436fe4d642c1',
   ),
   411 => 
   array (
@@ -4528,10 +2884,6 @@ $TrainStationsNL = array (
     'short' => 'ALMM',
     'address' => 'Almere Muziekwijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almere+Muziekwijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c810b',
-    'mPid' => 'd5f58e55469cad909c3621c20fbae3b5640ee172',
-    'sPid' => '70dd861aa9a4cd2b28581fb4a6517379',
   ),
   412 => 
   array (
@@ -4539,10 +2891,6 @@ $TrainStationsNL = array (
     'short' => 'ASDM',
     'address' => 'Amsterdam Muiderpoort',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Muiderpoort',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c812e',
-    'mPid' => '0d502f268688b78a35c35b0e83522ce3a7e173ce',
-    'sPid' => '155e0b6ba1fc084d3cf843d67c5a4c46',
   ),
   413 => 
   array (
@@ -4550,10 +2898,6 @@ $TrainStationsNL = array (
     'short' => 'GVM',
     'address' => 'Den Haag Mariahoeve',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Haag+Mariahoeve',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c814d',
-    'mPid' => 'a3d880b9ed7a2b34e71ab6d26ddfe1f6f8c2ebfc',
-    'sPid' => '5b767aad5814f47b27391c90c817a83b',
   ),
   414 => 
   array (
@@ -4561,10 +2905,6 @@ $TrainStationsNL = array (
     'short' => 'GVMW',
     'address' => 'Den Haag Moerwijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Haag+Moerwijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c816d',
-    'mPid' => '072902bf7359466610439eddf81f0d8f15c31d7d',
-    'sPid' => '5e1eb6ff0ae4c4ca88c6fe6aaa98f7ed',
   ),
   415 => 
   array (
@@ -4572,10 +2912,6 @@ $TrainStationsNL = array (
     'short' => 'HVSM',
     'address' => 'Hilversum Media Park',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hilversum+Media+Park',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c819a',
-    'mPid' => 'c36b6a2b1a947d3d17d8583780f771e9185d2b09',
-    'sPid' => 'bfe043cb4f1582253e5e92978c2891e4',
   ),
   416 => 
   array (
@@ -4583,10 +2919,6 @@ $TrainStationsNL = array (
     'short' => 'MZ',
     'address' => 'Maarheeze',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Maarheeze',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c81b5',
-    'mPid' => '80172c3df8f0261ad47975ad323b2d4cf7c99d2d',
-    'sPid' => 'ff5a3e674ae8cd6455993dbb5926869c',
   ),
   417 => 
   array (
@@ -4594,10 +2926,6 @@ $TrainStationsNL = array (
     'short' => 'MRN',
     'address' => 'Maarn',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Maarn',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c81d4',
-    'mPid' => '3f103eb8c6126a0955fcb41ea3512c784b25285b',
-    'sPid' => 'f1bbd022d809b5445cb023e2f9652218',
   ),
   418 => 
   array (
@@ -4605,10 +2933,6 @@ $TrainStationsNL = array (
     'short' => 'MAS',
     'address' => 'Maarssen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Maarssen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c81f0',
-    'mPid' => 'd34d29c5eeb96e3511302b9bbc7bb9d6217f0710',
-    'sPid' => '21bd9db1989af5ecff7f4c30bea2b5c5',
   ),
   419 => 
   array (
@@ -4616,10 +2940,6 @@ $TrainStationsNL = array (
     'short' => 'MSS',
     'address' => 'Maassluis',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Maassluis',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c820f',
-    'mPid' => '2229a18dda799ac2be85b10226ef21011b07e69c',
-    'sPid' => '5d06371fe82517353c3ed2cc769e61e8',
   ),
   420 => 
   array (
@@ -4627,10 +2947,6 @@ $TrainStationsNL = array (
     'short' => 'MSW',
     'address' => 'Maassluis West',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Maassluis+West',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c822b',
-    'mPid' => 'f096a5caa27fb5f5ff31620a536c75a51533a3ce',
-    'sPid' => 'f783a37c5097ee14001238e297b36ca6',
   ),
   421 => 
   array (
@@ -4638,10 +2954,6 @@ $TrainStationsNL = array (
     'short' => 'MT',
     'address' => 'Maastricht',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Maastricht',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c824a',
-    'mPid' => 'b7faf4411cc32fb8b2d0a4a1fb43c03ab6d12666',
-    'sPid' => '5cb61d4e6184dc68a0cdf1bfa778f7bb',
   ),
   422 => 
   array (
@@ -4649,10 +2961,6 @@ $TrainStationsNL = array (
     'short' => 'MTN',
     'address' => 'Maastricht Noord',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Maastricht+Noord',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8266',
-    'mPid' => 'f23508bb712dedbd80e7f3ca576c90fc4c16ce20',
-    'sPid' => 'e565daeacf2457de1eac7c79cc51fcee',
   ),
   423 => 
   array (
@@ -4660,10 +2968,6 @@ $TrainStationsNL = array (
     'short' => 'MTR',
     'address' => 'Maastricht Randwyck',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Maastricht+Randwyck',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8284',
-    'mPid' => 'fb4f03a7ce51342a9eb37abf50bacc9a49f68a3d',
-    'sPid' => '433f2ec9dadf37b5368f7a194d0074d1',
   ),
   424 => 
   array (
@@ -4671,10 +2975,6 @@ $TrainStationsNL = array (
     'short' => 'MANNHE',
     'address' => 'Mannheim Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Mannheim+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c82a0',
-    'mPid' => '02ef2922e223cae551470de32b732e8e53d9d93c',
-    'sPid' => 'db54b06e6a1de8d56bb3c80967fc49e6',
   ),
   425 => 
   array (
@@ -4682,10 +2982,6 @@ $TrainStationsNL = array (
     'short' => 'MG',
     'address' => 'Mantgum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Mantgum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c82bc',
-    'mPid' => '9f58ee0dd10e4fdf3adee4dbbe2c048bbba7d268',
-    'sPid' => '8acb33ff9ce2cea27c37f8218865a79c',
   ),
   426 => 
   array (
@@ -4693,10 +2989,6 @@ $TrainStationsNL = array (
     'short' => 'MRB',
     'address' => 'Mariënberg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Mari%C3%ABnberg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c82da',
-    'mPid' => '363a71d9a7bf33b77275f6373890b7ab3e93605e',
-    'sPid' => '09afe62a626cb47b0b3b51dadb60941a',
   ),
   427 => 
   array (
@@ -4704,10 +2996,6 @@ $TrainStationsNL = array (
     'short' => 'MARNE',
     'address' => 'Marne-la-Vallée-Chessy',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Marne-la-Vall%C3%A9e-Chessy',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c82f6',
-    'mPid' => '1870c0efdf089d7b313822db398ada6dd6c8e7ba',
-    'sPid' => 'a697aff072d8f7dff79d276807815151',
   ),
   428 => 
   array (
@@ -4715,10 +3003,6 @@ $TrainStationsNL = array (
     'short' => 'MARS',
     'address' => 'Marseille-St-Charles',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Marseille-St-Charles',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8317',
-    'mPid' => '4a2ddaa16b16e63836666c4627e652783a48a964',
-    'sPid' => 'dced6cecac761e4270f8a04fc7735238',
   ),
   429 => 
   array (
@@ -4726,10 +3010,6 @@ $TrainStationsNL = array (
     'short' => 'MTH',
     'address' => 'Martenshoek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Martenshoek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8360',
-    'mPid' => '83e3c9499e24357f08b394a6796ada5240325d73',
-    'sPid' => 'ccd58f57e6e0d6db2101926fa1bde7fb',
   ),
   430 => 
   array (
@@ -4737,10 +3017,6 @@ $TrainStationsNL = array (
     'short' => 'MECH',
     'address' => 'Mechelen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Mechelen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8383',
-    'mPid' => '9a7f4cd7c38e9b07775a59b2d3ae8e522b2874a2',
-    'sPid' => 'e8b7a91aeec4800db2ff4b4b1b07ee7b',
   ),
   431 => 
   array (
@@ -4748,10 +3024,6 @@ $TrainStationsNL = array (
     'short' => 'LNK',
     'address' => 'Mechelen-Nekkerspoel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Mechelen-Nekkerspoel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c83a2',
-    'mPid' => '9f3a7dd375318bdb71ca303b1996cb4039b13f78',
-    'sPid' => '50b873e71d63e97a5f7bb9e32693e662',
   ),
   432 => 
   array (
@@ -4759,10 +3031,6 @@ $TrainStationsNL = array (
     'short' => 'MES',
     'address' => 'Meerssen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Meerssen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c83c1',
-    'mPid' => '27ea8f3ed7b81807d528e0c6cfbdea92d71a78f6',
-    'sPid' => '4ac491f7a88272a0f9112a6b2b821ce0',
   ),
   433 => 
   array (
@@ -4770,10 +3038,6 @@ $TrainStationsNL = array (
     'short' => 'MP',
     'address' => 'Meppel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Meppel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c83e1',
-    'mPid' => 'ce916c0474fbc15d65ae8b806f8a109a23362a78',
-    'sPid' => 'c6aa9be34384ce5349a417520ff1f48e',
   ),
   434 => 
   array (
@@ -4781,10 +3045,6 @@ $TrainStationsNL = array (
     'short' => 'EMTE',
     'address' => 'Metelen Land',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Metelen+Land',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8409',
-    'mPid' => '22a9880dd7a1b03f0d6b877bd8f434818c2586dc',
-    'sPid' => '1d61713ff82197565b10e29f57226498',
   ),
   435 => 
   array (
@@ -4792,10 +3052,6 @@ $TrainStationsNL = array (
     'short' => 'MDB',
     'address' => 'Middelburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Middelburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8429',
-    'mPid' => '5b151ac1e36399043c2ddcf83ad81031f4fe4924',
-    'sPid' => '316c8f566e1c9b35e2985a276d1ec2c6',
   ),
   436 => 
   array (
@@ -4803,10 +3059,6 @@ $TrainStationsNL = array (
     'short' => 'BLTM',
     'address' => 'Milmort',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Milmort',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c844c',
-    'mPid' => '3de4ee166b3cc6fb83a3fd04a4d3ccc478ea3947',
-    'sPid' => 'b00571cbfad5d698d9bc87b94f30ceb0',
   ),
   437 => 
   array (
@@ -4814,10 +3066,6 @@ $TrainStationsNL = array (
     'short' => 'Westf.)',
     'address' => 'Minden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Minden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c846c',
-    'mPid' => 'b9815d36318310c1d7f9d0445a531e21983d454c',
-    'sPid' => '5a4bbfcb62eb49c9cdd575d541f87c98',
   ),
   438 => 
   array (
@@ -4825,10 +3073,6 @@ $TrainStationsNL = array (
     'short' => 'KMB',
     'address' => 'Montabaur',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Montabaur',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c848b',
-    'mPid' => '24640dca23a55a232647edf26631852146075e5d',
-    'sPid' => 'cda53af09d663e2cb00ea138f7ac0df7',
   ),
   439 => 
   array (
@@ -4836,10 +3080,6 @@ $TrainStationsNL = array (
     'short' => 'MMLH',
     'address' => 'Mook Molenhoek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Mook+Molenhoek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c84ae',
-    'mPid' => '053a7e5ed6bad68f77e9528a7273e2eda4fae656',
-    'sPid' => 'c5175fb7d6c1576915ca9fced917c413',
   ),
   440 => 
   array (
@@ -4847,10 +3087,6 @@ $TrainStationsNL = array (
     'short' => 'GMD',
     'address' => 'Mortsel-Deurnesteenweg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Mortsel-Deurnesteenweg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c84cd',
-    'mPid' => '90a93abec871e557d0193f5ca42d5d57c61d337d',
-    'sPid' => '7f34ba43965c890ea4e78eee42226438',
   ),
   441 => 
   array (
@@ -4858,10 +3094,6 @@ $TrainStationsNL = array (
     'short' => 'GMOG',
     'address' => 'Mortsel-Oude God',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Mortsel-Oude+God',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c84ef',
-    'mPid' => 'c1a1961d4d43b1a2719f6fa8102d0492dbfcfe71',
-    'sPid' => 'e2a157bfa02bdf14abea5eba005ba80d',
   ),
   442 => 
   array (
@@ -4869,10 +3101,6 @@ $TrainStationsNL = array (
     'short' => 'MOUT',
     'address' => 'Moutiers-Salins-Brides',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Moutiers-Salins-Brides',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c850f',
-    'mPid' => '63d5416c2c13d0f908a294dcf7bfd3df780909a1',
-    'sPid' => '085cf9a36b12bfa1744a6600a89dc477',
   ),
   443 => 
   array (
@@ -4880,10 +3108,6 @@ $TrainStationsNL = array (
     'short' => 'MCGB',
     'address' => 'Mönchengladbach Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+M%C3%B6nchengladbach+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8532',
-    'mPid' => 'acc833e68f73238a5d5582fe27e7b9de0183c0a7',
-    'sPid' => '1a66d17b86e5e7497865e5e1a615e020',
   ),
   444 => 
   array (
@@ -4891,10 +3115,6 @@ $TrainStationsNL = array (
     'short' => 'MUNCHH',
     'address' => 'München Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+M%C3%BCnchen+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8551',
-    'mPid' => '5bfa5422c3efc71d61d5218a7b556e8bd7efb694',
-    'sPid' => 'afd09de21c324fe3285bf78b50210d9b',
   ),
   445 => 
   array (
@@ -4902,10 +3122,6 @@ $TrainStationsNL = array (
     'short' => 'Westf.) Hbf',
     'address' => 'Münster',
     'gMaps' => 'https://www.google.nl/maps/place/Station+M%C3%BCnster',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8574',
-    'mPid' => 'c520f68f99e72666b255363846ccef575f15b0eb',
-    'sPid' => '0e49e9532929221770cb22226cf79477',
   ),
   446 => 
   array (
@@ -4913,10 +3129,6 @@ $TrainStationsNL = array (
     'short' => 'ENHF',
     'address' => 'Münster Zentrum Nord',
     'gMaps' => 'https://www.google.nl/maps/place/Station+M%C3%BCnster+Zentrum+Nord',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8594',
-    'mPid' => 'f935727576287a764cc15be94182b859173bc335',
-    'sPid' => '5c68c04a4fe4005ddb99de5e78ec2b55',
   ),
   447 => 
   array (
@@ -4924,10 +3136,6 @@ $TrainStationsNL = array (
     'short' => 'ENBE',
     'address' => 'Münster-Häger',
     'gMaps' => 'https://www.google.nl/maps/place/Station+M%C3%BCnster-H%C3%A4ger',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c85b6',
-    'mPid' => 'b6cb4f4febe27e8fff9663febacbacaf730db39f',
-    'sPid' => 'b968a8de932466780b265eaa5a98186a',
   ),
   448 => 
   array (
@@ -4935,10 +3143,6 @@ $TrainStationsNL = array (
     'short' => 'UTM',
     'address' => 'Utrecht Maliebaan',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Maliebaan',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c85d6',
-    'mPid' => '92abbb29066c3ade09c85e1d1be8d4512f084ca2',
-    'sPid' => '3beca3116f563f254d3f7e8905949e86',
   ),
   449 => 
   array (
@@ -4946,10 +3150,6 @@ $TrainStationsNL = array (
     'short' => 'NSCH',
     'address' => 'Bad Nieuweschans',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Bad+Nieuweschans',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c85f8',
-    'mPid' => '10856eb1bd6bb09dca0335933ad8c1876d9da801',
-    'sPid' => 'c871afa3d3d9c99bef2cc7ffb301450c',
   ),
   450 => 
   array (
@@ -4957,10 +3157,6 @@ $TrainStationsNL = array (
     'short' => 'LNK',
     'address' => 'Mechelen-Nekkerspoel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Mechelen-Nekkerspoel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8618',
-    'mPid' => '2970c9e32de49d358b6a81c5c6be8d991e84fec1',
-    'sPid' => '6c50d7091f637153b3cfcda616ee755a',
   ),
   451 => 
   array (
@@ -4968,10 +3164,6 @@ $TrainStationsNL = array (
     'short' => 'NDB',
     'address' => 'Naarden-Bussum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Naarden-Bussum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8637',
-    'mPid' => 'e60af61a707cdcf9fbe5762f237440041d970834',
-    'sPid' => 'ae23c5fdab47cd3fe558c70ba4af5a05',
   ),
   452 => 
   array (
@@ -4979,10 +3171,6 @@ $TrainStationsNL = array (
     'short' => 'NEUSS',
     'address' => 'Neuss Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Neuss+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c865a',
-    'mPid' => '0e0c793708c64111e02256440ce2df41501ca778',
-    'sPid' => 'bbd49cf08f26b0aa17ee6f24b77671f3',
   ),
   453 => 
   array (
@@ -4990,10 +3178,6 @@ $TrainStationsNL = array (
     'short' => 'LNI',
     'address' => 'Niel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Niel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8679',
-    'mPid' => '1b009b0ab5b5acf9093b56fe49a9d6854080b936',
-    'sPid' => '9452e007bb402e2602441b83b7867857',
   ),
   454 => 
   array (
@@ -5001,10 +3185,6 @@ $TrainStationsNL = array (
     'short' => 'NA',
     'address' => 'Nieuw Amsterdam',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nieuw+Amsterdam',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c869c',
-    'mPid' => '3c37fb21551e8399bb926642d61a16c41a477fb6',
-    'sPid' => '0a912d369bda3f88214e2b2f88dbfc17',
   ),
   455 => 
   array (
@@ -5012,10 +3192,6 @@ $TrainStationsNL = array (
     'short' => 'NVP',
     'address' => 'Nieuw Vennep',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nieuw+Vennep',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c86bb',
-    'mPid' => '3af7a6317a29d8ecc2d15141b2efaf4b6cac5cd2',
-    'sPid' => 'eae81f8a582f1960b9713ac613567d29',
   ),
   456 => 
   array (
@@ -5023,10 +3199,6 @@ $TrainStationsNL = array (
     'short' => 'NWK',
     'address' => 'Nieuwerkerk a/d IJssel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nieuwerkerk+a%2Fd+IJssel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c86de',
-    'mPid' => '9246886dfa26d65d6d61ef11ea02d74c09f843f2',
-    'sPid' => 'c513e4a8c710fcbebd26224f0c6e063b',
   ),
   457 => 
   array (
@@ -5034,10 +3206,6 @@ $TrainStationsNL = array (
     'short' => 'NKK',
     'address' => 'Nijkerk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nijkerk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c86fe',
-    'mPid' => '5196fdf1ffc865befa2ce0f82cd177ba6fa9a0a9',
-    'sPid' => '880cb533e87b5e5e74979508d4a87ec1',
   ),
   458 => 
   array (
@@ -5045,10 +3213,6 @@ $TrainStationsNL = array (
     'short' => 'NM',
     'address' => 'Nijmegen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nijmegen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8721',
-    'mPid' => '9d960d3a7fb78116dddfff6c9fead29b0f4cde6c',
-    'sPid' => '3187f51865dd6b619a24f784a154dc8f',
   ),
   459 => 
   array (
@@ -5056,10 +3220,6 @@ $TrainStationsNL = array (
     'short' => 'NMD',
     'address' => 'Nijmegen Dukenburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nijmegen+Dukenburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c874b',
-    'mPid' => '21c4560f2220ffa0c199ce505e67d01c92f45459',
-    'sPid' => '8abcc8280b0546f2c03ee1ddd16dc2ca',
   ),
   460 => 
   array (
@@ -5067,10 +3227,6 @@ $TrainStationsNL = array (
     'short' => 'NMGO',
     'address' => 'Nijmegen Goffert',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nijmegen+Goffert',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c878d',
-    'mPid' => '9c3d8c61916f53de4905b710cd165f9f272ba8b1',
-    'sPid' => 'b797580125b1d699157f49ac348113eb',
   ),
   461 => 
   array (
@@ -5078,10 +3234,6 @@ $TrainStationsNL = array (
     'short' => 'NMH',
     'address' => 'Nijmegen Heyendaal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nijmegen+Heyendaal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c87e1',
-    'mPid' => 'b93b094c2390a8ff0cfa5dd01f954bd1d29a11f3',
-    'sPid' => '3c6b2415b3c648515e76482115bc240a',
   ),
   462 => 
   array (
@@ -5089,10 +3241,6 @@ $TrainStationsNL = array (
     'short' => 'NML',
     'address' => 'Nijmegen Lent',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nijmegen+Lent',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8801',
-    'mPid' => 'b18aa353748691e738b0d9471424f0033d7d6106',
-    'sPid' => '1fc3a74bc85e30b703cce5d249f6188a',
   ),
   463 => 
   array (
@@ -5100,10 +3248,6 @@ $TrainStationsNL = array (
     'short' => 'NVD',
     'address' => 'Nijverdal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nijverdal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c884d',
-    'mPid' => '5b0acafe743d212bc989801dcd0d68429a72fccb',
-    'sPid' => 'f14ed2b6b81174420752aca6dc8fca9e',
   ),
   464 => 
   array (
@@ -5111,10 +3255,6 @@ $TrainStationsNL = array (
     'short' => 'NDKP',
     'address' => 'Noorderkempen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Noorderkempen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c886c',
-    'mPid' => 'e77af2292ba97c979cd164f4a16a8e3fc7b69ab2',
-    'sPid' => 'c5503d90211f1b26c73895f4659f95c1',
   ),
   465 => 
   array (
@@ -5122,10 +3262,6 @@ $TrainStationsNL = array (
     'short' => 'ENOW',
     'address' => 'Nordwalde',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nordwalde',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c888f',
-    'mPid' => '45a2abc61b6165807f90a13cc8f5a7f9d07dd4b5',
-    'sPid' => 'f400201aa58f624b9278f98889461619',
   ),
   466 => 
   array (
@@ -5133,10 +3269,6 @@ $TrainStationsNL = array (
     'short' => 'NS',
     'address' => 'Nunspeet',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nunspeet',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c88af',
-    'mPid' => '5baf41790337ed0329abfa6e5934815d7ef5c500',
-    'sPid' => 'b7ebbac9f8d5523f9c9eefefe067ef2b',
   ),
   467 => 
   array (
@@ -5144,10 +3276,6 @@ $TrainStationsNL = array (
     'short' => 'NH',
     'address' => 'Nuth',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Nuth',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c88d1',
-    'mPid' => '5fd18e7b1cfad622591e72e5fc44535af1abd3ba',
-    'sPid' => '48b1b888eb971e5f763f10b88278e5c9',
   ),
   468 => 
   array (
@@ -5155,10 +3283,6 @@ $TrainStationsNL = array (
     'short' => 'NURNB',
     'address' => 'Nürnberg Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+N%C3%BCrnberg+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c88f1',
-    'mPid' => '306cf2744467e462da99cd75e8d326de1f3d73b7',
-    'sPid' => '291df742efd9c3a53abb0a21c0043e98',
   ),
   469 => 
   array (
@@ -5166,10 +3290,6 @@ $TrainStationsNL = array (
     'short' => 'NWL',
     'address' => 'Schiedam Nieuwland',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schiedam+Nieuwland',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8913',
-    'mPid' => '143c55e3e4a19c1a7b291ea6ea80cc5828938e7a',
-    'sPid' => 'e219eb1fe6ae42eaf9bb8e0868e99f46',
   ),
   470 => 
   array (
@@ -5177,10 +3297,6 @@ $TrainStationsNL = array (
     'short' => 'ALMO',
     'address' => 'Almere Oostvaarders',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almere+Oostvaarders',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8932',
-    'mPid' => '287523942726706d6ad3cf3a00107fdea7b86d8d',
-    'sPid' => '8559b301207f9b110ad6cdaf0ca77d27',
   ),
   471 => 
   array (
@@ -5188,10 +3304,6 @@ $TrainStationsNL = array (
     'short' => 'APDO',
     'address' => 'Apeldoorn Osseveld',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Apeldoorn+Osseveld',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8955',
-    'mPid' => '2bbf7eda86832fea6cb3dce851a4053e57bd47ef',
-    'sPid' => '314dfa68066bc24b4a9b5e19bb430dcd',
   ),
   472 => 
   array (
@@ -5199,10 +3311,6 @@ $TrainStationsNL = array (
     'short' => 'OBD',
     'address' => 'Obdam',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Obdam',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8975',
-    'mPid' => '18dfcf006c687731514bd64a810f5dd34242b912',
-    'sPid' => '0258005a293b8748126d0364174ed0cb',
   ),
   473 => 
   array (
@@ -5210,10 +3318,6 @@ $TrainStationsNL = array (
     'short' => 'OBERH',
     'address' => 'Oberhausen Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Oberhausen+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8997',
-    'mPid' => '25ed6e40ba004aaef4c1261579867fd0c9887ee9',
-    'sPid' => '6ade7bd8053880a3f90678004c14ad87',
   ),
   474 => 
   array (
@@ -5221,10 +3325,6 @@ $TrainStationsNL = array (
     'short' => 'EOP',
     'address' => 'Ochtrup',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ochtrup',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c89b6',
-    'mPid' => '1aeb4fada87349957e575ba78776b2c937646a74',
-    'sPid' => 'f796ccd3aeca180aa84ed960723f6738',
   ),
   475 => 
   array (
@@ -5232,10 +3332,6 @@ $TrainStationsNL = array (
     'short' => 'RO',
     'address' => 'Offenburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Offenburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c89d6',
-    'mPid' => '458df6249dbd97411051a78e478d74eae04b39e3',
-    'sPid' => 'd84e00794592cbc0cbecbcc70bc425e2',
   ),
   476 => 
   array (
@@ -5243,10 +3339,6 @@ $TrainStationsNL = array (
     'short' => 'OT',
     'address' => 'Oisterwijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Oisterwijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c89f8',
-    'mPid' => '23f387325514923ffb8105ae5944d3834d6f26c8',
-    'sPid' => 'acde7fa73a4fe223a682734a2a5d0cbf',
   ),
   477 => 
   array (
@@ -5254,10 +3346,6 @@ $TrainStationsNL = array (
     'short' => 'ODZ',
     'address' => 'Oldenzaal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Oldenzaal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8a18',
-    'mPid' => '02cee0bdb78505631361045b487df3b9cb2ef954',
-    'sPid' => '9826f05f642b498b76ccff61669ed7c5',
   ),
   478 => 
   array (
@@ -5265,10 +3353,6 @@ $TrainStationsNL = array (
     'short' => 'OST',
     'address' => 'Olst',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Olst',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8a3a',
-    'mPid' => 'fd7483fa0f9a83dff06bc6a5a287838c569f9889',
-    'sPid' => 'b8fdabe1a78a3d6c08fd9d45e0070bdb',
   ),
   479 => 
   array (
@@ -5276,10 +3360,6 @@ $TrainStationsNL = array (
     'short' => 'OMN',
     'address' => 'Ommen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ommen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8a5a',
-    'mPid' => 'c818207e810725eb7a39850f2cc7ecb3cc953c04',
-    'sPid' => '65d425bc9cac91b08aa3fb745287057b',
   ),
   480 => 
   array (
@@ -5287,10 +3367,6 @@ $TrainStationsNL = array (
     'short' => 'OTB',
     'address' => 'Oosterbeek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Oosterbeek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8a7c',
-    'mPid' => 'acca5c9337f15d41880467eddeba3ff40bdca5e8',
-    'sPid' => '1a92cc7f5ec365e899e7da4d1a73b62e',
   ),
   481 => 
   array (
@@ -5298,10 +3374,6 @@ $TrainStationsNL = array (
     'short' => 'OP',
     'address' => 'Opheusden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Opheusden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8a9b',
-    'mPid' => '677554bfbf36e711f6d9759a625170b68a97b1e2',
-    'sPid' => '502a74ca375a155a567e5828b8125461',
   ),
   482 => 
   array (
@@ -5309,10 +3381,6 @@ $TrainStationsNL = array (
     'short' => 'OSNH',
     'address' => 'Osnabrück Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Osnabr%C3%BCck+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8abe',
-    'mPid' => 'bf6bdcdafd5a380528805233847c9bf21c731ad5',
-    'sPid' => 'f2142bd7a5fa72eedc9db19f176b3b29',
   ),
   483 => 
   array (
@@ -5320,10 +3388,6 @@ $TrainStationsNL = array (
     'short' => 'O',
     'address' => 'Oss',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Oss',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8add',
-    'mPid' => 'fd2e103dd975d7d932742ae7be5754583cd55205',
-    'sPid' => 'e6aa6add1b7281fa1485b24b2e36bbcb',
   ),
   484 => 
   array (
@@ -5331,10 +3395,6 @@ $TrainStationsNL = array (
     'short' => 'OW',
     'address' => 'Oss West',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Oss+West',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8aff',
-    'mPid' => '47cc3193b7f73d3bc7bcd8b0730909837d4785d3',
-    'sPid' => '2f7489d35c4d7e036ee5319a07a3b69b',
   ),
   485 => 
   array (
@@ -5342,10 +3402,6 @@ $TrainStationsNL = array (
     'short' => 'ODB',
     'address' => 'Oudenbosch',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Oudenbosch',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8b1f',
-    'mPid' => 'c99e5da0af2b5d9c532b948358327e3447e4cd63',
-    'sPid' => 'f3f1c172431b2a2fc5cd4d916b8e543d',
   ),
   486 => 
   array (
@@ -5353,10 +3409,6 @@ $TrainStationsNL = array (
     'short' => 'OVN',
     'address' => 'Overveen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Overveen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8b3e',
-    'mPid' => '6ffdf266d9f03aa9a0a1ab8d5340dd36b68549ae',
-    'sPid' => '7af1ee9d13d379116e0c74dc5a6debec',
   ),
   487 => 
   array (
@@ -5364,10 +3416,6 @@ $TrainStationsNL = array (
     'short' => 'PMO',
     'address' => 'Purmerend Overwhere',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Purmerend+Overwhere',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8b60',
-    'mPid' => 'a2c6dc611c101a2fc630513f8151a89ef552dcaf',
-    'sPid' => '3926c1608484ebf40eb74643700c5eff',
   ),
   488 => 
   array (
@@ -5375,10 +3423,6 @@ $TrainStationsNL = array (
     'short' => 'UTO',
     'address' => 'Utrecht Overvecht',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Overvecht',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8b7f',
-    'mPid' => '33305e1860e0669245c7d4745dcdbf53aabda52c',
-    'sPid' => 'cfa0f879a8f6c58a95556963d79317ef',
   ),
   489 => 
   array (
@@ -5386,10 +3430,6 @@ $TrainStationsNL = array (
     'short' => 'OETZ',
     'address' => 'Ötztal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+%C3%96tztal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8ba1',
-    'mPid' => '0db70f8367e8772f3053e4aaaa775e5a71b5c00d',
-    'sPid' => '3109e8a9dd444b3d97d68005061696da',
   ),
   490 => 
   array (
@@ -5397,10 +3437,6 @@ $TrainStationsNL = array (
     'short' => 'ALMP',
     'address' => 'Almere Parkwijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Almere+Parkwijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8bc1',
-    'mPid' => '42e6ad938c8c19a077cb1d401fc1ff6b2e559d43',
-    'sPid' => 'a1de2830d4d9797853def55dfa9b8795',
   ),
   491 => 
   array (
@@ -5408,10 +3444,6 @@ $TrainStationsNL = array (
     'short' => 'AHPR',
     'address' => 'Arnhem Presikhaaf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Arnhem+Presikhaaf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8be3',
-    'mPid' => '08f207a3ea41372339f9aec989598af5586fa4fb',
-    'sPid' => '95f1fc1eff56b3cb3a80dce45dcb0864',
   ),
   492 => 
   array (
@@ -5419,10 +3451,6 @@ $TrainStationsNL = array (
     'short' => 'BDPB',
     'address' => 'Breda-Prinsenbeek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Breda-Prinsenbeek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8c02',
-    'mPid' => 'c8c1858ecc61ae8602806eaa8bf9ff66cc59e30a',
-    'sPid' => '4b75cfd3fdd6f20a74b6d3dc5c263043',
   ),
   493 => 
   array (
@@ -5430,10 +3458,6 @@ $TrainStationsNL = array (
     'short' => 'PARIS',
     'address' => 'Paris-Nord',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Paris-Nord',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8c24',
-    'mPid' => '85a4ca200a686cde0010c43f3712b8efeef64712',
-    'sPid' => '55f03d791963748bf1bbc7c23f3bf606',
   ),
   494 => 
   array (
@@ -5441,10 +3465,6 @@ $TrainStationsNL = array (
     'short' => 'TP',
     'address' => 'Plochingen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Plochingen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8c43',
-    'mPid' => 'ca58d569f334b9e1253f759d5039a8ab764ac2ca',
-    'sPid' => 'dbdb3dd8332bc3a05d51655dabafeb9e',
   ),
   495 => 
   array (
@@ -5452,10 +3472,6 @@ $TrainStationsNL = array (
     'short' => 'POZN',
     'address' => 'Poznan Gl.',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Poznan+Gl.',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8c65',
-    'mPid' => 'c771fb7c42b22cd41bcf65a82e30ff018e47e4b1',
-    'sPid' => '7d0aa29b8b7de76dd2eeb354d03ede02',
   ),
   496 => 
   array (
@@ -5463,10 +3479,6 @@ $TrainStationsNL = array (
     'short' => 'PRAHA',
     'address' => 'Praha hl.n.',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Praha+hl.n.',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8c85',
-    'mPid' => 'f3d898f7a85cadee161d37d72c9e9d3b5c579df9',
-    'sPid' => '0c5f1aa4c1ee245b2c4b4712e0ce472b',
   ),
   497 => 
   array (
@@ -5474,10 +3486,6 @@ $TrainStationsNL = array (
     'short' => 'PRAHOL',
     'address' => 'Praha-Holesovice',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Praha-Holesovice',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8ca6',
-    'mPid' => '90fdee9d2212cbc74be2a44b6fba74c31cf1adb0',
-    'sPid' => 'ec861d9a7e964e2e7d4759057ebab827',
   ),
   498 => 
   array (
@@ -5485,10 +3493,6 @@ $TrainStationsNL = array (
     'short' => 'EPRN',
     'address' => 'Preussen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Preussen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8cc6',
-    'mPid' => '1f52b195296a1212b653a1ae823bd9308f32240f',
-    'sPid' => '6443b0c50d6d4ad89273a31beb84916a',
   ),
   499 => 
   array (
@@ -5496,10 +3500,6 @@ $TrainStationsNL = array (
     'short' => 'PMR',
     'address' => 'Purmerend',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Purmerend',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8ce5',
-    'mPid' => 'e3eb2997eed7ca214cf88e68414fd316c8edbbff',
-    'sPid' => 'eae0848a1c5e0431020171b7556fd4ae',
   ),
   500 => 
   array (
@@ -5507,10 +3507,6 @@ $TrainStationsNL = array (
     'short' => 'PMO',
     'address' => 'Purmerend Overwhere',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Purmerend+Overwhere',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8d08',
-    'mPid' => 'd2f14f21c0d9754fd562925d70c1b010a966faba',
-    'sPid' => '5ca9aa0826faaf67a9c49fa057db721e',
   ),
   501 => 
   array (
@@ -5518,10 +3514,6 @@ $TrainStationsNL = array (
     'short' => 'PMW',
     'address' => 'Purmerend Weidevenne',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Purmerend+Weidevenne',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8d27',
-    'mPid' => 'e62265a81137df7bb8325998f2446353cab5ebf2',
-    'sPid' => '070d20f540a1f38ff1518a5bfe8bb0f3',
   ),
   502 => 
   array (
@@ -5529,10 +3521,6 @@ $TrainStationsNL = array (
     'short' => 'PT',
     'address' => 'Putten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Putten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8d4a',
-    'mPid' => 'a858bb463b5d5201a0f9b94b8fed6729a71e50a6',
-    'sPid' => '51320aa47822858f4f2894a975976115',
   ),
   503 => 
   array (
@@ -5540,10 +3528,6 @@ $TrainStationsNL = array (
     'short' => 'FRP',
     'address' => 'Puurs',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Puurs',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8d69',
-    'mPid' => '52de30bf7b060b62e829af6f9e86db0a25f3e0e5',
-    'sPid' => '4e6b80ac5ea31522e7554a7263c7994b',
   ),
   504 => 
   array (
@@ -5551,10 +3535,6 @@ $TrainStationsNL = array (
     'short' => 'TPSW',
     'address' => 'Tiel Passewaaij',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Tiel+Passewaaij',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8d8c',
-    'mPid' => 'ec23d1cc1a0141d25ac8d948e7a30b647fa0c10c',
-    'sPid' => '59b82cfb70f59abd29f1a12ff3661a53',
   ),
   505 => 
   array (
@@ -5562,10 +3542,6 @@ $TrainStationsNL = array (
     'short' => 'RAT',
     'address' => 'Raalte',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Raalte',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8dab',
-    'mPid' => '24e015689eaaed74761e7070ecf3b6532214003a',
-    'sPid' => '2440b7d1b3f6504b6e90733c93d69936',
   ),
   506 => 
   array (
@@ -5573,10 +3549,6 @@ $TrainStationsNL = array (
     'short' => 'LRW',
     'address' => 'Rathenow',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rathenow',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8dcd',
-    'mPid' => 'd28732c7a1c4ad32e7869fe309c45beb3fb72398',
-    'sPid' => '0e9b0ec0e60f2420d561285a80693005',
   ),
   507 => 
   array (
@@ -5584,10 +3556,6 @@ $TrainStationsNL = array (
     'short' => 'RVS',
     'address' => 'Ravenstein',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ravenstein',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8ded',
-    'mPid' => '8f53cde1b94245addc012951ec5ceb67425a9fc4',
-    'sPid' => '1706c1019d9e0acda489511ec66016ff',
   ),
   508 => 
   array (
@@ -5595,10 +3563,6 @@ $TrainStationsNL = array (
     'short' => 'RV',
     'address' => 'Reuver',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Reuver',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8e0e',
-    'mPid' => 'ac81be18e7019c9b1defd45e6ad9595830d763fe',
-    'sPid' => 'a04085b31e2b9e8ec8e389c3dff65e9f',
   ),
   509 => 
   array (
@@ -5606,10 +3570,6 @@ $TrainStationsNL = array (
     'short' => 'RH',
     'address' => 'Rheden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rheden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8e2e',
-    'mPid' => '20a5dcf9efcc1b0d25fa6ce35e8930d5f1a8f30e',
-    'sPid' => '9045d04e8ebf43b1e309b1149e0cf012',
   ),
   510 => 
   array (
@@ -5617,10 +3577,6 @@ $TrainStationsNL = array (
     'short' => 'RHEINE',
     'address' => 'Rheine',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rheine',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8e4d',
-    'mPid' => '4457d3dc9cddbfbf0565773489c31fb900ae30af',
-    'sPid' => 'ba4280de1f73c39b8d227a4b8b3d2e76',
   ),
   511 => 
   array (
@@ -5628,10 +3584,6 @@ $TrainStationsNL = array (
     'short' => 'RHN',
     'address' => 'Rhenen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rhenen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8e6f',
-    'mPid' => 'd7d26355aa58c5eaa5aa90e422b4c1489a5aa757',
-    'sPid' => '9687dcdee9771a8827db9e633251e579',
   ),
   512 => 
   array (
@@ -5639,10 +3591,6 @@ $TrainStationsNL = array (
     'short' => 'RSN',
     'address' => 'Rijssen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rijssen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8e8e',
-    'mPid' => 'b9a5e1a064bab5f25ae8e626b80800961d38cd8e',
-    'sPid' => '551725aacb0c2273ecd9a55023fe8e01',
   ),
   513 => 
   array (
@@ -5650,10 +3598,6 @@ $TrainStationsNL = array (
     'short' => 'RSW',
     'address' => 'Rijswijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rijswijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8ebf',
-    'mPid' => '51564f217f474b8715cc1c2499267b5e7a9ad64d',
-    'sPid' => 'cf7b7349b5cf6b4dc8eefca32dbb6437',
   ),
   514 => 
   array (
@@ -5661,10 +3605,6 @@ $TrainStationsNL = array (
     'short' => 'RB',
     'address' => 'Rilland-Bath',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rilland-Bath',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8edf',
-    'mPid' => 'abea269187c0cc39df5c1d34340800edbb9fae35',
-    'sPid' => '5e86f503a282add4e6208c122650d7b4',
   ),
   515 => 
   array (
@@ -5672,10 +3612,6 @@ $TrainStationsNL = array (
     'short' => 'RM',
     'address' => 'Roermond',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Roermond',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8efe',
-    'mPid' => 'bc74475b798bacd12e042dccf1a3cca2eb801aec',
-    'sPid' => '8cbf939e13995d96282f5e4f3f665f06',
   ),
   516 => 
   array (
@@ -5683,10 +3619,6 @@ $TrainStationsNL = array (
     'short' => 'RD',
     'address' => 'Roodeschool',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Roodeschool',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8f1d',
-    'mPid' => '5e80c3f1883b782182c43f7376bb067123066c93',
-    'sPid' => '64f74cfe6457491926f446227e29364f',
   ),
   517 => 
   array (
@@ -5694,10 +3626,6 @@ $TrainStationsNL = array (
     'short' => 'RSD',
     'address' => 'Roosendaal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Roosendaal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8f3f',
-    'mPid' => '359721b5d908ab2f15cb2c2ae5661addd6492c8c',
-    'sPid' => 'f948e6ae591e18df5a75da63c889329a',
   ),
   518 => 
   array (
@@ -5705,10 +3633,6 @@ $TrainStationsNL = array (
     'short' => 'EHW',
     'address' => 'Rosendahl-Holtwick',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rosendahl-Holtwick',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8f5f',
-    'mPid' => 'a9a50e94ecc0bf0cd16e05369dab9410b83d3cdd',
-    'sPid' => 'e01a973959fcc4ef43d020bec84226ca',
   ),
   519 => 
   array (
@@ -5716,10 +3640,6 @@ $TrainStationsNL = array (
     'short' => 'RS',
     'address' => 'Rosmalen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rosmalen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8f81',
-    'mPid' => 'b417789475a213dc7fefb8851d82446bdfdd6d8c',
-    'sPid' => '29420fcfe36f21d867d1da9544450e4f',
   ),
   520 => 
   array (
@@ -5727,10 +3647,6 @@ $TrainStationsNL = array (
     'short' => 'RTA',
     'address' => 'Rotterdam Alexander',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rotterdam+Alexander',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8fa0',
-    'mPid' => '975a7668f726591197d5dba26625fc46d37b6148',
-    'sPid' => 'f6b41824e36dd82be09714d34fc873dd',
   ),
   521 => 
   array (
@@ -5738,10 +3654,6 @@ $TrainStationsNL = array (
     'short' => 'RTB',
     'address' => 'Rotterdam Blaak',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rotterdam+Blaak',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8fc2',
-    'mPid' => '24e1633661d7741fb0c2983c862111250c04bad9',
-    'sPid' => '475217524ae39425d2462ff0d41f8a37',
   ),
   522 => 
   array (
@@ -5749,10 +3661,6 @@ $TrainStationsNL = array (
     'short' => 'RTD',
     'address' => 'Rotterdam Centraal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rotterdam+Centraal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c8fe1',
-    'mPid' => 'fff1dd33c312755c6c432aca8620cbd3145caf64',
-    'sPid' => '74e2251a831ce4b029623b1633c0d3b2',
   ),
   523 => 
   array (
@@ -5760,10 +3668,6 @@ $TrainStationsNL = array (
     'short' => 'RLB',
     'address' => 'Rotterdam Lombardijen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rotterdam+Lombardijen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9001',
-    'mPid' => 'fa36c03746bdd3916dda1fa8c140eb1fc92c70f7',
-    'sPid' => 'bba9b1551189ebf4eb9812e9348e846d',
   ),
   524 => 
   array (
@@ -5771,10 +3675,6 @@ $TrainStationsNL = array (
     'short' => 'RTN',
     'address' => 'Rotterdam Noord',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rotterdam+Noord',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9023',
-    'mPid' => 'a0f466aeb64b3ad7373500af92229beedc35be44',
-    'sPid' => 'ca657fdbb62dd1b05377360171110d45',
   ),
   525 => 
   array (
@@ -5782,10 +3682,6 @@ $TrainStationsNL = array (
     'short' => 'RTST',
     'address' => 'Rotterdam Stadion',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rotterdam+Stadion',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9076',
-    'mPid' => '652214194be40238d83e5f65991bd68394bdda87',
-    'sPid' => '0b1dea620192187196404c73bcea9417',
   ),
   526 => 
   array (
@@ -5793,10 +3689,6 @@ $TrainStationsNL = array (
     'short' => 'RTZ',
     'address' => 'Rotterdam Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rotterdam+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c90b9',
-    'mPid' => 'e384e89f1913557982a44e2fbf0d89704a28b643',
-    'sPid' => 'e393776dca0ab62266b4d2011457e57c',
   ),
   527 => 
   array (
@@ -5804,10 +3696,6 @@ $TrainStationsNL = array (
     'short' => 'FSV',
     'address' => 'Ruisbroek-Sauvegarde',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ruisbroek-Sauvegarde',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c90da',
-    'mPid' => 'd1cc57207590c1f470991226ae8bdd5d08baf9bb',
-    'sPid' => '3899c9f260899281f8db7999d6fd8ef4',
   ),
   528 => 
   array (
@@ -5815,10 +3703,6 @@ $TrainStationsNL = array (
     'short' => 'RL',
     'address' => 'Ruurlo',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ruurlo',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9103',
-    'mPid' => 'd5d3b022559f8a840acf11aa37208940ecc29c26',
-    'sPid' => '10b278ceb9e222ceb27b9c329d8b2551',
   ),
   529 => 
   array (
@@ -5826,10 +3710,6 @@ $TrainStationsNL = array (
     'short' => 'RZEPIN',
     'address' => 'Rzepin',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Rzepin',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c911f',
-    'mPid' => 'acaeaea68a9635a2ade0d6d3252b4fccd12c28fa',
-    'sPid' => 'ef38d25df7cd5dcbe1f3d184f1ab9e6a',
   ),
   530 => 
   array (
@@ -5837,10 +3717,6 @@ $TrainStationsNL = array (
     'short' => 'TBR',
     'address' => 'Tilburg Reeshof',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Tilburg+Reeshof',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c913e',
-    'mPid' => '0436f7c47e8c0bb78c03eba0d18989f4f86a54ec',
-    'sPid' => '891a7c87f20456ec503ec5e227d2aa1c',
   ),
   531 => 
   array (
@@ -5848,10 +3724,6 @@ $TrainStationsNL = array (
     'short' => 'AMFS',
     'address' => 'Amersfoort Schothorst',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amersfoort+Schothorst',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c915a',
-    'mPid' => 'ddb44e01efd6cd4207aa81a5a26742766592b5fd',
-    'sPid' => 'd3b4880a2a50a1db390d7970e06c6567',
   ),
   532 => 
   array (
@@ -5859,10 +3731,6 @@ $TrainStationsNL = array (
     'short' => 'ASSP',
     'address' => 'Amsterdam Science Park',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Science+Park',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9178',
-    'mPid' => '9906f73e93a146a83678e06356a69bc55589f168',
-    'sPid' => '3b728458ebb08f99a04c878495ff5e63',
   ),
   533 => 
   array (
@@ -5870,10 +3738,6 @@ $TrainStationsNL = array (
     'short' => 'ASS',
     'address' => 'Amsterdam Sloterdijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Sloterdijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9194',
-    'mPid' => '09be1779e0aa9545d4c1f8a44a87a8a12d742aea',
-    'sPid' => '223dd7e71b3d7238faafb5235d8abfcf',
   ),
   534 => 
   array (
@@ -5881,10 +3745,6 @@ $TrainStationsNL = array (
     'short' => 'CPS',
     'address' => 'Capelle Schollevaar',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Capelle+Schollevaar',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c91b0',
-    'mPid' => 'f5550cae5e13cbb8394f37f92ddb328342848438',
-    'sPid' => 'de7ed4314cc577fac0f556b2c9cb73da',
   ),
   535 => 
   array (
@@ -5892,10 +3752,6 @@ $TrainStationsNL = array (
     'short' => 'DDRS',
     'address' => 'Dordrecht Stadspolders',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Dordrecht+Stadspolders',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c91ce',
-    'mPid' => 'd57d354b207983beacb232278865e91f6610c583',
-    'sPid' => '093d3c40141486e7fc686c186b2795cc',
   ),
   536 => 
   array (
@@ -5903,10 +3759,6 @@ $TrainStationsNL = array (
     'short' => 'HLMS',
     'address' => 'Haarlem Spaarnwoude',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Haarlem+Spaarnwoude',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c91e9',
-    'mPid' => '4cb2b9711e59cda682a927e13c78f409994df674',
-    'sPid' => '23a7774acc578304d25fb524dc5211dc',
   ),
   537 => 
   array (
@@ -5914,10 +3766,6 @@ $TrainStationsNL = array (
     'short' => 'HVSP',
     'address' => 'Hilversum Sportpark',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Hilversum+Sportpark',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9208',
-    'mPid' => '0df4423da2c8cdfb483a179704aa80cb532fd86b',
-    'sPid' => '42cb167a5cc311500158c9e57c2e0cc1',
   ),
   538 => 
   array (
@@ -5925,10 +3773,6 @@ $TrainStationsNL = array (
     'short' => 'SAALF',
     'address' => 'Saalfelden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Saalfelden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9224',
-    'mPid' => 'ce9865ef814f62319e71415f235e1f90b443699c',
-    'sPid' => 'c35d4d86de04353c70b774dbe6b90648',
   ),
   539 => 
   array (
@@ -5936,10 +3780,6 @@ $TrainStationsNL = array (
     'short' => 'SPTN',
     'address' => 'Santpoort Noord',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Santpoort+Noord',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9242',
-    'mPid' => '0d4c9240a464b093731c40da092db44bb2148db9',
-    'sPid' => '8ca04989fc62e1c29c3950b73808d1cf',
   ),
   540 => 
   array (
@@ -5947,10 +3787,6 @@ $TrainStationsNL = array (
     'short' => 'SPTZ',
     'address' => 'Santpoort Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Santpoort+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c925e',
-    'mPid' => '04f3ba9a258f60f56bed2a8a736fce43524844bf',
-    'sPid' => 'be23f2ace4f4ed964611cc9b65dab162',
   ),
   541 => 
   array (
@@ -5958,10 +3794,6 @@ $TrainStationsNL = array (
     'short' => 'SPM',
     'address' => 'Sappemeer Oost',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Sappemeer+Oost',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c927c',
-    'mPid' => 'd539a8f29bd23a873e64bc2f6cdba6f8b5be18f8',
-    'sPid' => 'c560591a8493e7afbc51dd1910c01b57',
   ),
   542 => 
   array (
@@ -5969,10 +3801,6 @@ $TrainStationsNL = array (
     'short' => 'SSH',
     'address' => 'Sassenheim',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Sassenheim',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c929d',
-    'mPid' => 'a525b41451094f2e9856d04bc943444d80e36939',
-    'sPid' => 'fd2c53ca51d729fff0273f4de1c1adf2',
   ),
   543 => 
   array (
@@ -5980,10 +3808,6 @@ $TrainStationsNL = array (
     'short' => 'SWD',
     'address' => 'Sauwerd',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Sauwerd',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c92c1',
-    'mPid' => 'cf1a10b2b843f71efb54a91eb0bfda2a85a035d5',
-    'sPid' => '36eec03741999c2e7644f1c9f8917c4b',
   ),
   544 => 
   array (
@@ -5991,10 +3815,6 @@ $TrainStationsNL = array (
     'short' => 'SGN',
     'address' => 'Schagen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schagen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c92dc',
-    'mPid' => '59af15eabfad43d80d2141295fc478ced0ae4350',
-    'sPid' => 'fba3f1d38b5513e212411177b97d55b3',
   ),
   545 => 
   array (
@@ -6002,10 +3822,6 @@ $TrainStationsNL = array (
     'short' => 'SDA',
     'address' => 'Scheemda',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Scheemda',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c92fb',
-    'mPid' => '2808075281c140c533776e22ca13aa2e3f9f901f',
-    'sPid' => 'a7528c4e684c0af4ee2c1a7ed08aa9e9',
   ),
   546 => 
   array (
@@ -6013,10 +3829,6 @@ $TrainStationsNL = array (
     'short' => 'SCHLL',
     'address' => 'Schelle',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schelle',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9317',
-    'mPid' => 'cc8fe05d02f82c7253dbaa4d70bc90b811ec589c',
-    'sPid' => 'eef216c64b42e79dbaa82ef4031dd8e3',
   ),
   547 => 
   array (
@@ -6024,10 +3836,6 @@ $TrainStationsNL = array (
     'short' => 'SDM',
     'address' => 'Schiedam Centrum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schiedam+Centrum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9332',
-    'mPid' => '1fd0749a2ea2121fdcace1deda9b07e8bdd322ec',
-    'sPid' => '93d90a0c94614f6085681b25c276e084',
   ),
   548 => 
   array (
@@ -6035,10 +3843,6 @@ $TrainStationsNL = array (
     'short' => 'NWL',
     'address' => 'Schiedam Nieuwland',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schiedam+Nieuwland',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9351',
-    'mPid' => '15fb1fe0463cb2feb6d7a6b35e74cf6392150a63',
-    'sPid' => 'afa6a3926504daecedaaef4e102c7f7d',
   ),
   549 => 
   array (
@@ -6046,10 +3850,6 @@ $TrainStationsNL = array (
     'short' => 'SOG',
     'address' => 'Schin op Geul',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schin+op+Geul',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c936d',
-    'mPid' => '35fa52fc567434450d442f176449d958627f0800',
-    'sPid' => 'dba66530feddfa8f37ec9b7bb1761bd7',
   ),
   550 => 
   array (
@@ -6057,10 +3857,6 @@ $TrainStationsNL = array (
     'short' => 'SN',
     'address' => 'Schinnen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schinnen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c938b',
-    'mPid' => 'f7404d6c253a6855945c784041ddf47d34a3feb1',
-    'sPid' => '07c6f118961d9d951a451a76040d6519',
   ),
   551 => 
   array (
@@ -6068,10 +3864,6 @@ $TrainStationsNL = array (
     'short' => 'SHL',
     'address' => 'Schiphol',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schiphol',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c93a7',
-    'mPid' => '35f7596e54b05276c7152f3850efa574bb503326',
-    'sPid' => '89e1c3a5551864cf4356d69ee8085b85',
   ),
   552 => 
   array (
@@ -6079,10 +3871,6 @@ $TrainStationsNL = array (
     'short' => 'SCHWAR',
     'address' => 'Schwarzach-St. Veit',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schwarzach-St.+Veit',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c93c5',
-    'mPid' => '96ef30572fa0d1cd16da0c211523e4431865ff85',
-    'sPid' => '18440c177db8035f2d2ee17291b77d88',
   ),
   553 => 
   array (
@@ -6090,10 +3878,6 @@ $TrainStationsNL = array (
     'short' => 'KSWE',
     'address' => 'Schwelm',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schwelm',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c93e0',
-    'mPid' => 'f0f66339915513e9d01fc670fa1cc25d6dbc257f',
-    'sPid' => '0026a7734cbfeb6f8f63e77b6bf2eea6',
   ),
   554 => 
   array (
@@ -6101,10 +3885,6 @@ $TrainStationsNL = array (
     'short' => 'Ruhr)',
     'address' => 'Schwerte',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Schwerte',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c93ff',
-    'mPid' => '80cc8eebd30b971f0788382e6f5f148f757df505',
-    'sPid' => 'b09e18620315c8365daa6793e4a67e5f',
   ),
   555 => 
   array (
@@ -6112,10 +3892,6 @@ $TrainStationsNL = array (
     'short' => 'ESEM',
     'address' => 'Selm',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Selm',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c941a',
-    'mPid' => '8dd15a9167772cd27fbb4645d3eae1f8239b02bb',
-    'sPid' => 'd2463cbe011fbce76552f5fc5c6b2180',
   ),
   556 => 
   array (
@@ -6123,10 +3899,6 @@ $TrainStationsNL = array (
     'short' => 'ESEB',
     'address' => 'Selm-Beifang',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Selm-Beifang',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9438',
-    'mPid' => '3c3741dac961e1324c32e9044798e426c8ffbf2c',
-    'sPid' => 'e1d4faabda80e76270c304ad27856482',
   ),
   557 => 
   array (
@@ -6134,10 +3906,6 @@ $TrainStationsNL = array (
     'short' => 'KSB',
     'address' => 'Siegburg/Bonn',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Siegburg%2FBonn',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9454',
-    'mPid' => '1fa3102ab40fc3157b3cd3ee01c28ee28af892bd',
-    'sPid' => '839599b16d52c3a676eef8047c8e98be',
   ),
   558 => 
   array (
@@ -6145,10 +3913,6 @@ $TrainStationsNL = array (
     'short' => 'SPV',
     'address' => 'Simpelveld',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Simpelveld',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9473',
-    'mPid' => 'b448cab38c20bcb06b05dba30fb3ea5b688dfe0d',
-    'sPid' => '39c8748f050440def5258008ad209cba',
   ),
   559 => 
   array (
@@ -6156,10 +3920,6 @@ $TrainStationsNL = array (
     'short' => 'FWA',
     'address' => 'Sint-Katelijne-Waver',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Sint-Katelijne-Waver',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9493',
-    'mPid' => '6fc5f49dc996b364c983d77a0c6de4ef40d08eb0',
-    'sPid' => 'edcb5559d056d4f56d3e916f16b25208',
   ),
   560 => 
   array (
@@ -6167,10 +3927,6 @@ $TrainStationsNL = array (
     'short' => 'STD',
     'address' => 'Sittard',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Sittard',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c94ae',
-    'mPid' => 'e9801a059bcd36da6b965b25f3e7e1079792eb4c',
-    'sPid' => '060b8676dd82c5e7f12311f164856f62',
   ),
   561 => 
   array (
@@ -6178,10 +3934,6 @@ $TrainStationsNL = array (
     'short' => 'SDT',
     'address' => 'Sliedrecht',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Sliedrecht',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c94cc',
-    'mPid' => '9d70d5c9e69c349643f4b3f3e47e92187d4dc018',
-    'sPid' => '6db292dd227183bf857d7ac9ee8324c0',
   ),
   562 => 
   array (
@@ -6189,10 +3941,6 @@ $TrainStationsNL = array (
     'short' => 'SDTB',
     'address' => 'Sliedrecht Baanhoek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Sliedrecht+Baanhoek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c94e8',
-    'mPid' => 'e2cb91303aad8b14f432d0db87a1c90e7096a24b',
-    'sPid' => 'f3c4c829c7c2a8c5793f5f8dd8b34fd8',
   ),
   563 => 
   array (
@@ -6200,10 +3948,6 @@ $TrainStationsNL = array (
     'short' => 'SK',
     'address' => 'Sneek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Sneek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9506',
-    'mPid' => '4ecf2a8433a4d02c2eeb1df7e3c6dee44207b1ea',
-    'sPid' => 'f99fcef40a1edfcfbbe2e6cfe3aae572',
   ),
   564 => 
   array (
@@ -6211,10 +3955,6 @@ $TrainStationsNL = array (
     'short' => 'SKND',
     'address' => 'Sneek Noord',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Sneek+Noord',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9522',
-    'mPid' => 'a97281f8991897c7a87773036de9f0711b9e4a54',
-    'sPid' => 'b9e9c99c4e8185a605efa23777502131',
   ),
   565 => 
   array (
@@ -6222,10 +3962,6 @@ $TrainStationsNL = array (
     'short' => 'ST',
     'address' => 'Soest',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Soest',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9540',
-    'mPid' => '269bb08da894d40fda6a4e3b6567ce3723a5da46',
-    'sPid' => '5483cef2448a8f7fe0bb0e38f2606d53',
   ),
   566 => 
   array (
@@ -6233,10 +3969,6 @@ $TrainStationsNL = array (
     'short' => 'STZ',
     'address' => 'Soest Zuid',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Soest+Zuid',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c955c',
-    'mPid' => '6737b44855b2a571c9cc6f022f7321c3a9b02600',
-    'sPid' => '84db9679c178124a2fadb9504f65d41a',
   ),
   567 => 
   array (
@@ -6244,10 +3976,6 @@ $TrainStationsNL = array (
     'short' => 'SD',
     'address' => 'Soestdijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Soestdijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c957a',
-    'mPid' => 'b76213e372f71091213645eb464a968269146538',
-    'sPid' => '033b028d2217a765656940dd747d8ecf',
   ),
   568 => 
   array (
@@ -6255,10 +3983,6 @@ $TrainStationsNL = array (
     'short' => 'SBK',
     'address' => 'Spaubeek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Spaubeek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9596',
-    'mPid' => '31cf8220df50037b842baf9fe9118d2e1ac1c6b7',
-    'sPid' => 'dd16af1bc151a5deb766a79569548af3',
   ),
   569 => 
   array (
@@ -6266,10 +3990,6 @@ $TrainStationsNL = array (
     'short' => 'SPH',
     'address' => 'Spekholzerheide',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Spekholzerheide',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c95b1',
-    'mPid' => 'b38a8132ab618e64e48d1ed9c0f10da1c30843e1',
-    'sPid' => 'bc1e8d7a6e58fe69723f3a8ffa4e504d',
   ),
   570 => 
   array (
@@ -6277,10 +3997,6 @@ $TrainStationsNL = array (
     'short' => 'MARIA',
     'address' => 'St-Mariaburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+St-Mariaburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c95cc',
-    'mPid' => '6d9db6f72c1c84a3cfe1bb6c97665a04258a4e99',
-    'sPid' => '753b42728dc1e12028ca4d02fd018559',
   ),
   571 => 
   array (
@@ -6288,10 +4004,6 @@ $TrainStationsNL = array (
     'short' => 'STJOHP',
     'address' => 'St. Johann im Pongau',
     'gMaps' => 'https://www.google.nl/maps/place/Station+St.+Johann+im+Pongau',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c95e8',
-    'mPid' => 'c7a6dc70c98c222374133d1c7f1445f416bb8b1f',
-    'sPid' => '9522ab9879ad85c33911b11e36197d7c',
   ),
   572 => 
   array (
@@ -6299,10 +4011,6 @@ $TrainStationsNL = array (
     'short' => 'STJOH',
     'address' => 'St. Johann in Tirol',
     'gMaps' => 'https://www.google.nl/maps/place/Station+St.+Johann+in+Tirol',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c960e',
-    'mPid' => '3e0d019468a43975271902da62493a7367117649',
-    'sPid' => 'cc9b9bcf4d9990feb722e994a5aa5812',
   ),
   573 => 
   array (
@@ -6310,10 +4018,6 @@ $TrainStationsNL = array (
     'short' => 'STV',
     'address' => 'Stavoren',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Stavoren',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c962d',
-    'mPid' => '3674aeea05dec8cacc712f30806f5a7f2eb0d9b0',
-    'sPid' => '3997242629b1e72debdfd2acf4e11e7a',
   ),
   574 => 
   array (
@@ -6321,10 +4025,6 @@ $TrainStationsNL = array (
     'short' => 'STM',
     'address' => 'Stedum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Stedum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c964c',
-    'mPid' => 'c3714f8e7fbbf1c7062ffa38e2b70401b2928160',
-    'sPid' => '62d45f84a1a4109b6ae2c42803950bcd',
   ),
   575 => 
   array (
@@ -6332,10 +4032,6 @@ $TrainStationsNL = array (
     'short' => 'SWK',
     'address' => 'Steenwijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Steenwijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9668',
-    'mPid' => 'e9179c83450ee3dd9a677b928a22073405415d25',
-    'sPid' => 'a7e691e6e33f7f8e6becc77acd6736d0',
   ),
   576 => 
   array (
@@ -6343,10 +4039,6 @@ $TrainStationsNL = array (
     'short' => 'EGRK',
     'address' => 'Steinfurt Grottenkamp',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Steinfurt+Grottenkamp',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9686',
-    'mPid' => '42a2ecaa089ad4b3096ace8277416afb91f4e6f1',
-    'sPid' => '5ea3b64829fbdcfd2e428ed6896539f7',
   ),
   577 => 
   array (
@@ -6354,10 +4046,6 @@ $TrainStationsNL = array (
     'short' => 'EBGO',
     'address' => 'Steinfurt-Borghorst',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Steinfurt-Borghorst',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c96a2',
-    'mPid' => '38a72c695f6ebf2b9a09891606600bc639a0ab6e',
-    'sPid' => '3bf9851e2440463bc59ecfbbf0ea5fc3',
   ),
   578 => 
   array (
@@ -6365,10 +4053,6 @@ $TrainStationsNL = array (
     'short' => 'EBFT',
     'address' => 'Steinfurt-Burgsteinfurt',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Steinfurt-Burgsteinfurt',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c96c1',
-    'mPid' => 'd57e73c1e1829ec54d3de0f2cba3fd04621aa435',
-    'sPid' => 'b9b84dce462724f08ce09af33a6dcee0',
   ),
   579 => 
   array (
@@ -6376,10 +4060,6 @@ $TrainStationsNL = array (
     'short' => 'LS',
     'address' => 'Stendal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Stendal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c96dc',
-    'mPid' => '9b22945722a75b156a5099cc405164115231767a',
-    'sPid' => '3f0a27a642bbbf4c3a1c4572d588915d',
   ),
   580 => 
   array (
@@ -6387,10 +4067,6 @@ $TrainStationsNL = array (
     'short' => 'STOLA',
     'address' => 'Stolberg Altstadt',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Stolberg+Altstadt',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c96fb',
-    'mPid' => 'aa2c7b7746bfdc45b70599ef16c26975a15ddd4b',
-    'sPid' => '6cbad8ada64f1944874ad442ef29ca70',
   ),
   581 => 
   array (
@@ -6398,10 +4074,6 @@ $TrainStationsNL = array (
     'short' => 'STOLGB',
     'address' => 'Stolberg GBF',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Stolberg+GBF',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9717',
-    'mPid' => '5a807930b2b020aa260d638b0af82049251da138',
-    'sPid' => '2a2189ebb39a918fec38b1d55963cecb',
   ),
   582 => 
   array (
@@ -6409,10 +4081,6 @@ $TrainStationsNL = array (
     'short' => 'STOLB',
     'address' => 'Stolberg Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Stolberg+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9735',
-    'mPid' => 'a0d9697213b0bf99bc8a5c45edf54496c1e871ee',
-    'sPid' => '38961f096dbb132d37217732a178d21a',
   ),
   583 => 
   array (
@@ -6420,10 +4088,6 @@ $TrainStationsNL = array (
     'short' => 'STOLMB',
     'address' => 'Stolberg Mühlener Bahnhof',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Stolberg+M%C3%BChlener+Bahnhof',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9751',
-    'mPid' => '45136deb7e95faabcd4f26387f66f58eae924e83',
-    'sPid' => '680af69f9a294dce583ae7a448e9c30e',
   ),
   584 => 
   array (
@@ -6431,10 +4095,6 @@ $TrainStationsNL = array (
     'short' => 'STOLR',
     'address' => 'Stolberg Rathaus',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Stolberg+Rathaus',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c976c',
-    'mPid' => '75b328125218ba1eb09f0ec2c2b26ceef0dba490',
-    'sPid' => 'b26b3d7d511f892cfa065dfd8423890a',
   ),
   585 => 
   array (
@@ -6442,10 +4102,6 @@ $TrainStationsNL = array (
     'short' => 'STOLSM',
     'address' => 'Stolberg Schneidemuhle',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Stolberg+Schneidemuhle',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c978b',
-    'mPid' => '24e1b9d6d7ce81916054362b74ee0c0e02003cf4',
-    'sPid' => '9578d868aecdfb3054f56e27423510b5',
   ),
   586 => 
   array (
@@ -6453,10 +4109,6 @@ $TrainStationsNL = array (
     'short' => 'TS',
     'address' => 'Stuttgart Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Stuttgart+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c97a7',
-    'mPid' => '58fb5f4f7887ea79250645aecab2d3867b9df95a',
-    'sPid' => '61abf6f467c80a7f91c80fd1f4cb65e8',
   ),
   587 => 
   array (
@@ -6464,10 +4116,6 @@ $TrainStationsNL = array (
     'short' => 'SRN',
     'address' => 'Susteren',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Susteren',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c97d7',
-    'mPid' => 'f3392567509ebd872bc30bc8e7bdac462b2c8c95',
-    'sPid' => '675c690effaf2069744b1f907d1a402a',
   ),
   588 => 
   array (
@@ -6475,10 +4123,6 @@ $TrainStationsNL = array (
     'short' => 'SM',
     'address' => 'Swalmen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Swalmen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9812',
-    'mPid' => '95dfad1103a7ed909ea8424988f506be26650708',
-    'sPid' => '7d81b6fd6f821c8c1af19260c1dccb33',
   ),
   589 => 
   array (
@@ -6486,10 +4130,6 @@ $TrainStationsNL = array (
     'short' => 'UTM',
     'address' => 'Utrecht Maliebaan',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Maliebaan',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c983d',
-    'mPid' => 'd83e51de61f3dd2ade336e2873f10931b0cdf56b',
-    'sPid' => 'd192791e734d57e982d424722b9d1c73',
   ),
   590 => 
   array (
@@ -6497,10 +4137,6 @@ $TrainStationsNL = array (
     'short' => 'VSS',
     'address' => 'Vlissingen Souburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vlissingen+Souburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c985a',
-    'mPid' => 'b0e94b9e7637630573774bde39f5461a683f2eeb',
-    'sPid' => '1e4e2191c9d037407480a3880ccc1da5',
   ),
   591 => 
   array (
@@ -6508,10 +4144,6 @@ $TrainStationsNL = array (
     'short' => 'WTA',
     'address' => 'Tantow',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Tantow',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c987b',
-    'mPid' => '6f34fc9364a537ad7531052f6e935b7c93429da6',
-    'sPid' => '17ad83085e6468c82064ee01b3ba0deb',
   ),
   592 => 
   array (
@@ -6519,10 +4151,6 @@ $TrainStationsNL = array (
     'short' => 'TG',
     'address' => 'Tegelen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Tegelen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c98a1',
-    'mPid' => 'a6447d7bc2ef79055ec6b1d03310e3ef3b12d045',
-    'sPid' => '5cea934f9b53c1c1fe5924397c4adb5c',
   ),
   593 => 
   array (
@@ -6530,10 +4158,6 @@ $TrainStationsNL = array (
     'short' => 'TBG',
     'address' => 'Terborg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Terborg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c98f7',
-    'mPid' => 'a36dace9cc42afc1d18c23688b6a22b7ef58836c',
-    'sPid' => 'f05a1798a04dc687c7292f81ddd21bde',
   ),
   594 => 
   array (
@@ -6541,10 +4165,6 @@ $TrainStationsNL = array (
     'short' => 'TL',
     'address' => 'Tiel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Tiel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c991b',
-    'mPid' => '7fdf0242c1d639e9957a2da97667fdd720dc2176',
-    'sPid' => '4cd340067dfb20a4fdeb0abad9537325',
   ),
   595 => 
   array (
@@ -6552,10 +4172,6 @@ $TrainStationsNL = array (
     'short' => 'TPSW',
     'address' => 'Tiel Passewaaij',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Tiel+Passewaaij',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9938',
-    'mPid' => '73e32ff0689e35f9d015d74e5bd7e576b7dc3ea0',
-    'sPid' => '3bf77e6008e14cdeac554ae123aa1760',
   ),
   596 => 
   array (
@@ -6563,10 +4179,6 @@ $TrainStationsNL = array (
     'short' => 'TB',
     'address' => 'Tilburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Tilburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c999b',
-    'mPid' => 'e43a5bed13ab4750537583cb1a41e2e2753a0250',
-    'sPid' => '6ba975d2d305355d0ad4c0c6010e6cc5',
   ),
   597 => 
   array (
@@ -6574,10 +4186,6 @@ $TrainStationsNL = array (
     'short' => 'TBR',
     'address' => 'Tilburg Reeshof',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Tilburg+Reeshof',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c99c2',
-    'mPid' => '1c07a5564e14a0c069d8b56673bd3cd1e0da05d6',
-    'sPid' => '7062471882aa639c0561b04045acf3d4',
   ),
   598 => 
   array (
@@ -6585,10 +4193,6 @@ $TrainStationsNL = array (
     'short' => 'TBU',
     'address' => 'Tilburg Universiteit',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Tilburg+Universiteit',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c99e6',
-    'mPid' => 'b1cda20fcdd7d51b3e0b2503a1ddea667052c629',
-    'sPid' => '3ae98fd00397301772d3a03e24619cf2',
   ),
   599 => 
   array (
@@ -6596,10 +4200,6 @@ $TrainStationsNL = array (
     'short' => 'FTG',
     'address' => 'Tongeren',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Tongeren',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9a03',
-    'mPid' => '99642f1ab03069bbaf58353f3d56a054577e49ef',
-    'sPid' => '913f3d7bb2b19ece84a7bfbe8ac7678b',
   ),
   600 => 
   array (
@@ -6607,10 +4207,6 @@ $TrainStationsNL = array (
     'short' => 'TWL',
     'address' => 'Twello',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Twello',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9a23',
-    'mPid' => '879d175a4a725e8b0696782e854c69d8d650a19b',
-    'sPid' => 'c0967443c47d10b502ab63d04b866a58',
   ),
   601 => 
   array (
@@ -6618,10 +4214,6 @@ $TrainStationsNL = array (
     'short' => 'UTT',
     'address' => 'Utrecht Terwijde',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Terwijde',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9a40',
-    'mPid' => 'bb84ab99706b869930374cefc7a01836079e573e',
-    'sPid' => 'e4e2f77008f7d4dfdeaff05eafa8b99c',
   ),
   602 => 
   array (
@@ -6629,10 +4221,6 @@ $TrainStationsNL = array (
     'short' => 'UTG',
     'address' => 'Uitgeest',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Uitgeest',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9a60',
-    'mPid' => '3db3c76e657abf9d144f3eccb6c9a284f4976f7f',
-    'sPid' => 'cdd09316e9d472d3700a7562c693def7',
   ),
   603 => 
   array (
@@ -6640,10 +4228,6 @@ $TrainStationsNL = array (
     'short' => 'UHZ',
     'address' => 'Uithuizen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Uithuizen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9a7d',
-    'mPid' => '994ef92066e952beaed07f3f6223b069aaca00eb',
-    'sPid' => '62bce1390145d113c999c03038d09708',
   ),
   604 => 
   array (
@@ -6651,10 +4235,6 @@ $TrainStationsNL = array (
     'short' => 'UHM',
     'address' => 'Uithuizermeeden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Uithuizermeeden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9a9d',
-    'mPid' => '435e579f93cd7ce2e943a6831f71f87cbc0e58e9',
-    'sPid' => 'e049561537acf7afbb1e8fe1ad30aa11',
   ),
   605 => 
   array (
@@ -6662,10 +4242,6 @@ $TrainStationsNL = array (
     'short' => 'TU',
     'address' => 'Ulm Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Ulm+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9aba',
-    'mPid' => '1abf32174aa50e4aad1650f5fcfa3b4fe9832e0f',
-    'sPid' => '31b97b69e8116b3b7b661ad580b3e813',
   ),
   606 => 
   array (
@@ -6673,10 +4249,6 @@ $TrainStationsNL = array (
     'short' => 'EUN',
     'address' => 'Unna',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Unna',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9ada',
-    'mPid' => 'e69fc49e859898754aa25ffb91061dc21738689f',
-    'sPid' => '5bbfe2965149244ec6067053d0b5d3dd',
   ),
   607 => 
   array (
@@ -6684,10 +4256,6 @@ $TrainStationsNL = array (
     'short' => 'UST',
     'address' => 'Usquert',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Usquert',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9af7',
-    'mPid' => '6bc4970c5dfa468f0666c2de71405245c54de65c',
-    'sPid' => '122df33c808c56940548ed299e8e9f09',
   ),
   608 => 
   array (
@@ -6695,10 +4263,6 @@ $TrainStationsNL = array (
     'short' => 'USTI',
     'address' => 'Usti nad Labem',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Usti+nad+Labem',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9b14',
-    'mPid' => 'd303cdf6f73b2db6540e84e007cec7b336dc9a14',
-    'sPid' => 'ef00e46b0759807f59c27a7f0cdf1d54',
   ),
   609 => 
   array (
@@ -6706,10 +4270,6 @@ $TrainStationsNL = array (
     'short' => 'UT',
     'address' => 'Utrecht Centraal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Centraal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9b34',
-    'mPid' => '7266e6fe111d5739f8657e7a9bcd2d964266a6eb',
-    'sPid' => '607562ea65355d1b37fd56787afe2658',
   ),
   610 => 
   array (
@@ -6717,10 +4277,6 @@ $TrainStationsNL = array (
     'short' => 'UTLR',
     'address' => 'Utrecht Leidsche Rijn',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Leidsche+Rijn',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9b51',
-    'mPid' => '9efa20d87db73ae07fbdaf9333e8aeeec37b2874',
-    'sPid' => 'de6ebda1f74fb6a3b4089d66b3a8255d',
   ),
   611 => 
   array (
@@ -6728,10 +4284,6 @@ $TrainStationsNL = array (
     'short' => 'UTL',
     'address' => 'Utrecht Lunetten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Lunetten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9b70',
-    'mPid' => '19801b6809e371c74d9e0944116cdcfd7c2fe85d',
-    'sPid' => '34615b815e46bec2aa43c85336c3705d',
   ),
   612 => 
   array (
@@ -6739,10 +4291,6 @@ $TrainStationsNL = array (
     'short' => 'UTM',
     'address' => 'Utrecht Maliebaan',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Maliebaan',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9b8e',
-    'mPid' => '4487a9dd568017ea250ecc4042da1eca53a7c352',
-    'sPid' => '0379544d05cd21d331602fdef7b0db02',
   ),
   613 => 
   array (
@@ -6750,10 +4298,6 @@ $TrainStationsNL = array (
     'short' => 'UTO',
     'address' => 'Utrecht Overvecht',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Overvecht',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9baf',
-    'mPid' => 'de9d22cc07efaa58926e15792c0e1fbdfb8bee5f',
-    'sPid' => '5ed60499008205982d5e442f75480d2b',
   ),
   614 => 
   array (
@@ -6761,10 +4305,6 @@ $TrainStationsNL = array (
     'short' => 'UTT',
     'address' => 'Utrecht Terwijde',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Terwijde',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9bcc',
-    'mPid' => 'de324247fbef1073161b5ae618d0ef68a3380cf1',
-    'sPid' => '8d0f4b02d4256d0c42fd3766dc6b390c',
   ),
   615 => 
   array (
@@ -6772,10 +4312,6 @@ $TrainStationsNL = array (
     'short' => 'UTZL',
     'address' => 'Utrecht Zuilen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Zuilen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9bec',
-    'mPid' => '1c031fe607247f0c81e85dd50c357e9559021eb7',
-    'sPid' => '3898558a574b8751260c08f917d24754',
   ),
   616 => 
   array (
@@ -6783,10 +4319,6 @@ $TrainStationsNL = array (
     'short' => 'AVAT',
     'address' => 'Amersfoort Vathorst',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amersfoort+Vathorst',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9c09',
-    'mPid' => '5a813f94b0f59e368f869cc5192af0212ba001c1',
-    'sPid' => '9237ea913848d1055170bbf5fcbd2a09',
   ),
   617 => 
   array (
@@ -6794,10 +4326,6 @@ $TrainStationsNL = array (
     'short' => 'VMW',
     'address' => 'Amsterdam Van der Madeweg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Amsterdam+Van+der+Madeweg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9c29',
-    'mPid' => 'ce694800ed9d8fa4ca2c57ea06a99916a79f1dff',
-    'sPid' => 'ca8871bbc91e861af6b5d738623a1540',
   ),
   618 => 
   array (
@@ -6805,10 +4333,6 @@ $TrainStationsNL = array (
     'short' => 'AHP',
     'address' => 'Arnhem Velperpoort',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Arnhem+Velperpoort',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9c46',
-    'mPid' => '0006508fd76a279e3a4479ce744653e95b64b4ad',
-    'sPid' => '7cd53b8ed084db987e07256224c28846',
   ),
   619 => 
   array (
@@ -6816,10 +4340,6 @@ $TrainStationsNL = array (
     'short' => 'VALTGV',
     'address' => 'Valence TGV',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Valence+TGV',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9c66',
-    'mPid' => '7ee9af0d8d03a4711bf52cf26c12ff663aa39113',
-    'sPid' => 'd521afacb0dfc86cbf4de9a9c05767e6',
   ),
   620 => 
   array (
@@ -6827,10 +4347,6 @@ $TrainStationsNL = array (
     'short' => 'VK',
     'address' => 'Valkenburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Valkenburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9c82',
-    'mPid' => '7033ce859dbdba030b0ff745f29bf9f882f55412',
-    'sPid' => '7a855d28e5c7aff64e1c20ecf6d037f8',
   ),
   621 => 
   array (
@@ -6838,10 +4354,6 @@ $TrainStationsNL = array (
     'short' => 'VSV',
     'address' => 'Varsseveld',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Varsseveld',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9c9f',
-    'mPid' => 'e78174dd1e9635651ab44c8e8a43600415f61da6',
-    'sPid' => '5ef7c18cca5facb50c767b5eafac2e2f',
   ),
   622 => 
   array (
@@ -6849,10 +4361,6 @@ $TrainStationsNL = array (
     'short' => 'VDM',
     'address' => 'Veendam',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Veendam',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9cbf',
-    'mPid' => 'bcba0244dab89d5a8d40b5416f1de04870a0d8cc',
-    'sPid' => '371d0f493bb0438605579a57629bf718',
   ),
   623 => 
   array (
@@ -6860,10 +4368,6 @@ $TrainStationsNL = array (
     'short' => 'VNDC',
     'address' => 'Veenendaal Centrum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Veenendaal+Centrum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9cdc',
-    'mPid' => 'ae1617c9cc1ec8d6f63ad62325d87ff536ae004d',
-    'sPid' => '927d5619e14cb0f9ef3f4c69a697dade',
   ),
   624 => 
   array (
@@ -6871,10 +4375,6 @@ $TrainStationsNL = array (
     'short' => 'VNDW',
     'address' => 'Veenendaal West',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Veenendaal+West',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9cfc',
-    'mPid' => '3aab18cd832513f26d614bf5997a92185238e91f',
-    'sPid' => 'b47053fbe646ecd482dfef30e6343c92',
   ),
   625 => 
   array (
@@ -6882,10 +4382,6 @@ $TrainStationsNL = array (
     'short' => 'KLP',
     'address' => 'Veenendaal-De Klomp',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Veenendaal-De+Klomp',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9d19',
-    'mPid' => '3a85182118d02f83f74f3c7c6435a84ef7a2a2b1',
-    'sPid' => '804ec9b1d6001cd81706e7bd80c6c0dc',
   ),
   626 => 
   array (
@@ -6893,10 +4389,6 @@ $TrainStationsNL = array (
     'short' => 'VWD',
     'address' => 'Veenwouden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Veenwouden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9d39',
-    'mPid' => 'cd4cfb688b45f91a1400aa66a67cc21dc0d7f061',
-    'sPid' => '0777a7c90abda32a6de7bb7ab3817432',
   ),
   627 => 
   array (
@@ -6904,10 +4396,6 @@ $TrainStationsNL = array (
     'short' => 'VP',
     'address' => 'Velp',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Velp',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9d56',
-    'mPid' => '4c5de5db83eacd3d439de2b89001570bc438a129',
-    'sPid' => 'a2bbc4c5295d9c0a11a93384317a6947',
   ),
   628 => 
   array (
@@ -6915,10 +4403,6 @@ $TrainStationsNL = array (
     'short' => 'VL',
     'address' => 'Venlo',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Venlo',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9d76',
-    'mPid' => '15d7b7467ed6e226fbb318ea239094474f46fbe6',
-    'sPid' => 'f598030da80155dfbadcea8ac3f102c5',
   ),
   629 => 
   array (
@@ -6926,10 +4410,6 @@ $TrainStationsNL = array (
     'short' => 'VRY',
     'address' => 'Venray',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Venray',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9d94',
-    'mPid' => '0395b70068b6a397185632a4c475ab4232d89a85',
-    'sPid' => 'a13cd6d59860093a9203d463097e3033',
   ),
   630 => 
   array (
@@ -6937,10 +4417,6 @@ $TrainStationsNL = array (
     'short' => 'VLB',
     'address' => 'Vierlingsbeek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vierlingsbeek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9db3',
-    'mPid' => '1192c299981015bda8fc65a0d4d06ea0ea58f4db',
-    'sPid' => 'ba994924d75c1a64263caa421d46324e',
   ),
   631 => 
   array (
@@ -6948,10 +4424,6 @@ $TrainStationsNL = array (
     'short' => 'VIERS',
     'address' => 'Viersen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Viersen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9dd0',
-    'mPid' => 'eeb65e5756a33ce659e155b4a4d523d371fbd716',
-    'sPid' => 'ab8322ad888bc0524289e6a323d6709e',
   ),
   632 => 
   array (
@@ -6959,10 +4431,6 @@ $TrainStationsNL = array (
     'short' => 'FVS',
     'address' => 'Visé',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vis%C3%A9',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9ded',
-    'mPid' => '3e72da02bc4b3cced6d049ef4e302297598b8d1c',
-    'sPid' => '3daa5342ca2be5d22b0b02fdbd7409b3',
   ),
   633 => 
   array (
@@ -6970,10 +4438,6 @@ $TrainStationsNL = array (
     'short' => 'VDG',
     'address' => 'Vlaardingen Centrum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vlaardingen+Centrum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9e0d',
-    'mPid' => '12ce1dcbedece446399f87b4fe965176b280d88b',
-    'sPid' => '0b032c23f5415a91f8dc581bfa316040',
   ),
   634 => 
   array (
@@ -6981,10 +4445,6 @@ $TrainStationsNL = array (
     'short' => 'VDO',
     'address' => 'Vlaardingen Oost',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vlaardingen+Oost',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9e29',
-    'mPid' => 'dfa308e9dbf0072bc1cac9f99654c900f1ddeb24',
-    'sPid' => '78f2c684758d3090f710f8a396862047',
   ),
   635 => 
   array (
@@ -6992,10 +4452,6 @@ $TrainStationsNL = array (
     'short' => 'VDW',
     'address' => 'Vlaardingen West',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vlaardingen+West',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9e49',
-    'mPid' => '0c2d765c8722e93c35086573c10735f2c48dbccd',
-    'sPid' => 'b480240ffba1cebb6efe6b44e9b7ee64',
   ),
   636 => 
   array (
@@ -7003,10 +4459,6 @@ $TrainStationsNL = array (
     'short' => 'VTN',
     'address' => 'Vleuten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vleuten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9e66',
-    'mPid' => 'fe840d168f014e8e564bb9df6dd7d3d89b6cca9a',
-    'sPid' => '79b4a94b452ebd6bfd6aeb668260a727',
   ),
   637 => 
   array (
@@ -7014,10 +4466,6 @@ $TrainStationsNL = array (
     'short' => 'VS',
     'address' => 'Vlissingen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vlissingen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9e85',
-    'mPid' => 'ad306ab740bd34168c8af97a6c036603acfa9987',
-    'sPid' => '0ee05dda5fb14ca089b3e2df37cacf33',
   ),
   638 => 
   array (
@@ -7025,10 +4473,6 @@ $TrainStationsNL = array (
     'short' => 'VSS',
     'address' => 'Vlissingen Souburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vlissingen+Souburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9ea2',
-    'mPid' => '3214cdb9f3256c4cc5d5b77b989892b21a3d0997',
-    'sPid' => 'd4a72cff85b8d598a3e917dbc2b97eef',
   ),
   639 => 
   array (
@@ -7036,10 +4480,6 @@ $TrainStationsNL = array (
     'short' => 'VDL',
     'address' => 'Voerendaal',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Voerendaal',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9ec2',
-    'mPid' => 'c1f03c9e25eb05af5e4a77607ad1d507217c946f',
-    'sPid' => '08c7c5326ce1d62e49bd933ad8f57e9e',
   ),
   640 => 
   array (
@@ -7047,10 +4487,6 @@ $TrainStationsNL = array (
     'short' => 'VB',
     'address' => 'Voorburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Voorburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9edf',
-    'mPid' => '9cb5838166d8b387081750e73370203a557f2938',
-    'sPid' => 'eeaecadd3a60a4f4bcf22431507ca3fd',
   ),
   641 => 
   array (
@@ -7058,10 +4494,6 @@ $TrainStationsNL = array (
     'short' => 'VH',
     'address' => 'Voorhout',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Voorhout',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9efe',
-    'mPid' => '633633cc6af174d574577d54f65d30027a2c7527',
-    'sPid' => '5d29a3fc5a5cc881bdb5c56aa6ff988f',
   ),
   642 => 
   array (
@@ -7069,10 +4501,6 @@ $TrainStationsNL = array (
     'short' => 'VST',
     'address' => 'Voorschoten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Voorschoten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9f1b',
-    'mPid' => 'd9695614cbbe07151add1c8e3d5e2016fc278fff',
-    'sPid' => '6750c3eecbee83ef34e5771cec421d87',
   ),
   643 => 
   array (
@@ -7080,10 +4508,6 @@ $TrainStationsNL = array (
     'short' => 'VEM',
     'address' => 'Voorst-Empe',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Voorst-Empe',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9f3b',
-    'mPid' => 'f9109cb531a76b6557e7806f1e040920460587e7',
-    'sPid' => 'cc6c5abbb661e31e8b102f9169ae2369',
   ),
   644 => 
   array (
@@ -7091,10 +4515,6 @@ $TrainStationsNL = array (
     'short' => 'VD',
     'address' => 'Vorden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vorden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9f58',
-    'mPid' => '4871164467f6081b1c893be0866e2ba7af5a5a20',
-    'sPid' => '678b0800da49de9fca80a51698cdd7ab',
   ),
   645 => 
   array (
@@ -7102,10 +4522,6 @@ $TrainStationsNL = array (
     'short' => 'VZ',
     'address' => 'Vriezenveen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vriezenveen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9f75',
-    'mPid' => 'a3b33a385fef9614f0bca8bb5ed22e01520e19e6',
-    'sPid' => 'd36e49e0a95bc77c8afe40a9c2a9bb1d',
   ),
   646 => 
   array (
@@ -7113,10 +4529,6 @@ $TrainStationsNL = array (
     'short' => 'VHP',
     'address' => 'Vroomshoop',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vroomshoop',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9f95',
-    'mPid' => '959de4c1e719d5c0302152db5c1a052bf1e1863c',
-    'sPid' => '685faaa0876257142e6c5b3058fa909e',
   ),
   647 => 
   array (
@@ -7124,10 +4536,6 @@ $TrainStationsNL = array (
     'short' => 'VG',
     'address' => 'Vught',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Vught',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9fb2',
-    'mPid' => 'e7e8aa38aaeba37177fd401766749c5d9de20f54',
-    'sPid' => '69c911fb8ed2b1888760b743231d97b2',
   ),
   648 => 
   array (
@@ -7135,10 +4543,6 @@ $TrainStationsNL = array (
     'short' => 'PMW',
     'address' => 'Purmerend Weidevenne',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Purmerend+Weidevenne',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9fd2',
-    'mPid' => 'f8176460af8d67f3fdb2192976764c125d4a1a75',
-    'sPid' => 'a74e8231af6b6353a64c5461a0ba6ee3',
   ),
   649 => 
   array (
@@ -7146,10 +4550,6 @@ $TrainStationsNL = array (
     'short' => 'WAD',
     'address' => 'Waddinxveen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Waddinxveen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3c9fef',
-    'mPid' => 'bc84129a4ad19da5238d666ff86bc367dc3bc1d3',
-    'sPid' => 'cb19cbf7649c0d4e0ce2f6af6b981a76',
   ),
   650 => 
   array (
@@ -7157,10 +4557,6 @@ $TrainStationsNL = array (
     'short' => 'WADN',
     'address' => 'Waddinxveen Noord',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Waddinxveen+Noord',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca00f',
-    'mPid' => '944a05c32ec4b1e4eae792b5453c516512a238d0',
-    'sPid' => '29002ad8e815fc4ca0a40c3dea9925a2',
   ),
   651 => 
   array (
@@ -7168,10 +4564,6 @@ $TrainStationsNL = array (
     'short' => 'WFM',
     'address' => 'Warffum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Warffum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca02c',
-    'mPid' => '82f224e27dd0a6888727d66b309251a7d1195818',
-    'sPid' => 'e458e7a325508e23a4791f42babe58b3',
   ),
   652 => 
   array (
@@ -7179,10 +4571,6 @@ $TrainStationsNL = array (
     'short' => 'WARSZC',
     'address' => 'Warszawa Centralna',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Warszawa+Centralna',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca04b',
-    'mPid' => '17c89fed13a55a3b184eb8ced2f9b5fd2154201e',
-    'sPid' => 'f0dcf6f0915cf9fb2de6756d49855c97',
   ),
   653 => 
   array (
@@ -7190,10 +4578,6 @@ $TrainStationsNL = array (
     'short' => 'WARSAW',
     'address' => 'Warszawa Wschodnia',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Warszawa+Wschodnia',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca069',
-    'mPid' => '70af083e4180169c4ce557e28fbcb1d5b1ff2db7',
-    'sPid' => '2738cf0adaef63061cf7c1e84fd4e2fb',
   ),
   654 => 
   array (
@@ -7201,10 +4585,6 @@ $TrainStationsNL = array (
     'short' => 'WR',
     'address' => 'Weener',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Weener',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca088',
-    'mPid' => 'da352db39b2b723f64cd226cdbbadc9fb8e83961',
-    'sPid' => '4d54a0ba12f38aa1e8d3d384f6955064',
   ),
   655 => 
   array (
@@ -7212,10 +4592,6 @@ $TrainStationsNL = array (
     'short' => 'WT',
     'address' => 'Weert',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Weert',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca0a5',
-    'mPid' => '6edcb2b7d9a4970c071c202a5a1e710fa87bc7dd',
-    'sPid' => '5611cdc9f2df117448d3bf466a9895c8',
   ),
   656 => 
   array (
@@ -7223,10 +4599,6 @@ $TrainStationsNL = array (
     'short' => 'WP',
     'address' => 'Weesp',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Weesp',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca0c4',
-    'mPid' => 'b13e8fe1e4c0f674a69840b31f6f5aa7f8e441dc',
-    'sPid' => '1e2c2080477da066ce872d2d36495372',
   ),
   657 => 
   array (
@@ -7234,10 +4606,6 @@ $TrainStationsNL = array (
     'short' => 'WL',
     'address' => 'Wehl',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wehl',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca0e1',
-    'mPid' => '6225abee9fd5498daa6e467208617b6976b29c60',
-    'sPid' => '10844e202c5e312558ace845c8391968',
   ),
   658 => 
   array (
@@ -7245,10 +4613,6 @@ $TrainStationsNL = array (
     'short' => 'WTV',
     'address' => 'Westervoort',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Westervoort',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca0fe',
-    'mPid' => 'b4fe8ba3866f07fe617db2450c0379aed7581da3',
-    'sPid' => 'b216d71ddc87d2036a7eac001e12fef3',
   ),
   659 => 
   array (
@@ -7256,10 +4620,6 @@ $TrainStationsNL = array (
     'short' => 'WZ',
     'address' => 'Wezep',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wezep',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca11e',
-    'mPid' => '3ca10dc107d32478e4fc6cfeea28a36bd0446864',
-    'sPid' => 'ff7215b7ec54ce5cbb4167835d208ff2',
   ),
   660 => 
   array (
@@ -7267,10 +4627,6 @@ $TrainStationsNL = array (
     'short' => 'WIENW',
     'address' => 'Wien Westbahnhof',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wien+Westbahnhof',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca13b',
-    'mPid' => '533ad139c8480f62cc92b0901112f28801c39078',
-    'sPid' => '95cf57624d42c0c4103ff7503828a2e9',
   ),
   661 => 
   array (
@@ -7278,10 +4634,6 @@ $TrainStationsNL = array (
     'short' => 'WDN',
     'address' => 'Wierden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wierden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca15b',
-    'mPid' => '472439f5b9d18ce59c3fd0b54cb613dcbe80970c',
-    'sPid' => 'd48eb9c5caa16ee42cd5b7776662ef7e',
   ),
   662 => 
   array (
@@ -7289,10 +4641,6 @@ $TrainStationsNL = array (
     'short' => 'WC',
     'address' => 'Wijchen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wijchen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca178',
-    'mPid' => '5bc16e4fa0c89fc5b0151eae20ea52210cebdfb6',
-    'sPid' => 'a18c67ca8bc82fd955a6923a1f7b8f33',
   ),
   663 => 
   array (
@@ -7300,10 +4648,6 @@ $TrainStationsNL = array (
     'short' => 'WH',
     'address' => 'Wijhe',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wijhe',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca198',
-    'mPid' => '33336209ae787efcfc740e183ebb9acfe5379d9f',
-    'sPid' => '0a379e3309a867cfe9adbf7743e480ec',
   ),
   664 => 
   array (
@@ -7311,10 +4655,6 @@ $TrainStationsNL = array (
     'short' => 'GWD',
     'address' => 'Wildert',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wildert',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca1b4',
-    'mPid' => '26f6e826c3bcf7f46b0c61f87779cf417639314e',
-    'sPid' => '782159acd5f5da8550b88b30fc8afb89',
   ),
   665 => 
   array (
@@ -7322,10 +4662,6 @@ $TrainStationsNL = array (
     'short' => 'WS',
     'address' => 'Winschoten',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Winschoten',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca1d4',
-    'mPid' => '6d811e1bd3ffed2b6bd31824754ed8360dfa3e53',
-    'sPid' => '62613cbbdf080a6226e87b1e6d580b12',
   ),
   666 => 
   array (
@@ -7333,10 +4669,6 @@ $TrainStationsNL = array (
     'short' => 'WSM',
     'address' => 'Winsum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Winsum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca1f1',
-    'mPid' => 'c557cf43629e9e53ab397c4b325e18711adea536',
-    'sPid' => 'f4ee98fd5869052d6d2236b9cbdb2b7b',
   ),
   667 => 
   array (
@@ -7344,10 +4676,6 @@ $TrainStationsNL = array (
     'short' => 'WW',
     'address' => 'Winterswijk',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Winterswijk',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca211',
-    'mPid' => 'fe466552062e60618a7467e90d03e679d02ed693',
-    'sPid' => 'd6d103d2c13adf1c63501851f2ccc445',
   ),
   668 => 
   array (
@@ -7355,10 +4683,6 @@ $TrainStationsNL = array (
     'short' => 'WWW',
     'address' => 'Winterswijk West',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Winterswijk+West',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca22e',
-    'mPid' => '4752cb2afaa5d80091e5cca6bc185b5fc5c33579',
-    'sPid' => '1d7dc248a1867289d8c7edf440cece49',
   ),
   669 => 
   array (
@@ -7366,10 +4690,6 @@ $TrainStationsNL = array (
     'short' => 'WD',
     'address' => 'Woerden',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Woerden',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca24b',
-    'mPid' => '1916d97768425d7a93acf75a49a6cb6cfef93ecd',
-    'sPid' => 'f4a7789653e8d5d0f7df7b2646c237b4',
   ),
   670 => 
   array (
@@ -7377,10 +4697,6 @@ $TrainStationsNL = array (
     'short' => 'WF',
     'address' => 'Wolfheze',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wolfheze',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca26a',
-    'mPid' => 'd54463d78bad677efcb92416cefcfc24b800b2a5',
-    'sPid' => '031a9b895b22b430e2af8d6f6774888a',
   ),
   671 => 
   array (
@@ -7388,10 +4704,6 @@ $TrainStationsNL = array (
     'short' => 'HWOB',
     'address' => 'Wolfsburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wolfsburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca287',
-    'mPid' => '21d2ea1437ea5d5069cbc0f256e0183964d87771',
-    'sPid' => '92d38c5a115f3c77cc78b58719de03ac',
   ),
   672 => 
   array (
@@ -7399,10 +4711,6 @@ $TrainStationsNL = array (
     'short' => 'WV',
     'address' => 'Wolvega',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wolvega',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca2a7',
-    'mPid' => 'b563e7cee926c5840ccd7d2aba911d91b275ebe8',
-    'sPid' => 'bee57a7cd9246c66e1d8e9be310dbbcf',
   ),
   673 => 
   array (
@@ -7410,10 +4718,6 @@ $TrainStationsNL = array (
     'short' => 'WK',
     'address' => 'Workum',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Workum',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca2c4',
-    'mPid' => '7beee3daea4d794db7bf67eef8356f8e0c02d7ba',
-    'sPid' => '8cb564252907d95f53e87d2a1a53b51a',
   ),
   674 => 
   array (
@@ -7421,10 +4725,6 @@ $TrainStationsNL = array (
     'short' => 'WM',
     'address' => 'Wormerveer',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wormerveer',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca2e4',
-    'mPid' => '2800cd247c1fcbd4161d5ec41b32390243cb978b',
-    'sPid' => 'b185dae2d63fde7bc1ec5d8cdfa26754',
   ),
   675 => 
   array (
@@ -7432,10 +4732,6 @@ $TrainStationsNL = array (
     'short' => 'KWBA',
     'address' => 'Wuppertal Barmen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wuppertal+Barmen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca301',
-    'mPid' => 'ac78b2fabfae328c2158848db3b892862720a14a',
-    'sPid' => 'f6a713f0a118c474f077d91c62e8dbe3',
   ),
   676 => 
   array (
@@ -7443,10 +4739,6 @@ $TrainStationsNL = array (
     'short' => 'WUPPH',
     'address' => 'Wuppertal Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wuppertal+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca321',
-    'mPid' => '4854bd7e63d60e8a123a5819f6105394f9a3d9cb',
-    'sPid' => '0d13433f05f40c837e0ad4596b5cd649',
   ),
   677 => 
   array (
@@ -7454,10 +4746,6 @@ $TrainStationsNL = array (
     'short' => 'KWO',
     'address' => 'Wuppertal Oberbarmen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wuppertal+Oberbarmen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca33e',
-    'mPid' => '7a3f5f29ebc7b20d5e831c9acb30261867bb2e07',
-    'sPid' => '5b714934710d48db8346b14b6815d60e',
   ),
   678 => 
   array (
@@ -7465,10 +4753,6 @@ $TrainStationsNL = array (
     'short' => 'WUPPV',
     'address' => 'Wuppertal-Vohwinkel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Wuppertal-Vohwinkel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca35d',
-    'mPid' => '08ec41814ad9aef5c2ae612685e6cc2adb01096c',
-    'sPid' => '991cb8975b5b18ad5b8cd1866121962a',
   ),
   679 => 
   array (
@@ -7476,10 +4760,6 @@ $TrainStationsNL = array (
     'short' => 'WORGL',
     'address' => 'Wörgl',
     'gMaps' => 'https://www.google.nl/maps/place/Station+W%C3%B6rgl',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca37a',
-    'mPid' => '6f1fe756a91b06d93e5f44880ef7f55173a8da53',
-    'sPid' => 'b2462ca7f3b6ba5592ccd800f26bf0fe',
   ),
   680 => 
   array (
@@ -7487,10 +4767,6 @@ $TrainStationsNL = array (
     'short' => 'WURZB',
     'address' => 'Würzburg Hbf',
     'gMaps' => 'https://www.google.nl/maps/place/Station+W%C3%BCrzburg+Hbf',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca3b1',
-    'mPid' => 'f700010a56238f833529f9a0877fff36806270d8',
-    'sPid' => '1d9d9251832b8216651a942ad3ccc922',
   ),
   681 => 
   array (
@@ -7498,10 +4774,6 @@ $TrainStationsNL = array (
     'short' => 'YPB',
     'address' => 'Den Haag Ypenburg',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Den+Haag+Ypenburg',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca3f2',
-    'mPid' => 'e111144da03d6fa0754b04ee67fe43d603eaee5f',
-    'sPid' => '01310ed5ac5feb2adb84d8962941b4f1',
   ),
   682 => 
   array (
@@ -7509,10 +4781,6 @@ $TrainStationsNL = array (
     'short' => 'UTZL',
     'address' => 'Utrecht Zuilen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Utrecht+Zuilen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca415',
-    'mPid' => '14edbe54e52f8856165265737fae3b9a617d430e',
-    'sPid' => 'f13413e2830c4600862e5100fe98070c',
   ),
   683 => 
   array (
@@ -7520,10 +4788,6 @@ $TrainStationsNL = array (
     'short' => 'ZD',
     'address' => 'Zaandam',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zaandam',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca435',
-    'mPid' => '3b2cff6f631c631f4eb846fa86e1e9326c42d082',
-    'sPid' => '1407b11e0e4e98a765ab17835a5a9325',
   ),
   684 => 
   array (
@@ -7531,10 +4795,6 @@ $TrainStationsNL = array (
     'short' => 'ZDK',
     'address' => 'Zaandam Kogerveld',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zaandam+Kogerveld',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca452',
-    'mPid' => 'a68e757ceb08ead554b53efea6d65e4aa5ff85f5',
-    'sPid' => '0bf09d60ad42eaddb9108727f378d96d',
   ),
   685 => 
   array (
@@ -7542,10 +4802,6 @@ $TrainStationsNL = array (
     'short' => 'ZBM',
     'address' => 'Zaltbommel',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zaltbommel',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca471',
-    'mPid' => 'f7202d8c6750a31775bf1e85da9a7d901bfe035f',
-    'sPid' => 'edad9bff3e245a079788017021c4a1e2',
   ),
   686 => 
   array (
@@ -7553,10 +4809,6 @@ $TrainStationsNL = array (
     'short' => 'ZVT',
     'address' => 'Zandvoort aan Zee',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zandvoort+aan+Zee',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca48e',
-    'mPid' => '651f7159bd118bd7a4f6ab9ab3397e3b3b802ceb',
-    'sPid' => 'e0f84629f7332428d0fecfed24fc7564',
   ),
   687 => 
   array (
@@ -7564,10 +4816,6 @@ $TrainStationsNL = array (
     'short' => 'ZELL',
     'address' => 'Zell am See',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zell+am+See',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca4ad',
-    'mPid' => 'd992a5cac226973622f7d54e552ba412b64b24fd',
-    'sPid' => '9b439d0cf71e5a844fec4bf428a9be6c',
   ),
   688 => 
   array (
@@ -7575,10 +4823,6 @@ $TrainStationsNL = array (
     'short' => 'ZA',
     'address' => 'Zetten-Andelst',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zetten-Andelst',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca4ca',
-    'mPid' => 'a7a14c3714b7c0030feb34a0b57d8e47b617acef',
-    'sPid' => '98344e8668765ef75210913229bec360',
   ),
   689 => 
   array (
@@ -7586,10 +4830,6 @@ $TrainStationsNL = array (
     'short' => 'ZV',
     'address' => 'Zevenaar',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zevenaar',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca4e9',
-    'mPid' => 'f4622edf8c303d60a759a6b6bea9c67ac4083166',
-    'sPid' => '2e88d3204c67848715d026cfe4162c5c',
   ),
   690 => 
   array (
@@ -7597,10 +4837,6 @@ $TrainStationsNL = array (
     'short' => 'ZVB',
     'address' => 'Zevenbergen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zevenbergen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca506',
-    'mPid' => 'a99498a9491c6efaed2f94624f64d5f769a614e7',
-    'sPid' => '7b41b73b595e05cf541ca85e1e9879a4',
   ),
   691 => 
   array (
@@ -7608,10 +4844,6 @@ $TrainStationsNL = array (
     'short' => 'ZTM',
     'address' => 'Zoetermeer',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zoetermeer',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca524',
-    'mPid' => '33f7597eb6264b917c3c1379b6e883c411013a63',
-    'sPid' => '442637700262ad48ef761bf0a64f0f6a',
   ),
   692 => 
   array (
@@ -7619,10 +4851,6 @@ $TrainStationsNL = array (
     'short' => 'ZTMO',
     'address' => 'Zoetermeer Oost',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zoetermeer+Oost',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca541',
-    'mPid' => '248e9b63ca9388580797366b4f029e29c77e8b6c',
-    'sPid' => 'b8919f2cc38de784e6fc97611cea8ced',
   ),
   693 => 
   array (
@@ -7630,10 +4858,6 @@ $TrainStationsNL = array (
     'short' => 'ZB',
     'address' => 'Zuidbroek',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zuidbroek',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca55d',
-    'mPid' => '0d8ac6442bdf4cc9d216065cc919f5ebbb409b46',
-    'sPid' => '47b389511b6190f624914785afa7aee5',
   ),
   694 => 
   array (
@@ -7641,10 +4865,6 @@ $TrainStationsNL = array (
     'short' => 'ZH',
     'address' => 'Zuidhorn',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zuidhorn',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca57d',
-    'mPid' => 'c7f60a6e8d04e9a5581e60f5b4edbe503b75fbb6',
-    'sPid' => 'fa63ca251b13771efd0aba8ea0707c1e',
   ),
   695 => 
   array (
@@ -7652,10 +4872,6 @@ $TrainStationsNL = array (
     'short' => 'ZP',
     'address' => 'Zutphen',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zutphen',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca599',
-    'mPid' => 'ff9e8130d97a996c069855b5b1a654599322f37e',
-    'sPid' => 'be012a832d34f3f3024f8cdf28c86b70',
   ),
   696 => 
   array (
@@ -7663,10 +4879,6 @@ $TrainStationsNL = array (
     'short' => 'ZWW',
     'address' => 'Zwaagwesteinde',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zwaagwesteinde',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca5b9',
-    'mPid' => 'ec7398bef8505697993400b29ead607f81b34bb2',
-    'sPid' => '27d8fc1f3f6790216470e43060afc4a5',
   ),
   697 => 
   array (
@@ -7674,10 +4886,6 @@ $TrainStationsNL = array (
     'short' => 'ZWD',
     'address' => 'Zwijndrecht',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zwijndrecht',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca5d5',
-    'mPid' => 'e4bc3a590bf7d84f50a6b6b2b322428b401ce3e0',
-    'sPid' => '52671dcbef1487348b7a6aa987542560',
   ),
   698 => 
   array (
@@ -7685,10 +4893,6 @@ $TrainStationsNL = array (
     'short' => 'ZL',
     'address' => 'Zwolle',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Zwolle',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca5f5',
-    'mPid' => '55f5216d28662713ffd09faf01410cbc9c1b8d2c',
-    'sPid' => '50b202908b90ebb87bdd457dd44745df',
   ),
   699 => 
   array (
@@ -7696,10 +4900,6 @@ $TrainStationsNL = array (
     'short' => 'ZUE',
     'address' => 'Zürich HB',
     'gMaps' => 'https://www.google.nl/maps/place/Station+Z%C3%BCrich+HB',
-    'added' => '09-10-2015 21:29:23',
-    'rPid' => '561831b3ca612',
-    'mPid' => 'ccaa057aee8f81daa758aea5537e8d8abc9fd7e5',
-    'sPid' => '8d488dd9049ba6e8888fdb246ed837b5',
   ),
 );
 

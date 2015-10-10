@@ -1409,11 +1409,7 @@ for ( $i=0; $i<sizeof($ex); $i++ )
 						"station" => substr($ex2[0], 0, -1),
 						"short"   => substr($ex2[1], 0, -1),
 						"address" => substr($ex2[0], 0, -1),
-						"gMaps"   => "https://www.google.nl/maps/place/Station+" . urlencode(substr($ex2[0], 0, -1)),
-						"added"   => @date("d-m-Y H:i:s"),
-						"rPid"    => uniqid(),
-						"mPid"    => sha1(uniqid()),
-						"sPid"    => md5(uniqid())
+						"gMaps"   => "https://www.google.nl/maps/place/Station+" . urlencode(substr($ex2[0], 0, -1))
 					   );
 	}
 }
